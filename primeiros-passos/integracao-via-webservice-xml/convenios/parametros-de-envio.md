@@ -1,7 +1,3 @@
----
-layout: editorial
----
-
 # Parâmetros de envio
 
 * **Os dados (parâmetros) devem ser enviados via protocolo SOAP**
