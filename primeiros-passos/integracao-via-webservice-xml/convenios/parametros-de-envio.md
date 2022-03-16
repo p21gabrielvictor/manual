@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # Parâmetros de envio
 
 * **Os dados (parâmetros) devem ser enviados via protocolo SOAP**
@@ -20,48 +24,47 @@
     | **Instrumento**               | consulta dos instrumentos eletrônicos.                                                                                                                                              |
     | **Imagem**                    | upload de imagens do título após o envio da remessa.                                                                                                                                |
 * **Parâmetros dos serviços disponíveis:**
-*
-  *   Upload\
+*   Upload\
 
 
-      | **user\_arq**   | nome do arquivo no formato **FEBRABAN** |
-      | --------------- | --------------------------------------- |
-      | **user\_dados** | conteúdo do arquivo XML                 |
-  *   Download\
+    | **user\_arq**   | nome do arquivo no formato **FEBRABAN** |
+    | --------------- | --------------------------------------- |
+    | **user\_dados** | conteúdo do arquivo XML                 |
+*   Download\
 
 
-      | **user\_arq** | nome do arquivo no formato **FEBRABAN** |
-      | ------------- | --------------------------------------- |
-  *   Homologadas\
+    | **user\_arq** | nome do arquivo no formato **FEBRABAN** |
+    | ------------- | --------------------------------------- |
+*   Homologadas\
 
 
-      | **codapres** | informar o código do apresentante |
-      | ------------ | --------------------------------- |
-  *   Consulta\
+    | **codapres** | informar o código do apresentante |
+    | ------------ | --------------------------------- |
+*   Consulta\
 
 
-      | **nosso\_numero**  | nosso número do título no CRA21 |
-      | ------------------ | ------------------------------- |
-      | **numero\_titulo** | número do título no CRA21       |
-  *   Consulta\_Slip\
+    | **nosso\_numero**  | nosso número do título no CRA21 |
+    | ------------------ | ------------------------------- |
+    | **numero\_titulo** | número do título no CRA21       |
+*   Consulta\_Slip\
 
 
-      | **cod\_municipio**  | nome do arquivo no formato **FEBRABAN** |
-      | ------------------- | --------------------------------------- |
-      | **cod\_cartorio**   | conteúdo do arquivo XML                 |
-      | **protocolo**       | conteúdo do arquivo XML                 |
-      | **data\_protocolo** | conteúdo do arquivo XML                 |
-  *   Instrumento\
+    | **cod\_municipio**  | nome do arquivo no formato **FEBRABAN** |
+    | ------------------- | --------------------------------------- |
+    | **cod\_cartorio**   | conteúdo do arquivo XML                 |
+    | **protocolo**       | conteúdo do arquivo XML                 |
+    | **data\_protocolo** | conteúdo do arquivo XML                 |
+*   Instrumento\
 
 
-      | **userArq** | formato informado em **Download e Consulta** |
-      | ----------- | -------------------------------------------- |
-  *   Imagem\
+    | **userArq** | formato informado em **Download e Consulta** |
+    | ----------- | -------------------------------------------- |
+*   Imagem\
 
 
-      | **userArq**   | nome do arquivo no formato **FEBRABAN**         |
-      | ------------- | ----------------------------------------------- |
-      | **userDados** | conteúdo do arquivo XML em **Envio de Imagens** |
+    | **userArq**   | nome do arquivo no formato **FEBRABAN**         |
+    | ------------- | ----------------------------------------------- |
+    | **userDados** | conteúdo do arquivo XML em **Envio de Imagens** |
 * **O encoding do XML deve corresponder com ISO-8859-1.**
 * **Assim como no HTML, o XML possui entidades, que devem ser substituídas conforme tabela abaixo:**
   * | **De** | **Para** |
