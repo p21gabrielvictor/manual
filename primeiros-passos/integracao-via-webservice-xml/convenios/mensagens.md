@@ -357,7 +357,7 @@ Esse modo de mensagem é ativado por parâmetro interno do sistema devido ao imp
 | 2019       | FALTOU INFORMAR A TAG: CODMUN                                                               |
 | 2020       | FALTOU INFORMAR A TAG: NUMERO\_CARTORIO                                                     |
 | 2021       | FALTOU INFORMAR A TAG: TITULO                                                               |
-| 2022       |  FALTOU INFORMAR A TAG: CARTORIO                                                            |
+| 2022       | FALTOU INFORMAR A TAG: CARTORIO                                                             |
 | 2023       | FALTOU INFORMAR A TAG: CANCELAMENTO                                                         |
 | 2024       | FALTOU INFORMAR A TAG: DESISTENCIA                                                          |
 | 2025       | FALTOU INFORMAR A TAG: AUTORIZACAO                                                          |
@@ -377,13 +377,14 @@ Esse modo de mensagem é ativado por parâmetro interno do sistema devido ao imp
 
 **Retorno**
 
-| **CÓDIGO** | **DESCRIÇÃO**                                                                             |
-| ---------- | ----------------------------------------------------------------------------------------- |
-| 0001       | FALHA NA AUTENTICAÇÃO                                                                     |
-| 0002       | NOME DO ARQUIVO INVÁLIDO                                                                  |
-| 0004       | NÃO EXISTE RETORNO NA DATA INFORMADA.                                                     |
-| 0009       | A INSTITUIÇÃO (XXX) DO USUÁRIO ESTÁ INATIVA                                               |
-| 2163       | Já foi enviado arquivo de retorno com o sequencial (XXXX) para o apresentante XXXX (XXXX) |
+| **CÓDIGO** | **DESCRIÇÃO**                                                                                                    |
+| ---------- | ---------------------------------------------------------------------------------------------------------------- |
+| 0001       | FALHA NA AUTENTICAÇÃO                                                                                            |
+| 0002       | NOME DO ARQUIVO INVÁLIDO                                                                                         |
+| 0004       | NÃO EXISTE RETORNO NA DATA INFORMADA.                                                                            |
+| 0009       | A INSTITUIÇÃO (XXX) DO USUÁRIO ESTÁ INATIVA                                                                      |
+| 2163       | Já foi enviado arquivo de retorno com o sequencial (XXXX) para o apresentante XXXX (XXXX)                        |
+| 2316       | Custas do cartório/distribuidor não podem ser informadas para títulos sem pedido de desistência. Protocolo: XXX. |
 
 **Consulta slip**
 
