@@ -377,14 +377,15 @@ Esse modo de mensagem é ativado por parâmetro interno do sistema devido ao imp
 
 **Retorno**
 
-| **CÓDIGO** | **DESCRIÇÃO**                                                                                                    |
-| ---------- | ---------------------------------------------------------------------------------------------------------------- |
-| 0001       | FALHA NA AUTENTICAÇÃO                                                                                            |
-| 0002       | NOME DO ARQUIVO INVÁLIDO                                                                                         |
-| 0004       | NÃO EXISTE RETORNO NA DATA INFORMADA.                                                                            |
-| 0009       | A INSTITUIÇÃO (XXX) DO USUÁRIO ESTÁ INATIVA                                                                      |
-| 2163       | Já foi enviado arquivo de retorno com o sequencial (XXXX) para o apresentante XXXX (XXXX)                        |
-| 2316       | Custas do cartório/distribuidor não podem ser informadas para títulos sem pedido de desistência. Protocolo: XXX. |
+| **CÓDIGO** | **DESCRIÇÃO**                                                                                                                           |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 0001       | FALHA NA AUTENTICAÇÃO                                                                                                                   |
+| 0002       | NOME DO ARQUIVO INVÁLIDO                                                                                                                |
+| 0004       | NÃO EXISTE RETORNO NA DATA INFORMADA.                                                                                                   |
+| 0009       | A INSTITUIÇÃO (XXX) DO USUÁRIO ESTÁ INATIVA                                                                                             |
+| 2163       | Já foi enviado arquivo de retorno com o sequencial (XXXX) para o apresentante XXXX (XXXX)                                               |
+| 2316       | Custas do cartório/distribuidor não podem ser informadas para títulos sem pedido de desistência. Protocolo: (XXX).                      |
+| 2317       | Existem títulos no arquivo de retorno com informação de devedor secundário protocolo (XXX) ou nosso número (XXX) para o cartório (XXX). |
 
 **Consulta slip**
 
