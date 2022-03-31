@@ -33,6 +33,7 @@
     * [Exemplos de arquivos](primeiros-passos/integracao-via-webservice-xml/cartorios-distribuidores/exemplos-de-arquivos.md)
     * [Envio de imagens](primeiros-passos/integracao-via-webservice-xml/cartorios-distribuidores/envio-de-imagens.md)
     * [Mensagens](primeiros-passos/integracao-via-webservice-xml/cartorios-distribuidores/mensagens.md)
+* [Plataforma de Convênios](primeiros-passos/plataforma-de-convenios.md)
 * [Fluxo do Negócio](primeiros-passos/fluxo-do-negocio/README.md)
   * [Envio de Remessa](primeiros-passos/fluxo-do-negocio/envio-de-remessa.md)
   * [Envio de Confirmação](primeiros-passos/fluxo-do-negocio/envio-de-confirmacao.md)
