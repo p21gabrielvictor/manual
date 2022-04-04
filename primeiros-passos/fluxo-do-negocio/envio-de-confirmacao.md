@@ -34,3 +34,7 @@ O apresentante deverá definir qual opção irá utilizar e implementar seguindo
 Após coletar o arquivo de confirmação na CRA, o apresentante deverá aguardar o recebimento do arquivo de retorno. Este arquivo será enviado pelo cartório após solução do título no cartório.
 
 **Clique em cima do slide para ver o fluxo.**
+
+{% embed url="https://docs.google.com/presentation/d/10NtWgBdkNbTCegzx0tRb1lQphMCEg1lQ/edit?ouid=113548925962906305703&rtpof=true&sd=true&usp=sharing" %}
+
+{% embed url="https://docs.google.com/presentation/d/1g8JZ0WO4uHxr9Xx9xes-8rePHlGhDjHD/edit?ouid=113548925962906305703&rtpof=true&sd=true&usp=sharing" %}
