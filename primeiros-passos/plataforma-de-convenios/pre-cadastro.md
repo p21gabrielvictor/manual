@@ -1,8 +1,6 @@
 # Pré cadastro
 
-As empresas que querem se tornar conveniadas, realizarão um pré-cadastro no site do Instituto, onde serão captados os seguintes dados: Destino do título, volume de títulos e espécie.\
-\
-
+As empresas que querem se tornar conveniadas, realizarão um pré-cadastro no site do Instituto, onde serão captados os seguintes dados: Destino do título, volume de títulos e espécie.
 
 ![](../../.gitbook/assets/01.png)
 
