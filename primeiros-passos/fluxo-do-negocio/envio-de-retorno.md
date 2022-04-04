@@ -32,4 +32,4 @@ Com a coleta da informação de retorno do título, finaliza-se o ciclo de vida 
 
 **Clique em cima do slide para ver o fluxo.**
 
-{% embed url="https://docs.google.com/presentation/d/1dy_HRPobMpwy-2e4TclL1DWQiUORlsF4/edit#slide=id.p1" %}
+{% embed url="https://docs.google.com/presentation/d/1dy_HRPobMpwy-2e4TclL1DWQiUORlsF4/edit?ouid=113548925962906305703&rtpof=true&sd=true&usp=sharing" %}
