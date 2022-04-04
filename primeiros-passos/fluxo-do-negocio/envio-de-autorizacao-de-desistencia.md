@@ -13,4 +13,6 @@ O envio da desistência segue o seguinte fluxo.
 2. A CRA identifica para qual cartório deverá enviar a autorização de desistência.
 3. O devedor comparece ao cartório para que a suspensão do procedimento de protesto seja efetivada.
 
-&#x20;**Clique em cima do slide para ver o fluxo.**
+**Clique em cima do slide para ver o fluxo.**
+
+{% embed url="https://docs.google.com/presentation/d/1DC_-7GtDoQW1yAG_5qpX_9wnBOPcLObW/edit?ouid=113548925962906305703&rtpof=true&sd=true&usp=sharing" %}

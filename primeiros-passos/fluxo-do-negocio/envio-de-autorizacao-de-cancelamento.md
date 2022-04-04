@@ -13,4 +13,6 @@ O envio da autorização de cancelamento segue o seguinte fluxo.
 2. A CRA identifica para qual cartório deverá enviar a autorização de cancelamento.
 3. O devedor comparece ao cartório para que o cancelamento do protesto seja efetivado.
 
-&#x20;**Clique em cima do slide para ver o fluxo.**
+**Clique em cima do slide para ver o fluxo.**
+
+{% embed url="https://docs.google.com/presentation/d/1PEJnEseg8nY82Mn_nWMc_wsOaCqa43s1/edit?ouid=113548925962906305703&rtpof=true&sd=true&usp=sharing" %}

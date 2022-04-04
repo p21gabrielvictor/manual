@@ -16,4 +16,6 @@ O envio da desistência segue o seguinte fluxo.
 2. A CRA identifica para qual cartório deverá enviar a desistência.
 3. Após fazer o envio da desistência, o apresentante deverá aguardar o recebimento do arquivo de retorno. Este arquivo poderá ser recebido no mesmo dia ou nos dias seguintes.
 
-&#x20;**Clique em cima do slide para ver o fluxo.**
+**Clique em cima do slide para ver o fluxo.**
+
+{% embed url="https://docs.google.com/presentation/d/1438DIqypvUpGa-Dt8Zl9eqtf6ZEIZ7tm/edit?ouid=113548925962906305703&rtpof=true&sd=true&usp=sharing" %}
