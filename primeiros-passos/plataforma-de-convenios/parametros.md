@@ -2,11 +2,11 @@
 
 No menu “Parâmetros” a CRA poderá personalizar algumas opções:
 
-![](http://manual.crabr.com.br/manual/wp-content/uploads/2020/04/plataforma-de-convenios.jpg)
+![](../../.gitbook/assets/plataforma-de-convenios.jpg)
 
 **Previsão de retorno:** A previsão poderá ser personalizada e a mensagem será apresentada para a empresa conforme definido no parâmetro.
 
-![](http://manual.crabr.com.br/manual/wp-content/uploads/2020/04/cadastro-recebido-com-sucesso.png)
+![](../../.gitbook/assets/05.png)
 
 &#x20;****&#x20;
 
@@ -18,7 +18,7 @@ Se o endereço for diferente, um formulário será disponibilizado para que ele 
 
 **Senha igual ao login:** Informe senha será igual ao login no cadastro do usuário do convênio do CRA21.
 
-![](http://manual.crabr.com.br/manual/wp-content/uploads/2020/04/parametros.jpg)
+![](../../.gitbook/assets/parametros.jpg)
 
 &#x20;****&#x20;
 
@@ -26,4 +26,4 @@ Se o endereço for diferente, um formulário será disponibilizado para que ele 
 
 A CRA poderá inserir documentos, que serão disponibilizados para download e um link, na última etapa do pré-cadastro.
 
-![](http://manual.crabr.com.br/manual/wp-content/uploads/2020/04/ja-e-conveniado-1.png)
+![](../../.gitbook/assets/ja-e-conveniado-1.png)
