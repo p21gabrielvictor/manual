@@ -35,6 +35,8 @@ Após coletar o arquivo de confirmação na CRA, o apresentante deverá aguardar
 
 **Clique em cima do slide para ver o fluxo.**
 
-{% embed url="https://docs.google.com/presentation/d/10NtWgBdkNbTCegzx0tRb1lQphMCEg1lQ/edit?ouid=113548925962906305703&rtpof=true&sd=true&usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/10NtWgBdkNbTCegzx0tRb1lQphMCEg1lQ/edit#slide=id.p1" %}
 
-{% embed url="https://docs.google.com/presentation/d/1g8JZ0WO4uHxr9Xx9xes-8rePHlGhDjHD/edit?ouid=113548925962906305703&rtpof=true&sd=true&usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1g8JZ0WO4uHxr9Xx9xes-8rePHlGhDjHD/edit#slide=id.p1" %}
+
+Para confirmar a recepção do arquivou ver o log de erro você pode ir em [Download e Upload](http://manual.crabr.com.br/manual/?p=222).
