@@ -2,7 +2,7 @@
 
 **Contratos**
 
-![](http://manual.crabr.com.br/manual/wp-content/uploads/2020/04/menu-contratos.png)
+![](../../.gitbook/assets/09.png)
 
 &#x20;
 
