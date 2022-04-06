@@ -14,4 +14,7 @@ E possível também fazer a impressão da ficha do título(utilizado por cartór
 
 ![](../../.gitbook/assets/image.png)
 
-O título pode ter associado a ele imagens digitalizadas do título físico. Para inserir uma imagem no título ou consultar a imagem, basta clicar no ícone ![](<../../.gitbook/assets/image (3).png>)
+O título pode ter associado a ele imagens digitalizadas do título físico. Para inserir uma imagem no título ou consultar a imagem, basta clicar no ícone ![](<../../.gitbook/assets/image (3) (1).png>).\
+
+
+![](<../../.gitbook/assets/image (9).png>)
