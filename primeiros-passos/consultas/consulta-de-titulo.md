@@ -4,7 +4,7 @@ A consulta de título é utilizada para pesquisar títulos enviados à CRA. As i
 
 É possível saber também em qual cartório o título se encontra e qual é a situação do título na CRA como: _ENVIADO, DEVOLVIDO, CONFIRMADO_ ou _RETORNADO_.
 
-![](<../../.gitbook/assets/Campos para consulta (2).png>)
+![](<../../.gitbook/assets/Campos para consulta (2) (1).png>)
 
 Para visualizar as demais informações referentes ao título como: data de confirmação, data de retorno, custas do título ou valores de repasse, basta clicar no ícone. ![](<../../.gitbook/assets/image (22).png>)
 

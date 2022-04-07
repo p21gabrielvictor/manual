@@ -10,3 +10,5 @@ Exemplos de Ocorrência:
 * Protestado
 * Retirado
 * Devolvido
+
+![](<../../.gitbook/assets/Campos para consulta (2).png>)
