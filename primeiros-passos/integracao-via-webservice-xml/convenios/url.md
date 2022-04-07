@@ -1,14 +1,13 @@
 # URL
 
-**Homologação (ambiente de testes):** _cra**UF**.cra21.com.br/cra**UF**/xml/protestos.php?wsdl_&#x20;
-
+**Homologação (ambiente de testes):** _cra**UF**.cra21.com.br/cra**UF**/xml/protestos.php?wsdl_ \
 **Exemplo:** _https://cra**df**.cra21.com.br/cra**df**/xml/protestos.php?wsdl_
 
 {% hint style="warning" %}
 _<mark style="color:red;background-color:yellow;">**ATENÇÃO**</mark><mark style="color:red;background-color:yellow;">: no ambiente de homologação utilizar o protocolo</mark>  <mark style="color:red;background-color:yellow;">**HTTPS**</mark>_
 {% endhint %}
 
-**Produção (ambiente de funcionamento do sistema):** _cra**UF**.crabr.com.br/cra**UF**/xml/protestos.php?wsdl_ \
+**Produção(ambiente de funcionamento do sistema):** _cra**UF**.crabr.com.br/cra**UF**/xml/protestos.php?wsdl_\
 **Exemplo:** _https://cra**df**.crabr.com.br/cra**df**/xml/protestos.php?wsdl_
 
 {% hint style="warning" %}
