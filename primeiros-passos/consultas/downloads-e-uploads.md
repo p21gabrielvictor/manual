@@ -7,7 +7,7 @@ O sistema utiliza linguagem visual para facilitar a identificação do status do
 * <mark style="color:green;">**Arquivo enviado ou baixado**</mark> — significa que o upload ou download do arquivo foi realizado com sucesso.
 * <mark style="color:red;">**Erro no envio do arquivo**</mark> — significa que o sistema recusou o arquivo.
 * <mark style="color:orange;">**Arquivo enviado com exceção**</mark> — significa que o upload do arquivo foi aceito, mas parcialmente, ou seja, parte das informações foram aceitas e outras não.
-* Envio do arquivo cancelado — significa que o usuário cancelou o arquivo enviado.
+* **Envio do arquivo cancelado** — significa que o usuário cancelou o arquivo enviado.
 * <mark style="color:blue;">Arquivo parcialmente ou totalmente excluído</mark> — significa que o usuário excluiu o arquivo enviado.
 
 ![](<../../.gitbook/assets/Campos para consulta.png>)
