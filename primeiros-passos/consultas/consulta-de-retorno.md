@@ -15,6 +15,11 @@ Exemplos de Ocorrência:
 
 ![](<../../.gitbook/assets/Campos para consulta (3).png>)
 
-Para acessar informações complementares do título como: data de confirmação, custas do título ou valores de repasse, basta clicar no ícone. ![](<../../.gitbook/assets/image (26).png>)
+Para acessar informações complementares do título como: data de confirmação, custas do título ou valores de repasse, basta clicar no ícone. ![](<../../.gitbook/assets/image (26) (1).png>)
 
 ![](<../../.gitbook/assets/image (3).png>)
+
+Caso o sistema apresente na consulta o ícone![](<../../.gitbook/assets/image (11).png>), significa que o retorno do título foi aceito pelo sistema, mas que não foi identificado a remessa de origem do título. Para este caso o sistema apresenta uma tela de informações complementares, resumida, basta clicar no ícone![](<../../.gitbook/assets/image (34).png>).\
+
+
+![](<../../.gitbook/assets/image (2).png>)

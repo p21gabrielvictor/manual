@@ -54,3 +54,5 @@
   * [Downloads e Uploads](primeiros-passos/consultas/downloads-e-uploads.md)
   * [Consulta de título](primeiros-passos/consultas/consulta-de-titulo.md)
   * [Consulta de retorno](primeiros-passos/consultas/consulta-de-retorno.md)
+  * [Consulta de desistência](primeiros-passos/consultas/consulta-de-desistencia.md)
+  * [Consulta de cancelamento](primeiros-passos/consultas/consulta-de-cancelamento.md)
