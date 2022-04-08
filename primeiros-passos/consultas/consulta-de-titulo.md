@@ -6,7 +6,7 @@ A consulta de título é utilizada para pesquisar títulos enviados à CRA. As i
 
 ![](<../../.gitbook/assets/Campos para consulta (2) (1).png>)
 
-Para visualizar as demais informações referentes ao título como: data de confirmação, data de retorno, custas do título ou valores de repasse, basta clicar no ícone. ![](<../../.gitbook/assets/image (22).png>)
+Para visualizar as demais informações referentes ao título como: data de confirmação, data de retorno, custas do título ou valores de repasse, basta clicar no ícone. ![](<../../.gitbook/assets/image (22) (1).png>)
 
 ![](<../../.gitbook/assets/image (40).png>)
 

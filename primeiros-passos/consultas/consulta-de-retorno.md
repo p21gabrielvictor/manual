@@ -15,7 +15,7 @@ Exemplos de Ocorrência:
 
 ![](<../../.gitbook/assets/Campos para consulta (3).png>)
 
-Para acessar informações complementares do título como: data de confirmação, custas do título ou valores de repasse, basta clicar no ícone. ![](<../../.gitbook/assets/image (26) (1).png>)
+Para acessar informações complementares do título como: data de confirmação, custas do título ou valores de repasse, basta clicar no ícone. ![](<../../.gitbook/assets/image (26) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (3).png>)
 

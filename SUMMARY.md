@@ -56,3 +56,4 @@
   * [Consulta de retorno](primeiros-passos/consultas/consulta-de-retorno.md)
   * [Consulta de desistência](primeiros-passos/consultas/consulta-de-desistencia.md)
   * [Consulta de cancelamento](primeiros-passos/consultas/consulta-de-cancelamento.md)
+  * [Consulta de autorização](primeiros-passos/consultas/consulta-de-autorizacao.md)
