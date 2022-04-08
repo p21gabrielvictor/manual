@@ -57,3 +57,8 @@
   * [Consulta de desistência](primeiros-passos/consultas/consulta-de-desistencia.md)
   * [Consulta de cancelamento](primeiros-passos/consultas/consulta-de-cancelamento.md)
   * [Consulta de autorização](primeiros-passos/consultas/consulta-de-autorizacao.md)
+* [Documentação](primeiros-passos/documentacao/README.md)
+  * [Apresentante](primeiros-passos/documentacao/apresentante/README.md)
+    * [Instruções Gerais](primeiros-passos/documentacao/apresentante/instrucoes-gerais.md)
+  * [Cartórios](primeiros-passos/documentacao/cartorios.md)
+  * [CRA](primeiros-passos/documentacao/cra.md)
