@@ -23,7 +23,7 @@ Arquivo pdf assinado em p7s referente ao título de protocolo 00256 de 12/03/201
 * Caso o arquivo não esteja assinado, é possível assiná-lo no momento do upload;
 * Arquivos em PDF assinado devem ser enviados zipados
 
-![](<../../../.gitbook/assets/image (31).png>)
+![](<../../../.gitbook/assets/image (31) (1).png>)
 
 **Envio no retorno por web service (XML)**
 
@@ -47,7 +47,7 @@ Além dessas opções, existem outras específicas para CRA e Apresentante.
 
 Download das imagens com ou sem assinatura na tela Retorno/Download retorno.
 
-![](<../../../.gitbook/assets/image (36).png>)
+![](<../../../.gitbook/assets/image (36) (1).png>)
 
 #### CRA
 

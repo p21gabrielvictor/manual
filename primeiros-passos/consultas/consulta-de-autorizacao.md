@@ -10,11 +10,11 @@ O sistema utiliza uma linguagem visual para facilitar a identificação da situa
 
 ![](<../../.gitbook/assets/Campos para consulta .png>)
 
-Para visualizar informações complementares do título da autorização como: data de confirmação, data de retorno, custas do título ou valores de repasse, basta clicar no ícone <img src="../../.gitbook/assets/image (26).png" alt="" data-size="line">.&#x20;
+Para visualizar informações complementares do título da autorização como: data de confirmação, data de retorno, custas do título ou valores de repasse, basta clicar no ícone <img src="../../.gitbook/assets/image (26) (1).png" alt="" data-size="line">.&#x20;
 
 ![](<../../.gitbook/assets/image (12) (1).png>)
 
-É possível também fazer a consulta da autorização de desistência/cancelamento, basta clicar no ícone <img src="../../.gitbook/assets/image (4).png" alt="" data-size="line">.\
+É possível também fazer a consulta da autorização de desistência/cancelamento, basta clicar no ícone <img src="../../.gitbook/assets/image (4) (1).png" alt="" data-size="line">.\
 
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (18) (1).png>)

@@ -12,8 +12,8 @@ O sistema utiliza linguagem visual para facilitar a identificação do status do
 
 ![](<../../.gitbook/assets/Campos para consulta.png>)
 
-Para visualizar o log com informações complementares do upload ou download, basta clicar no ícone <img src="../../.gitbook/assets/image (28).png" alt="" data-size="line">
+Para visualizar o log com informações complementares do upload ou download, basta clicar no ícone <img src="../../.gitbook/assets/image (28) (1).png" alt="" data-size="line">
 
 ![](<../../.gitbook/assets/image (12) (1) (1) (1).png>)
 
-O sistema grava o arquivo original que foi feito o download ou upload, basta clicar no ícone <img src="../../.gitbook/assets/image (6).png" alt="" data-size="line">, para ter acesso ao arquivo.
+O sistema grava o arquivo original que foi feito o download ou upload, basta clicar no ícone <img src="../../.gitbook/assets/image (6) (1).png" alt="" data-size="line">, para ter acesso ao arquivo.
