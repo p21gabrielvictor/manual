@@ -24,3 +24,5 @@
 | VALOR       | NÃO             | Campo do tipo valor que deverá ser preenchido com o valor do título. |
 {% endtab %}
 {% endtabs %}
+
+#### **``**[<mark style="color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/Exemplo\_Autoriza%C3%A7%C3%A3o\_Cancelamento.xlsx?raw=true)<mark style="color:green;">**``**</mark>
