@@ -38,7 +38,7 @@ Arquivo pdf assinado em p7s referente ao título de protocolo 00256 de 12/03/201
 * Para mais informações sobre integração, acesse a [ documentação de web service para cartórios .](../../integracao-via-webservice-xml/cartorios-distribuidores/envio-de-imagens.md)
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Recepção / Consulta" %}
 Para apresentantes, CRA e cartórios, é possível verificar o instrumento na tela de cadastro de imagem em “**Consulta título**" ou “**Consulta retorno**“.
 
 Além dessas opções, existem outras específicas para CRA e Apresentante.
@@ -56,7 +56,7 @@ A CRA pode fazer a impressão dos instrumentos através do menu Impressão/Impre
 ![](<../../../.gitbook/assets/image (17).png>)
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="Validação / Autenticidade" %}
 A validação do instrumento eletrônico pode ser feita de dois modos:
 
 * Selo eletrônico do tribunal;
