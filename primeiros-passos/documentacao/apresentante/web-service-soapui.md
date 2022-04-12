@@ -24,12 +24,9 @@ Para realizar testes de conexão com o **Web Service**  da CRA utilizando a ferr
 
 ![](<../../../.gitbook/assets/image (33).png>)
 
-**6.º após isso clique no botão play na parte superior, o sistema irá mostra o resultado da sua requisição na parte lateral direita RAW/XML.**
+**6.º Após isso clique no botão play na parte superior, o sistema irá mostra o resultado da sua requisição na parte lateral direita RAW/XML.**
 
 {% hint style="info" %}
-**Para o envio de remessa no conteúdo utilizar:**&#x20;
+**Para enviar os dados do arquivo utilizar a tag abaixo:** \
+****\<!\[CDATA\[inserir aqui no formato XML o conteudo da remessa]]>
 {% endhint %}
-
-```xml
-<![CDATA[inserir aqui no formato XML o conteudo da remessa]]>
-```
