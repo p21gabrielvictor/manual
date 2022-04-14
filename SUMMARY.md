@@ -29,7 +29,7 @@
     * [Nomenclatura de arquivos](primeiros-passos/integracao-via-webservice-xml/cartorios-distribuidores/nomenclatura-de-arquivos.md)
     * [Estrutura de arquivos](primeiros-passos/integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/README.md)
       * [Remessa](primeiros-passos/integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/remessa.md)
-      * [Emolumentos](primeiros-passos/integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/emolumentos.md)
+      * [Custas títulos](primeiros-passos/integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/emolumentos.md)
     * [Envio de arquivos](primeiros-passos/integracao-via-webservice-xml/cartorios-distribuidores/envio-de-arquivos.md)
     * [Download e Consulta](primeiros-passos/integracao-via-webservice-xml/cartorios-distribuidores/download-e-consulta.md)
     * [Exemplos de arquivos](primeiros-passos/integracao-via-webservice-xml/cartorios-distribuidores/exemplos-de-arquivos.md)

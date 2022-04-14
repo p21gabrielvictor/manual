@@ -85,7 +85,7 @@
 **CUSTAS TÍTULO**
 
 * **E000DDM.AAS**
-  * **E:** constante que indica ser arquivo de emolumentos;
+  * **E:** constante que indica ser arquivo de custa do título;
   * **000:** constante zero, pois não há apresentante definido;
   * **DD:** dia;
   * **MM:** mês;
