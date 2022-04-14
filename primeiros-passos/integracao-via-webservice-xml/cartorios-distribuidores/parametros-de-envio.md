@@ -1,7 +1,5 @@
 # Parâmetros de envio
 
-
-
 * **Os dados (parâmetros) devem ser enviados via protocolo SOAP**
 
 Todos os arquivos enviados ou recebidos nos serviços devem estar em conformidade com o padrão FEBRABAN XML.
@@ -11,39 +9,38 @@ Todos os arquivos enviados ou recebidos nos serviços devem estar em conformidad
   * Após a autenticação serão validados os parâmetros de entrada e por último a crítica do arquivo
 * **Serviços disponíveis:**
 
-| **Remessa**             | Download do arquivo de remessa.                                  |
-| ----------------------- | ---------------------------------------------------------------- |
-| **RemessaPendente**     | Download de arquivo de remessa ainda não baixado.                |
-| **Confirmacao**         | Upload do arquivo de confirmação.                                |
-| **Retorno**             | Upload do arquivo de retorno.                                    |
-| **Desistencia**         | Download do arquivo de desistência.                              |
-| **Cancelamento**        | Download do arquivo de cancelamento.                             |
-| **Autorizacao**         | Download do arquivo de autorização (desistência e cancelamento). |
-| **BuscarApresentante**  | Download de apresentantes ativos no município.                   |
-| **SalvarSituacao**      | Salva os dados da situação do título na CRA.                     |
-| **BuscarSituacao**      | Busca a situação do título na CRA.                               |
-| **Imagem**              | Upload das imagens dos instrumentos de protesto.                 |
-| **ConsultaSlip**        | Serviço para consulta do código/nome da agência do cedente.      |
-| **ConsultaAutorizacao** | Consulta uma autorização específica de um título.                |
-| **ConsultaImagem**      | Consulta os arquivos de imagem de um título.                     |
-
-
+| **Remessa**                                                                                                                                                                                                                                                                                                                          | Download do arquivo de remessa.                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| **RemessaPendente**                                                                                                                                                                                                                                                                                                                  | Download de arquivo de remessa ainda não baixado.                |
+| **Confirmacao**                                                                                                                                                                                                                                                                                                                      | Upload do arquivo de confirmação.                                |
+| **Retorno**                                                                                                                                                                                                                                                                                                                          | Upload do arquivo de retorno.                                    |
+| **Desistencia**                                                                                                                                                                                                                                                                                                                      | Download do arquivo de desistência.                              |
+| **Cancelamento**                                                                                                                                                                                                                                                                                                                     | Download do arquivo de cancelamento.                             |
+| **Autorizacao**                                                                                                                                                                                                                                                                                                                      | Download do arquivo de autorização (desistência e cancelamento). |
+| **BuscarApresentante**                                                                                                                                                                                                                                                                                                               | Download de apresentantes ativos no município.                   |
+| **SalvarSituacao**                                                                                                                                                                                                                                                                                                                   | Salva os dados da situação do título na CRA.                     |
+| **BuscarSituacao**                                                                                                                                                                                                                                                                                                                   | Busca a situação do título na CRA.                               |
+| **Imagem**                                                                                                                                                                                                                                                                                                                           | Upload das imagens dos instrumentos de protesto.                 |
+| **ConsultaSlip**                                                                                                                                                                                                                                                                                                                     | Serviço para consulta do código/nome da agência do cedente.      |
+| <mark style="color:green;">****</mark>[<mark style="color:green;">**CustasTitulo**</mark>](https://app.gitbook.com/s/W4AwFUGWy0cHvoDVb3Jx/\~/changes/AYjSRSQtKbdfrfMG5VfK/primeiros-passos/integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/emolumentos)<mark style="color:green;">****</mark> | Serviço para informar os emolumentos do título.                  |
+| **ConsultaAutorizacao**                                                                                                                                                                                                                                                                                                              | Consulta uma autorização específica de um título.                |
+| **ConsultaImagem**                                                                                                                                                                                                                                                                                                                   | Consulta os arquivos de imagem de um título.                     |
 
 **Parâmetros dos serviços disponíveis:**\
-&#x20;     \
-&#x20;        Upload
+\
+Upload
 
 | **user\_arq**   | Nome do arquivo no formato **FEBRABAN.** |
 | --------------- | ---------------------------------------- |
 | **user\_dados** | Conteúdo do arquivo XML.                 |
 
-&#x20;       Download
+Download
 
 | **user\_arq**      | Nome do arquivo no formato **FEBRABAN.**                                                                                |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------- |
 | **downloadImagem** | Parâmetro opcional utilizado somente no serviço de “Remessa". Indica se a remessa retornará com as imagens dos títulos. |
 
-&#x20;        SalvarSituacao / BuscarSituacao
+SalvarSituacao / BuscarSituacao
 
 | **protocoloCartorio** | Informar o código do cartório.       |
 | --------------------- | ------------------------------------ |

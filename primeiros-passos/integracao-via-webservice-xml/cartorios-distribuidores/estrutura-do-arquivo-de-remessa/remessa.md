@@ -1,8 +1,6 @@
-# Estrutura do arquivo de remessa
+# Remessa
 
 #### REGISTRO HEADER – ARQUIVO REMESSA (Tag hd)
-
-
 
 | _**Atributo**_ | _**Descrição**_                                                    | _**Tamanho**_ | _**Tipo**_   | _**Casas Decimais**_ |
 | -------------- | ------------------------------------------------------------------ | ------------- | ------------ | -------------------- |
@@ -25,6 +23,8 @@
 | h17            | Sequencial do registro                                             | 004           | Numérico     | Nenhuma              |
 
 **REGISTRO DE TRANSAÇÃO – ARQUIVO REMESSA (Tag tr)**
+
+****
 
 | **Atributo** | _**Descrição**_                                                      | _**Tam**_**anho** | _**Tipo**_   | _**Casas Decimais**_ |
 | ------------ | -------------------------------------------------------------------- | ----------------- | ------------ | -------------------- |
@@ -82,6 +82,8 @@
 | t52          | Sequencial do registro                                               | 004               |              | Numérico             |
 
 **REGISTRO DE TRAILLER – ARQUIVO REMESSA (Tag tl)**
+
+****
 
 | **Atributo** | _**Descrição**_                                                                     | _**Tam**_**anho** | _**Tipo**_   | _**Casas Decimais**_ |
 | ------------ | ----------------------------------------------------------------------------------- | ----------------- | ------------ | -------------------- |

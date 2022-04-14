@@ -1,6 +1,6 @@
 # Desistência
 
-<mark style="color:green;">**``**</mark>[<mark style="color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO\_DP\_CP\_AD\_AC.zip?raw=true)<mark style="color:green;">**``**</mark>
+<mark style="color:green;">**``**</mark>[<mark style="color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO\_DP-CP-AC-AD\_XML.zip?raw=true)<mark style="color:green;">**``**</mark>
 
 | **Descrição**                                                                                                                                                                                                                                                           | **Tamanho** | **Tipo**     | **Casas Decimais** | **Atributo**         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------ | ------------------ | -------------------- |

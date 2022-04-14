@@ -8,7 +8,7 @@
   * **DD:** dia;
   * **MM:** mês;
   * **AA:** ano de referência;
-  * **S:** sequencial do arquivo (mínimo 1, máximo 9).Ex: B3412401.141 (Arquivo do Itaú de 24/01/2014 e sequencial 1).**Obs**: o campo “NNN” pode ser alterado para mais posições no caso de apresentantes conveniados que **não** são bancos.
+  * **S:** sequencial do arquivo (mínimo 1, máximo 9).Ex: B3412401.221 (Arquivo do Itaú de 24/01/2022 e sequencial 1).**Obs**: o campo “NNN” pode ser alterado para mais posições no caso de apresentantes conveniados que **não** são bancos.
 
 **CONFIRMAÇÃO**
 
@@ -18,7 +18,7 @@
   * **DD:** dia;
   * **MM:** mês;
   * **AA:** ano de referência;
-  * **S:** sequencial do arquivo (mínimo 1, máximo 9).Ex: C3412401.141 (Arquivo do Itaú de 24/01/2014 e sequencial 1).**Obs**: o campo “NNN” pode ser alterado para mais posições no caso de apresentantes conveniados que **não** são bancos.
+  * **S:** sequencial do arquivo (mínimo 1, máximo 9).Ex: C3412401.221 (Arquivo do Itaú de 24/01/2022 e sequencial 1).**Obs**: o campo “NNN” pode ser alterado para mais posições no caso de apresentantes conveniados que **não** são bancos.
 
 **RETORNO**
 
@@ -28,7 +28,7 @@
   * **DD:** dia;
   * **MM:** mês;
   * **AA:** ano de referência;
-  * **S:** sequencial do arquivo (mínimo 1, máximo 9).Ex: R3412401.141 (Arquivo do Itaú de 24/01/2014 e sequencial 1).**Obs**: o campo “NNN” pode ser alterado para mais posições no caso de apresentantes conveniados que **não** são bancos.
+  * **S:** sequencial do arquivo (mínimo 1, máximo 9).Ex: R3412401.221 (Arquivo do Itaú de 24/01/2022 e sequencial 1).**Obs**: o campo “NNN” pode ser alterado para mais posições no caso de apresentantes conveniados que **não** são bancos.
 
 **DESISTENCIA**
 
@@ -38,7 +38,7 @@
   * **DD:** dia;
   * **MM:** mês;
   * **AA:** ano de referência;
-  * **S:** sequencial do arquivo (mínimo 1, máximo 9).Ex: DP3412401.141 (Arquivo do Itaú de 24/01/2014 e sequencial 1).**Obs**: o campo “NNN” pode ser alterado para mais posições no caso de apresentantes conveniados que **não** são bancos.
+  * **S:** sequencial do arquivo (mínimo 1, máximo 9).Ex: DP3412401.221 (Arquivo do Itaú de 24/01/2022 e sequencial 1).**Obs**: o campo “NNN” pode ser alterado para mais posições no caso de apresentantes conveniados que **não** são bancos.
 
 **CANCELAMENTO**
 
@@ -48,7 +48,7 @@
   * **DD:** dia;
   * **MM:** mês;
   * **AA:** ano de referência;
-  * **S:** sequencial do arquivo (mínimo 1, máximo 9).Ex: CP3412401.141 (Arquivo do Itaú de 24/01/2014 e sequencial 1).\
+  * **S:** sequencial do arquivo (mínimo 1, máximo 9).Ex: CP3412401.221 (Arquivo do Itaú de 24/01/2022 e sequencial 1).\
     \
     **Obs**: o campo “NNN” pode ser alterado para mais posições no caso de apresentantes conveniados que **não** são bancos.
 
@@ -60,7 +60,7 @@
   * **DD:** dia;
   * **MM:** mês;
   * **AA:** ano de referência;
-  * **S:** sequencial do arquivo (mínimo 1, máximo 9).Ex: AC3412401.141 (Arquivo do Itaú de 24/01/2014 e sequencial 1).**Obs**: o campo “NNN” pode ser alterado para mais posições no caso de apresentantes conveniados que **não** são bancos.
+  * **S:** sequencial do arquivo (mínimo 1, máximo 9).Ex: AC3412401.221 (Arquivo do Itaú de 24/01/2022 e sequencial 1).**Obs**: o campo “NNN” pode ser alterado para mais posições no caso de apresentantes conveniados que **não** são bancos.
 
 **AUTORIZAÇÃO DE DESISTÊNCIA**
 
@@ -70,7 +70,7 @@
   * **DD:** dia;
   * **MM:** mês;
   * **AA:** ano de referência;
-  * **S:** sequencial do arquivo (mínimo 1, máximo 9).Ex: AD3412401.141 (Arquivo do Itaú de 24/01/2014 e sequencial**Obs**: o campo “NNN” pode ser alterado para mais posições no caso de apresentantes conveniados que **não** são bancos.
+  * **S:** sequencial do arquivo (mínimo 1, máximo 9).Ex: AD3412401.221 (Arquivo do Itaú de 24/01/2022 e sequencial**Obs**: o campo “NNN” pode ser alterado para mais posições no caso de apresentantes conveniados que **não** são bancos.
 
 **IMAGEM**
 
@@ -80,4 +80,14 @@
   * **DD:** dia;
   * **MM:** mês;
   * **AA:** ano de referência;
-  * **S:** sequencial do arquivo (mínimo 1, máximo 9).Ex: I0001407.171 (Arquivo de 14/07/2017 e sequencial 1).
+  * **S:** sequencial do arquivo (mínimo 1, máximo 9).Ex: I0001407.221 (Arquivo de 14/07/2022 e sequencial 1).
+
+**CUSTAS TÍTULO**
+
+* **E000DDM.AAS**
+  * **E:** constante que indica ser arquivo de emolumentos;
+  * **000:** constante zero, pois não há apresentante definido;
+  * **DD:** dia;
+  * **MM:** mês;
+  * **AA:** ano de referência;
+  * **S:** sequencial do arquivo (mínimo 1, máximo 9).Ex: E0001407.221 (Arquivo de 14/07/2022 e sequencial 1).

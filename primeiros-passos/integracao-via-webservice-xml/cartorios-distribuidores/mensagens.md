@@ -205,6 +205,44 @@
 </relatorio>
 ```
 
+**Custas título**
+
+* Custas do título atualizadas com sucesso.
+
+```xml
+<!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
+...
+<mensagemXML>
+    <codigo>2291</codigo>
+    <descricao>Custas do título atualizadas com sucesso.</descricao>
+</mensagem>
+...
+```
+
+* Título não encontrado.
+
+```xml
+<!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
+...
+<mensagem>
+    <codigo>2196</codigo>
+    <descricao>Título não encontrado.</descricao>
+</mensagem>
+...
+```
+
+* Campos inválidos
+
+```xml
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+...
+<mensagem>
+	<codigo>2292</codigo>
+	<descricao>Campos inválidos (emolumentos).</descricao>
+</mensagem>
+...
+```
+
 ### **ATRIBUTOS**
 
 | **Atributo**     | **Descrição**                                                                               |
@@ -405,3 +443,11 @@
 | 2197       | Agência não cadastrada.              |
 | 2187       | PROTOCOLO NÃO INFORMADO.             |
 | 2185       | DATA INVÁLIDA.                       |
+
+**Custas título**
+
+| CÓDIGO | DESCRIÇÃO                       |
+| ------ | ------------------------------- |
+| 2317   | Custas atualizadas com sucesso. |
+| 2292   | Campos inválidos (xxxx).        |
+| 2196   | Título não encontrado.          |
