@@ -2,8 +2,6 @@
 
 {% tabs %}
 {% tab title="Envio" %}
-
-
 **NOMENCLATURA**
 
 Protocolo, data do protocolo (sem pontuação) e sequencial (dois dígitos), separados por underline (\_). Como um título tem apenas um instrumento, o sequencial será sempre 01.
@@ -29,13 +27,13 @@ Arquivo pdf assinado em p7s referente ao título de protocolo 00256 de 12/03/201
 
 * Utilizado por cartórios com sistema integrado ao da CRA e que enviam o retorno diretamente para a CRA;
 * O instrumento eletrônico deve ser compactado, e gerado o base64 do arquivo zip. A string gerada é adicionada no atributo t51 da tag de transação (tr);
-* Para mais informações sobre integração, acesse a [ documentação de web service para cartórios .](../../integracao-via-webservice-xml/)
+* Para mais informações sobre integração, acesse a <mark style="color:green;"></mark> [<mark style="color:green;">documentação de web service para cartórios .</mark>](../../integracao-via-webservice-xml/)<mark style="color:green;"></mark>
 
 **Envio de imagem por web service (XML)**
 
-* Utilizado por cartórios com sistema integrado ao da CRA e que o distribuidor envia o retorno para a CRA.  O instrumento deve ser enviado após recepção do retorno pela CRA;
+* Utilizado por cartórios com sistema integrado ao da CRA e que o distribuidor envia o retorno para a CRA. O instrumento deve ser enviado após recepção do retorno pela CRA;
 * O instrumento eletrônico deve ser compactado, e gerado o base64 do arquivo zip. A string gerada é adicionada na tag < base64 >.
-* Para mais informações sobre integração, acesse a [ documentação de web service para cartórios .](../../integracao-via-webservice-xml/cartorios-distribuidores/envio-de-imagens.md)
+* Para mais informações sobre integração, acesse a <mark style="color:green;"></mark> [<mark style="color:green;">documentação de web service para cartórios .</mark>](../../integracao-via-webservice-xml/cartorios-distribuidores/envio-de-imagens.md)<mark style="color:green;"></mark>
 {% endtab %}
 
 {% tab title="Recepção / Consulta" %}
@@ -43,13 +41,13 @@ Para apresentantes, CRA e cartórios, é possível verificar o instrumento na te
 
 Além dessas opções, existem outras específicas para CRA e Apresentante.
 
-#### Apresentante
+**Apresentante**
 
 Download das imagens com ou sem assinatura na tela Retorno/Download retorno.
 
 ![](<../../../.gitbook/assets/image (36) (1).png>)
 
-#### CRA
+**CRA**
 
 A CRA pode fazer a impressão dos instrumentos através do menu Impressão/Impressão instrumento. É possível baixar as imagens separadamente ou todas em um arquivo .ZIP. Como essa tela é voltada para impressão, os instrumentos são baixados sem assinatura.
 

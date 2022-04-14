@@ -4,7 +4,7 @@
 
 Para apresentantes é possível verificar o instrumento no menu '**Consulta título'** ou '**Consulta retorno'**. Também é possível fazer o download das imagens com ou sem assinatura no menu '**Retorno**' -> '**Download retorno**'.
 
-![](<../../../.gitbook/assets/image (32) (1).png>)
+![](<../../../.gitbook/assets/image (32) (1) (2).png>)
 
 ### Validação e Autenticidade
 

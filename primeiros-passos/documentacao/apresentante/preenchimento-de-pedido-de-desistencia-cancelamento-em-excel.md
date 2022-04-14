@@ -1,9 +1,9 @@
 # Preenchimento de pedido de desistência/cancelamento em Excel
 
+#### ``[<mark style="color:green;">`DOWNLOAD DO ARQUIVO EXEMPLO`</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO\_PEDIDO\_DESIST%C3%8ANCIA\_CANCELAMENTO\_APRESENTANTE.xlsx?raw=true)<mark style="color:green;">``</mark>
+
 {% tabs %}
 {% tab title="Instruções gerais" %}
-
-
 | Tipo do arquivo | O arquivo deve ser do tipo xlsx.                                                                                                                                                                                                                                                                                                                |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Campo           | O nome das colunas deverão ser preenchidas em caixa alta, sem acentos, seguindo o padrão informado.                                                                                                                                                                                                                                             |
@@ -14,8 +14,6 @@
 {% endtab %}
 
 {% tab title="Preenchimento dos campos" %}
-
-
 | **Campo**     | **Obrigatório** | **Instruções**                                                          |
 | ------------- | --------------- | ----------------------------------------------------------------------- |
 | MUNICIPIO     | SIM             | Código IBGE do município cadastrado no CRA21.                           |
@@ -29,4 +27,4 @@
 {% endtab %}
 {% endtabs %}
 
-#### ``[<mark style="color:green;">`DOWNLOAD DO ARQUIVO EXEMPLO`</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO\_PEDIDO\_DESIST%C3%8ANCIA\_CANCELAMENTO\_APRESENTANTE.xlsx?raw=true)<mark style="color:green;">``</mark>
+#### ``

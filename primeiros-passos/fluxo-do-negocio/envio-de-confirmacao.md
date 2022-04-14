@@ -27,7 +27,7 @@ Após a CRA disponibilizar o arquivo de confirmação, o apresentante agora deve
 Existem 2 opções para executar o processo de coleta de confirmação:
 
 * _Por meio de arquivo XML_
-* [_Por meio de arquivo TXT_](http://manual.crabr.com.br/manual/?p=236)
+* [_<mark style="color:green;">Por meio de arquivo TXT</mark>_](http://manual.crabr.com.br/manual/?p=236)<mark style="color:green;"></mark>
 
 O apresentante deverá definir qual opção irá utilizar e implementar seguindo as orientações detalhadas de cada opção.
 

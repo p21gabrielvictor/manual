@@ -4,10 +4,10 @@ O processo de envio de remessa tem como objetivo permitir o envio de títulos do
 
 Existem 3 opções de executar o processo de envio de remessa:
 
-* [_Por meio de arquivo XML_](http://manual.crabr.com.br/manual/?p=618)
-* [_Por meio de arquivo TXT_](http://manual.crabr.com.br/manual/?p=142)
-* [_Por meio de arquivo Excel_](http://manual.crabr.com.br/manual/?p=662)
-* [_Digitação manual – CRA_](http://manual.crabr.com.br/manual/?p=932)
+* [_<mark style="color:green;">Por meio de arquivo XML</mark>_](http://manual.crabr.com.br/manual/?p=618)<mark style="color:green;"></mark>
+* [_<mark style="color:green;">Por meio de arquivo TXT</mark>_](http://manual.crabr.com.br/manual/?p=142)<mark style="color:green;"></mark>
+* [_<mark style="color:green;">Por meio de arquivo Excel</mark>_](http://manual.crabr.com.br/manual/?p=662)<mark style="color:green;"></mark>
+* [_<mark style="color:green;">Digitação manual – CRA</mark>_](http://manual.crabr.com.br/manual/?p=932)<mark style="color:green;"></mark>
 
 O apresentante deverá definir qual opção irá utilizar e implementar seguindo as orientações detalhadas de cada opção.
 
@@ -21,8 +21,8 @@ O envio da remessa segue o seguinte fluxo.
 
 Após fazer o envio da remessa, o apresentante deverá aguardar o recebimento do arquivo de confirmação. Este arquivo poderá ser recebido no mesmo dia ou no dia seguinte.
 
-&#x20;**Clique em cima do slide para ver o fluxo.**
+**Clique em cima do slide para ver o fluxo.**
 
 {% embed url="https://docs.google.com/presentation/d/1NW4Z-9IlEpH9orWHttHjH05TwV2Cm-FY/edit?ouid=113548925962906305703&rtpof=true&sd=true&usp=sharing" %}
 
-Para confirmar o envio ou ver o log de erro você pode ir em [Download e Upload](http://manual.crabr.com.br/manual/?p=222).
+Para confirmar o envio ou ver o log de erro você pode ir em <mark style="color:green;"></mark> [<mark style="color:green;">Download e Upload</mark>](http://manual.crabr.com.br/manual/?p=222).

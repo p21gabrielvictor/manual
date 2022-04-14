@@ -23,16 +23,12 @@ Para prosseguir com o cadastro do convênio, clicar na situação do pedido (2).
 
 O sistema apresenta os seguintes botões:
 
-| ![](http://manual.crabr.com.br/manual/wp-content/uploads/2020/04/botao-ver.png)           | Ver           | Visualiza as informações cadastradas pela empresa no pré-cadastro.                                                                    |
-| ----------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](http://manual.crabr.com.br/manual/wp-content/uploads/2020/04/botao-alterar.png)       | Alterar       | Altera os dados cadastrados                                                                                                           |
-| ![](http://manual.crabr.com.br/manual/wp-content/uploads/2020/04/botao-anotacoes.png)     | Anotações     | Insere observações                                                                                                                    |
-| ![](http://manual.crabr.com.br/manual/wp-content/uploads/2020/04/botao-documentos.png)    | Documentos    | Mostra os documentos inseridos pela empresa, para realizar download e analisar                                                        |
-| ![](http://manual.crabr.com.br/manual/wp-content/uploads/2020/04/botao-resetar-senha.png) | Resetar senha | Reseta a senha de acesso a página de acompanhamento. A nova senha será igual ao login (e-mail do responsável operacional cadastrado). |
-
-
-
-
+| <img src="../../.gitbook/assets/image (14).png" alt="" data-size="original"> | Ver           | Visualiza as informações cadastradas pela empresa no pré-cadastro.                                                                    |
+| ---------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](<../../.gitbook/assets/image (8).png>)                                   | Alterar       | Altera os dados cadastrados                                                                                                           |
+| ![](<../../.gitbook/assets/image (2).png>)                                   | Anotações     | Insere observações                                                                                                                    |
+| ![](<../../.gitbook/assets/image (10).png>)                                  | Documentos    | Mostra os documentos inseridos pela empresa, para realizar download e analisar                                                        |
+| ![](<../../.gitbook/assets/image (11).png>)                                  | Resetar senha | Reseta a senha de acesso a página de acompanhamento. A nova senha será igual ao login (e-mail do responsável operacional cadastrado). |
 
 **Situações da solicitação:**
 

@@ -1,9 +1,9 @@
 # Upload de autorização de cancelamento em Excel.
 
+#### **``**[<mark style="color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/Exemplo\_Autoriza%C3%A7%C3%A3o\_Cancelamento.xlsx?raw=true)<mark style="color:green;">**``**</mark>
+
 {% tabs %}
 {% tab title="Instruções  Gerais" %}
-
-
 | Tipo do arquivo | O arquivo deve ser do tipo xlsx.                                                                                                                                                                                                                                                                          |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Campo           | O nome das colunas deverão ser preenchidas em caixa alta, sem acentos, seguindo o padrão informado. Apenas a coluna CEDENTE não é obrigatória.                                                                                                                                                            |
@@ -25,4 +25,4 @@
 {% endtab %}
 {% endtabs %}
 
-#### **``**[<mark style="color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/Exemplo\_Autoriza%C3%A7%C3%A3o\_Cancelamento.xlsx?raw=true)<mark style="color:green;">**``**</mark>
+#### **``**

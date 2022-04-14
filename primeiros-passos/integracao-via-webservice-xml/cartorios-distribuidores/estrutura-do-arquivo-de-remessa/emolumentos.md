@@ -4,11 +4,7 @@
 
 É obrigatório o preenchimento de todos os campos.
 
-
-
-<mark style="color:green;"></mark>[<mark style="color:green;">DOWNLOAD ARQUIVO EXEMPLO</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO\_CUSTAS\_TITULO.zip?raw=true)&#x20;
-
-
+**``**[<mark style="color:green;">**`DOWNLOAD ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO\_CUSTAS\_TITULO.zip?raw=true)**``**
 
 | Tags               | _**Descrição**_                                           | _**Tamanho**_ | _**Tipo**_   | _**Casas Decimais**_ |
 | ------------------ | --------------------------------------------------------- | ------------- | ------------ | -------------------- |
