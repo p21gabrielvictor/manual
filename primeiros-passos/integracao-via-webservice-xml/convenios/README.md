@@ -7,3 +7,5 @@
 <mark style="color:green;">-</mark> [<mark style="color:green;">Autorização de Cancelamento</mark>](estrutura-de-arquivos/autorizacao-de-cancelamento.md)\
 <mark style="color:green;">-</mark> [<mark style="color:green;">Autorização de Desistência</mark>](estrutura-de-arquivos/autorizacao-de-desistencia.md)\
 <mark style="color:green;">-</mark> [<mark style="color:green;">Imagens da Remessa</mark>](estrutura-de-arquivos/imagens-da-remessa.md)<mark style="color:green;"></mark>\ <mark style="color:green;"></mark>[<mark style="color:green;">**Envio de Imagens**</mark>](envio-de-imagens.md)<mark style="color:green;">****</mark>\ <mark style="color:green;">****</mark>[<mark style="color:green;">**Download e Consulta**</mark>](download-e-consulta.md)<mark style="color:green;">****</mark>\ <mark style="color:green;">****</mark>[<mark style="color:green;">**Código de Ocorrência**</mark>](codigos-de-ocorrencia.md)<mark style="color:green;">****</mark>\ <mark style="color:green;">****</mark>[<mark style="color:green;">**Código de Irregularidades**</mark>](codigos-de-irregularidades.md)
+
+<mark style="color:green;">**Consulta de Boleto de autorização**</mark>
