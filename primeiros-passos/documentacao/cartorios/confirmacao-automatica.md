@@ -19,7 +19,7 @@ Realizar as confirmações de forma automática para os apresentantes. Dessa for
 * É uma solução para todos os apresentantes, se for marcado no cartório, todas as remessas serão confirmadas automaticamente;
 * Os cartórios manuais visualizarão o protocolo e data de protocolo na ficha do título /materialização no menu de confirmar remessa;
 * Para os cartórios que baixam arquivo, (XML e TXT), a CRA21 entregará a remessa com o protocolo e data do protocolo gerado pela CRA;
-* Se as remessas estiverem aguardando para gerar a confirmação automática ficam com o status " Em análise";
+* Se as remessas estiverem aguardando para gerar a confirmação automática ficam com o status "Em análise";
 * Os protocolos serão geridos pela CRA21, com uma regra própria. Ano corrente + sequencial incremental; Ex: 2200000001;
 * O protocolo é incrementado por cartório;
 * Todos os títulos serão confirmados. A devolução deverá ser no retorno
