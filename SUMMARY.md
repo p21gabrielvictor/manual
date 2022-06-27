@@ -81,4 +81,5 @@
     * [Utilizando PHP](primeiros-passos/documentacao/apresentante/utilizando-php.md)
   * [Cartórios](primeiros-passos/documentacao/cartorios/README.md)
     * [Instrumento de Protesto eletrônico.](primeiros-passos/documentacao/cartorios/instrumento-de-protesto-eletronico..md)
+    * [Confirmação Automática](primeiros-passos/documentacao/cartorios/confirmacao-automatica.md)
   * [CRA](primeiros-passos/documentacao/cra.md)
