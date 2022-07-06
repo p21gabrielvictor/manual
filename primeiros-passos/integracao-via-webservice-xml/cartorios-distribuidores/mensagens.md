@@ -446,8 +446,8 @@
 
 **Custas título**
 
-| CÓDIGO | DESCRIÇÃO                       |
-| ------ | ------------------------------- |
-| 2317   | Custas atualizadas com sucesso. |
-| 2292   | Campos inválidos (xxxx).        |
-| 2196   | Título não encontrado.          |
+| CÓDIGO | DESCRIÇÃO                |
+| ------ | ------------------------ |
+| 2318   | Custas atualizadas.      |
+| 2292   | Campos inválidos (xxxx). |
+| 2196   | Título não encontrado.   |
