@@ -14,9 +14,9 @@ Realizar as confirmações de forma automática para os apresentantes. Dessa for
 
 &#x20;**Regras gerais:**&#x20;
 
-* A regra não se aplica onde a distribuição é feita por um serviço de distribuição. \
+* A regra não se aplica onde a distribuição é feita por um serviço de distribuição;\
   &#x20;     Exemplo: Distribuidores das capitais
-* A regra se aplica onde a distribuição é feito pelo CRA21. \
+* A regra se aplica onde a distribuição é feito pelo CRA21;\
   &#x20;     Exemplo: Distribuidores utilizados para remessas no Banco do Brasil.
 * É uma solução para todos os apresentantes, se for marcado no cartório, todas as remessas serão confirmadas automaticamente;
 * Os cartórios manuais visualizarão o protocolo e data de protocolo na ficha do título /materialização no menu de confirmar remessa;
