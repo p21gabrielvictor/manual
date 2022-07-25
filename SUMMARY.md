@@ -38,7 +38,7 @@
     * [Exemplos de arquivos](primeiros-passos/integracao-via-webservice-xml/cartorios-distribuidores/exemplos-de-arquivos.md)
     * [Envio de imagens](primeiros-passos/integracao-via-webservice-xml/cartorios-distribuidores/envio-de-imagens.md)
     * [Mensagens](primeiros-passos/integracao-via-webservice-xml/cartorios-distribuidores/mensagens.md)
-* [Plataforma de Convênios](primeiros-passos/plataforma-de-convenios/README.md)
+* [Plataforma de convênios](primeiros-passos/plataforma-de-convenios/README.md)
   * [Página de divulgação](primeiros-passos/plataforma-de-convenios/pagina-de-divulgacao.md)
   * [Links de acesso](primeiros-passos/plataforma-de-convenios/links-de-acesso.md)
   * [Pré cadastro](primeiros-passos/plataforma-de-convenios/pre-cadastro.md)
