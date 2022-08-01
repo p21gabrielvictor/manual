@@ -14,7 +14,7 @@
 | data\_protocolo    | Data do protocolo                                         |
 | numero\_titulo     | Número do título                                          |
 | nosso\_numero      | Nosso número                                              |
-| valor              | Valor do título                                           |
+| valor              | Saldo do título                                           |
 | tipo               | <p>Tipo de custas<br>1 - Retirada<br>2 - Cancelamento</p> |
 | vigencia           | Data da vigência das custas                               |
 | total              | Valor dos emolumentos                                     |
