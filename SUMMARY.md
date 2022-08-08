@@ -85,6 +85,8 @@
       * [Registro do log](primeiros-passos/documentacao/apresentante/digitacao-manual/registro-do-log.md)
     * [Layout Febraban](primeiros-passos/documentacao/apresentante/layout-febraban.md)
     * [Web Service – SoapUI](primeiros-passos/documentacao/apresentante/web-service-soapui.md)
+    * [Integração – CRA21 API](primeiros-passos/documentacao/apresentante/integracao-cra21-api/README.md)
+      * [URL e Mensagens](primeiros-passos/documentacao/apresentante/integracao-cra21-api/url-e-mensagens.md)
     * [Utilizando PHP](primeiros-passos/documentacao/apresentante/utilizando-php.md)
   * [Cartórios](primeiros-passos/documentacao/cartorios/README.md)
     * [Instrumento de Protesto eletrônico.](primeiros-passos/documentacao/cartorios/instrumento-de-protesto-eletronico..md)
