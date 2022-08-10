@@ -14,7 +14,7 @@ Mais abaixo, a opção “**Fixar campos**” nos dados do título manterá os c
 
 ![](<../../../../.gitbook/assets/image (12).png>)
 
-Se o título tiver mais de um devedor, clique no botão ![](<../../../../.gitbook/assets/image (3).png>). Até 9 devedores podem ser informados em um mesmo título.
+Se o título tiver mais de um devedor, clique no botão ![](<../../../../.gitbook/assets/image (3) (2).png>). Até 9 devedores podem ser informados em um mesmo título.
 
 ![](<../../../../.gitbook/assets/image (38) (1).png>)
 

@@ -26,7 +26,7 @@ O sistema apresenta os seguintes botões:
 | <img src="../../.gitbook/assets/image (14).png" alt="" data-size="original"> | Ver           | Visualiza as informações cadastradas pela empresa no pré-cadastro.                                                                    |
 | ---------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | ![](<../../.gitbook/assets/image (8).png>)                                   | Alterar       | Altera os dados cadastrados                                                                                                           |
-| ![](<../../.gitbook/assets/image (2).png>)                                   | Anotações     | Insere observações                                                                                                                    |
+| ![](<../../.gitbook/assets/image (2) (1).png>)                               | Anotações     | Insere observações                                                                                                                    |
 | ![](<../../.gitbook/assets/image (10).png>)                                  | Documentos    | Mostra os documentos inseridos pela empresa, para realizar download e analisar                                                        |
 | ![](<../../.gitbook/assets/image (11).png>)                                  | Resetar senha | Reseta a senha de acesso a página de acompanhamento. A nova senha será igual ao login (e-mail do responsável operacional cadastrado). |
 

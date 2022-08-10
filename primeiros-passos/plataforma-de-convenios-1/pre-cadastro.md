@@ -8,9 +8,13 @@ Dias de vencimento: definido pelo cliente em alinhamento com Banco.Taxa de bolet
 – Não repassar os custos para o apresentante: deixar o campo em branco.\
 – Repassar os custos para o apresentante: cadastrar o valor da taxa que será somada no valor do boleto.
 
-Após isso, selecionar os apresentantes que pagarão as custas nessa conta:![](http://manual.crabr.com.br/manual/wp-content/uploads/2021/03/img-plataforma2.png)
+Após isso, selecionar os apresentantes que pagarão as custas nessa conta:
 
-E também, selecione os apresentantes que pagarão a taxa CRA nessa conta:![](http://manual.crabr.com.br/manual/wp-content/uploads/2021/03/img-plataforma3.png)__
+![](<../../.gitbook/assets/image (2).png>)
+
+E também, selecione os apresentantes que pagarão a taxa CRA nessa conta:&#x20;
+
+![](<../../.gitbook/assets/image (4).png>)
 
 _OBS: o apresentante pode pagar as custas em uma conta corrente e a taxa da CRA em outra. A escolha é do próprio instituto._
 

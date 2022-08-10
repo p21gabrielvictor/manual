@@ -18,7 +18,7 @@ Para realizar testes de conexão com o **Web Service** da CRA utilizando a ferra
 ![](<../../../.gitbook/assets/image (7).png>)
 
 **4.º Escolha o serviço que deseja utilizar, crie ou seleciona uma **<mark style="color:green;">**request**</mark>**.**\
-![](<../../../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (6) (2).png>)
 
 \*\*5.º Seleciona a aba Auth(Basic) preencha o <mark style="color:green;">**Username**</mark> e <mark style="color:green;">**Pasword**</mark> (esses dados devem ser cadastrados anteriormente pelo gestor da CRA) preencha também o <mark style="color:green;">**domain**</mark> do serviço, e selecione a opção \*\*<mark style="color:green;">**Authenticate pre-emptively.**</mark>\ <mark style="color:green;">\*\*\*\*</mark>
 
