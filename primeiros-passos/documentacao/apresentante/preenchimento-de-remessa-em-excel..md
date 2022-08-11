@@ -1,5 +1,7 @@
 # Preenchimento de remessa em Excel.
 
+<mark style="color:green;background-color:green;">**``**</mark>[<mark style="color:green;background-color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/XNNNCCCCCC.xlsx?raw=true)<mark style="color:green;background-color:green;">**``**</mark>
+
 {% tabs %}
 {% tab title="Instruções Gerais" %}
 | Tipo            | O arquivo deve ser do tipo xlsx.                                                                                                                                                                                                                            |
