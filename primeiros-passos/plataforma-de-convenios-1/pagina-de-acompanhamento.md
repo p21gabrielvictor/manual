@@ -6,7 +6,7 @@ Para realizar a cobrança, é necessário gerar uma fatura que corresponde aos t
 
 – Para gerar a fatura, clique em “Gerar fatura”, informe o período do movimento e qual o tipo da fatura (taxa CRA/Custas ou ambas):
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 Após a geração, é somente selecionar a fatura que será cobrada do apresentante por e-mail:
 
