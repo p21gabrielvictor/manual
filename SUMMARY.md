@@ -89,6 +89,7 @@
       * [URL e Mensagens](primeiros-passos/documentacao/apresentante/integracao-cra21-api/url-e-mensagens.md)
     * [Utilizando PHP](primeiros-passos/documentacao/apresentante/utilizando-php.md)
   * [Cartórios](primeiros-passos/documentacao/cartorios/README.md)
+    * [Informar emolumentos do título (XML)](primeiros-passos/documentacao/cartorios/informar-emolumentos-do-titulo-xml.md)
     * [Instrumento de Protesto eletrônico.](primeiros-passos/documentacao/cartorios/instrumento-de-protesto-eletronico..md)
     * [Confirmação Automática](primeiros-passos/documentacao/cartorios/confirmacao-automatica.md)
   * [CRA](primeiros-passos/documentacao/cra/README.md)
