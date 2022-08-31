@@ -20,7 +20,7 @@ R$ 27,01 = “27.01"
 **COMARCAS HOMOLOGADAS**
 
 * Informar os parâmetros:
-* “**codapres**” – Serão retornados todos os municípios que estão habilitados para o apresentante informado.
+* “**codapres**” – Serão retornados todos os municípios e as comarcas associadas que estão habilitados para o apresentante informado.
 * “**cartorios**” – Informe “**x**" para consultar os dados dos cartórios que o apresentante está habilitado a enviar títulos.
 
 **CONSULTA**
@@ -34,8 +34,7 @@ R$ 27,01 = “27.01"
 
 **INSTRUMENTO**
 
-Informar o parâmetro “**userDados**" com a seguinte estrutura:\
-
+Informar o parâmetro “**userDados**" com a seguinte estrutura:\\
 
 ```xml
 <instrumento>

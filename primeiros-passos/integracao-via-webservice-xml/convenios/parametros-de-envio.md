@@ -20,43 +20,37 @@
     | **Instrumento**               | consulta dos instrumentos eletrônicos.                                                                                                                                              |
     | **Imagem**                    | upload de imagens do título após o envio da remessa.                                                                                                                                |
 * **Parâmetros dos serviços disponíveis:**
-*   Upload\
-
+*   Upload\\
 
     | **user\_arq**   | nome do arquivo no formato **FEBRABAN** |
     | --------------- | --------------------------------------- |
     | **user\_dados** | conteúdo do arquivo XML                 |
-*   Download\
-
+*   Download\\
 
     | **user\_arq** | nome do arquivo no formato **FEBRABAN** |
     | ------------- | --------------------------------------- |
-*   Homologadas\
+*   Homologadas\\
 
-
-    | **codapres** | informar o código do apresentante |
-    | ------------ | --------------------------------- |
-*   Consulta\
-
+    | **codapres** | informar o código do apresentante                      |
+    | ------------ | ------------------------------------------------------ |
+    | cartorios    | informar '1' para obter dados dos cartórios (OPCIONAL) |
+*   Consulta\\
 
     | **nosso\_numero**  | nosso número do título no CRA21 |
     | ------------------ | ------------------------------- |
     | **numero\_titulo** | número do título no CRA21       |
-*   Consulta\_Slip\
-
+*   Consulta\_Slip\\
 
     | **cod\_municipio**  | nome do arquivo no formato **FEBRABAN** |
     | ------------------- | --------------------------------------- |
     | **cod\_cartorio**   | conteúdo do arquivo XML                 |
     | **protocolo**       | conteúdo do arquivo XML                 |
     | **data\_protocolo** | conteúdo do arquivo XML                 |
-*   Instrumento\
-
+*   Instrumento\\
 
     | **userArq** | formato informado em **Download e Consulta** |
     | ----------- | -------------------------------------------- |
-*   Imagem\
-
+*   Imagem\\
 
     | **userArq**   | nome do arquivo no formato **FEBRABAN**         |
     | ------------- | ----------------------------------------------- |
