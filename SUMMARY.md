@@ -73,7 +73,7 @@
   * [Apresentante](primeiros-passos/documentacao/apresentante/README.md)
     * [Upload de autorização de cancelamento em Excel.](primeiros-passos/documentacao/apresentante/upload-de-autorizacao-de-cancelamento-em-excel..md)
     * [Preenchimento de pedido de desistência/cancelamento em Excel](primeiros-passos/documentacao/apresentante/preenchimento-de-pedido-de-desistencia-cancelamento-em-excel.md)
-    * [Preenchimento de remessa em Excel.](primeiros-passos/documentacao/apresentante/preenchimento-de-remessa-em-excel..md)
+    * [Preenchimento de remessa em Excel.](primeiros-passos/documentacao/apresentante/preenchimento-de-remessa-em-excel.md)
     * [Envio de arquivo CNAB](primeiros-passos/documentacao/apresentante/envio-de-arquivo-cnab.md)
     * [Instrumento de Protesto eletrônico.](primeiros-passos/documentacao/apresentante/instrumento-de-protesto-eletronico..md)
     * [Digitação Manual](primeiros-passos/documentacao/apresentante/digitacao-manual/README.md)
