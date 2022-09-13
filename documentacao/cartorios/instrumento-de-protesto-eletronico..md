@@ -27,7 +27,7 @@ Arquivo pdf assinado em p7s referente ao título de protocolo 00256 de 12/03/201
 
 * Utilizado por cartórios com sistema integrado ao da CRA e que enviam o retorno diretamente para a CRA;
 * O instrumento eletrônico deve ser compactado, e gerado o base64 do arquivo zip. A string gerada é adicionada no atributo t51 da tag de transação (tr);
-* Para mais informações sobre integração, acesse a <mark style="color:green;"></mark> [<mark style="color:green;">documentação de web service para cartórios .</mark>](../../integracao-via-webservice-xml/integracao-via-webservice-xml.md)<mark style="color:green;"></mark>
+* Para mais informações sobre integração, acesse a <mark style="color:green;"></mark> [<mark style="color:green;">documentação de web service para cartórios .</mark>](broken-reference)<mark style="color:green;"></mark>
 
 **Envio de imagem por web service (XML)**
 

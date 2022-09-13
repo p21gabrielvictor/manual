@@ -4,7 +4,7 @@ O processo de envio de cancelamento tem como objetivo permitir ao apresentante s
 
 Existem 03 opções para executar o processo de envio de cancelamento:
 
-* [Por meio de arquivo XML](../../integracao-via-webservice-xml/integracao-via-webservice-xml.md)
+* [Por meio de arquivo XML](broken-reference)
 * [Por meio de arquivo TXT](http://manual.crabr.com.br/manual/?p=216)
 * Digitação manual – CRA
 

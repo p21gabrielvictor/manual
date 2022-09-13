@@ -37,7 +37,6 @@
   * [Exemplos de arquivos](integracao-via-webservice-xml/cartorios-distribuidores/exemplos-de-arquivos.md)
   * [Envio de imagens](integracao-via-webservice-xml/cartorios-distribuidores/envio-de-imagens.md)
   * [Mensagens](integracao-via-webservice-xml/cartorios-distribuidores/mensagens.md)
-* [Integração via webservice (XML)](integracao-via-webservice-xml/integracao-via-webservice-xml.md)
 
 ## Primeiros passos
 
