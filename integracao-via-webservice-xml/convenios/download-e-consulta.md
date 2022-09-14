@@ -51,7 +51,7 @@ Informar o parâmetro “**userDados**" com a seguinte estrutura:\\
                          </titulo>
                          <titulo>
                             <protocolo>1020304050</protocolo>
-                            <dataprotocolo>01/03/2018</dataprotocolo>
+                            <dataProtocolo>01/03/2018</dataProtocolo>
                          </titulo>
                      </titulos>
                  </cartorio>
@@ -65,11 +65,11 @@ Informar o parâmetro “**userDados**" com a seguinte estrutura:\\
                      <titulos>
                          <titulo>
                              <protocolo>5040302010</protocolo>
-                             <dataprotocolo>28/12/2018</dataprotocolo>
+                             <dataProtocolo>28/12/2018</dataProtocolo>
                          </titulo>
                          <titulo>
                              <protocolo>1738544625</protocolo>
-                             <dataprotocolo>28/12/2018</dataprotocolo>
+                             <dataProtocolo>28/12/2018</dataProtocolo>
                          </titulo>
                      </titulos>
                  </cartorio>
