@@ -108,4 +108,4 @@
     * [Geração do boleto no cartório](documentacao/cra/boletos-de-repasse/geracao-do-boleto-no-cartorio.md)
     * [Processamento dos pagamentos na CRA](documentacao/cra/boletos-de-repasse/processamento-dos-pagamentos-na-cra.md)
     * [Repasse para o apresentante](documentacao/cra/boletos-de-repasse/repasse-para-o-apresentante.md)
-  * [Pagamento cartório agrupado em Excel](documentacao/cra/pagamento-cartorio-agrupado-em-excel.md)
+  * [Upload Excel pagamento custas](documentacao/cra/upload-excel-pagamento-custas.md)
