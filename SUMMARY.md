@@ -78,7 +78,7 @@
 ## Documentação
 
 * [Apresentante](documentacao/apresentante/README.md)
-  * [Upload de autorização de cancelamento em Excel.](documentacao/apresentante/upload-de-autorizacao-de-cancelamento-em-excel..md)
+  * [Upload de autorização de cancelamento em Excel](documentacao/apresentante/upload-de-autorizacao-de-cancelamento-em-excel..md)
   * [Preenchimento de pedido de desistência/cancelamento em Excel](documentacao/apresentante/preenchimento-de-pedido-de-desistencia-cancelamento-em-excel.md)
   * [Preenchimento de remessa em Excel.](documentacao/apresentante/preenchimento-de-remessa-em-excel.md)
   * [Envio de arquivo CNAB](documentacao/apresentante/envio-de-arquivo-cnab.md)
