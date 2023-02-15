@@ -1,27 +1,12 @@
-# Informar emolumentos do título (XML)
+---
+description: >-
+  Descrever o serviço para informar custas dos títulos enviados entre Cartórios
+  de Protesto e o CRA21.
+---
+
+# Emolumentos do título
 
 {% tabs %}
-{% tab title="Objetivo" %}
-Descrever o serviço para informar custas dos títulos enviados entre Cartórios de Protesto e o CRA21.
-{% endtab %}
-
-{% tab title="URL" %}
-* **Homologação (ambiente de testes):**
-
-&#x20;     _**craUF**.cra21.com.br/**craUF**/xml/protestos\_cartorio.php?wsdl_
-
-&#x20;    __     Ex: _https://cradf.cra21.com.br/cradf/xml/protestos\_cartorio.php?wsdl_
-
-&#x20;  _     **  **<mark style="color:red;">**ATENÇÃO:**</mark>** no ambiente de homologação utilizar o protocolo HTTPS**_ \
-_****_
-
-* **Produção (ambiente de funcionamento do sistema):**\
-  ****\
-  ****_**craUF**.crabr.com.br/**craUF**/xml/protestos\_cartorio.php?wsdl_\
-  __Ex: _https://cradf.crabr.com.br/cradf/xml/protestos\_cartorio.php?wsdl_\
-  _<mark style="color:red;">**ATENÇÃO:**</mark>** ****no ambiente de produção utilizar o protocolo HTTPS**_
-{% endtab %}
-
 {% tab title="Parâmetros de Envio" %}
 * **Os dados (parâmetros) devem ser enviados via protocolo SOAP.**
 * **Ao consumir o WebService, em todos os serviços, a autenticação deverá ser realizada utilizando autenticação básica.**
