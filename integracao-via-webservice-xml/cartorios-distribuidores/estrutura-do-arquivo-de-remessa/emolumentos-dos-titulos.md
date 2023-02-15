@@ -4,7 +4,7 @@ description: >-
   de Protesto e o CRA21.
 ---
 
-# Emolumentos do título
+# Emolumentos dos títulos
 
 {% tabs %}
 {% tab title="Parâmetros de Envio" %}
