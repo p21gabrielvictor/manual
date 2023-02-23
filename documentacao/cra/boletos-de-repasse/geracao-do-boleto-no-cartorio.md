@@ -5,7 +5,7 @@ A geração do boleto é realizada através do cartório, e possui as seguintes 
 \
 – Para gerar o boleto, o cartório deve acessar o menu de “Retorno > Boleto de repasse” e selecionar a opção gerar boleto:
 
-![](<../../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (5) (1).png>)
 
 Após clicar em gerar o boleto, será apresentando um campo para informar a data do retorno ao qual o repasse será realizado.
 

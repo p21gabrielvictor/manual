@@ -55,6 +55,9 @@
   * [Consulta de desistência](primeiros-passos/consultas/consulta-de-desistencia.md)
   * [Consulta de cancelamento](primeiros-passos/consultas/consulta-de-cancelamento.md)
   * [Consulta de autorização](primeiros-passos/consultas/consulta-de-autorizacao.md)
+* [Ambiente de Homologação (testes)](primeiros-passos/ambiente-de-homologacao-testes/README.md)
+  * [Remessa por Upload](primeiros-passos/ambiente-de-homologacao-testes/remessa-por-upload.md)
+  * [Download Confirmação](primeiros-passos/ambiente-de-homologacao-testes/download-confirmacao.md)
 
 ## Plataformas
 

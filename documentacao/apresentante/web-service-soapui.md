@@ -11,18 +11,18 @@ Para realizar testes de conexão com o **Web Service** da CRA utilizando a ferra
 [<mark style="color:green;">https://www.soapui.org/downloads/soapui/</mark>](https://www.soapui.org/downloads/soapui/)
 
 **2.º Após a instalação do produto crie um novo projeto SOAP clicando no ícone.**\
-<img src="../../../.gitbook/assets/image (34).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (34) (2).png" alt="" data-size="original">
 
 **3.º Preencher os campos com o nome do projeto e o link para a conexão WSDL**
 
-![](<../../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (2).png>)
 
 **4.º Escolha o serviço que deseja utilizar, crie ou seleciona uma **<mark style="color:green;">**request**</mark>**.**\
-![](<../../../.gitbook/assets/image (6) (2).png>)
+![](<../../.gitbook/assets/image (6) (2).png>)
 
 \*\*5.º Seleciona a aba Auth(Basic) preencha o <mark style="color:green;">**Username**</mark> e <mark style="color:green;">**Pasword**</mark> (esses dados devem ser cadastrados anteriormente pelo gestor da CRA) preencha também o <mark style="color:green;">**domain**</mark> do serviço, e selecione a opção \*\*<mark style="color:green;">**Authenticate pre-emptively.**</mark>\ <mark style="color:green;">\*\*\*\*</mark>
 
-![](<../../../.gitbook/assets/image (33).png>)
+![](<../../.gitbook/assets/image (33).png>)
 
 **6.º Após isso clique no botão play na parte superior, o sistema irá mostra o resultado da sua requisição na parte lateral direita RAW/XML.**
 

@@ -10,11 +10,11 @@ Dias de vencimento: definido pelo cliente em alinhamento com Banco.Taxa de bolet
 
 Após isso, selecionar os apresentantes que pagarão as custas nessa conta:
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 E também, selecione os apresentantes que pagarão a taxa CRA nessa conta:&#x20;
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (3).png>)
 
 _OBS: o apresentante pode pagar as custas em uma conta corrente e a taxa da CRA em outra. A escolha é do próprio instituto._
 
