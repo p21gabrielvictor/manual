@@ -59,6 +59,10 @@
   * [Remessa por Upload](primeiros-passos/ambiente-de-homologacao-testes/remessa-por-upload.md)
   * [Download Confirmação](primeiros-passos/ambiente-de-homologacao-testes/download-confirmacao.md)
   * [Download Retorno](primeiros-passos/ambiente-de-homologacao-testes/download-retorno.md)
+  * [Solicitar Desistência](primeiros-passos/ambiente-de-homologacao-testes/solicitar-desistencia.md)
+  * [Desistência por Upload](primeiros-passos/ambiente-de-homologacao-testes/desistencia-por-upload.md)
+  * [Solicitar Cancelamento](primeiros-passos/ambiente-de-homologacao-testes/solicitar-cancelamento.md)
+  * [Cancelamento por Upload](primeiros-passos/ambiente-de-homologacao-testes/cancelamento-por-upload.md)
 
 ## Plataformas
 
