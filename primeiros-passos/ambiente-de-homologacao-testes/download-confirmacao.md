@@ -6,7 +6,7 @@ Para visualizar/coletar a confirmação, basta acessar o menu Confirmação -> D
 
 <figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-O sistema apresentará os arquivos de confirmação que estão pendentes de download. Clique no ícone <img src="../../.gitbook/assets/image (2).png" alt="" data-size="original"> para realizar o download. O sistema disponibiliza duas opções de download:
+O sistema apresentará os arquivos de confirmação que estão pendentes de download. Clique no ícone <img src="../../.gitbook/assets/image (2) (2).png" alt="" data-size="original"> para realizar o download. O sistema disponibiliza duas opções de download:
 
 * &#x20;Consultar Arquivo – download de arquivo de um único município por arquivo.
 
@@ -26,6 +26,6 @@ Para fazer o download de um arquivo já coletado, é necessário informar a data
 As confirmações enviadas no dia corrente, só estarão disponíveis após o horário de liberação.
 {% endhint %}
 
-Para fazer a impressão da relação de remessa confirmada, basta clicar no ícone ![](<../../.gitbook/assets/image (5).png>).
+Para fazer a impressão da relação de remessa confirmada, basta clicar no ícone ![](<../../.gitbook/assets/image (5) (2).png>).
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

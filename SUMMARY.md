@@ -58,6 +58,7 @@
 * [Ambiente de Homologação (testes)](primeiros-passos/ambiente-de-homologacao-testes/README.md)
   * [Remessa por Upload](primeiros-passos/ambiente-de-homologacao-testes/remessa-por-upload.md)
   * [Download Confirmação](primeiros-passos/ambiente-de-homologacao-testes/download-confirmacao.md)
+  * [Download Retorno](primeiros-passos/ambiente-de-homologacao-testes/download-retorno.md)
 
 ## Plataformas
 

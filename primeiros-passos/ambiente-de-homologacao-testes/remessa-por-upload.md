@@ -14,7 +14,7 @@ Após o envio do arquivo o sistema irá gerar um log de sucesso ou de erro, conf
 
 Para ver o log completo, bata clicar no botão Ver Detalhes.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 

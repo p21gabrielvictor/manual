@@ -10,7 +10,7 @@ Para realizar a cobrança, é necessário gerar uma fatura que corresponde aos t
 
 Após a geração, é somente selecionar a fatura que será cobrada do apresentante por e-mail:
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (3).png>)
 
 O e-mail será enviado com todos os valores da cobrança. Em anexo, serão enviados:
 
