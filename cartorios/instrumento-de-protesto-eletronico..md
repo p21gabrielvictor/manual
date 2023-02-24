@@ -21,19 +21,9 @@ Arquivo pdf assinado em p7s referente ao título de protocolo 00256 de 12/03/201
 * Caso o arquivo não esteja assinado, é possível assiná-lo no momento do upload;
 * Arquivos em PDF assinado devem ser enviados zipados
 
-![](<../../.gitbook/assets/image (31) (1).png>)
+![](<../.gitbook/assets/image (31) (1).png>)
 
-**Envio no retorno por web service (XML)**
-
-* Utilizado por cartórios com sistema integrado ao da CRA e que enviam o retorno diretamente para a CRA;
-* O instrumento eletrônico deve ser compactado, e gerado o base64 do arquivo zip. A string gerada é adicionada no atributo t51 da tag de transação (tr);
-* Para mais informações sobre integração, acesse a <mark style="color:green;"></mark> [<mark style="color:green;">documentação de web service para cartórios .</mark>](broken-reference)<mark style="color:green;"></mark>
-
-**Envio de imagem por web service (XML)**
-
-* Utilizado por cartórios com sistema integrado ao da CRA e que o distribuidor envia o retorno para a CRA. O instrumento deve ser enviado após recepção do retorno pela CRA;
-* O instrumento eletrônico deve ser compactado, e gerado o base64 do arquivo zip. A string gerada é adicionada na tag < base64 >.
-* Para mais informações sobre integração, acesse a <mark style="color:green;"></mark> [<mark style="color:green;">documentação de web service para cartórios .</mark>](../../integracao-via-webservice-xml/cartorios-distribuidores/envio-de-imagens.md)<mark style="color:green;"></mark>
+****
 {% endtab %}
 
 {% tab title="Recepção / Consulta" %}
@@ -45,13 +35,13 @@ Além dessas opções, existem outras específicas para CRA e Apresentante.
 
 Download das imagens com ou sem assinatura na tela Retorno/Download retorno.
 
-![](<../../.gitbook/assets/image (36) (1).png>)
+![](<../.gitbook/assets/image (36) (1).png>)
 
 **CRA**
 
 A CRA pode fazer a impressão dos instrumentos através do menu Impressão/Impressão instrumento. É possível baixar as imagens separadamente ou todas em um arquivo .ZIP. Como essa tela é voltada para impressão, os instrumentos são baixados sem assinatura.
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17).png>)
 {% endtab %}
 
 {% tab title="Validação / Autenticidade" %}

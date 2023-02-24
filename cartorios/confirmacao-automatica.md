@@ -11,8 +11,13 @@ Realizar as confirmações de forma automática para os apresentantes. Dessa for
 
 * Necessário solicitar ao suporte da P21 que habilite a solução para o seu estado;
 * Preencher o parâmetro 'Cartório Original' no cadastro do cartório virtual;
-* Habilitar o parâmetro no cadastro do Cartório 'Confirmação automática'.
-  * <mark style="color:red;">VERIFICAR SE TODOS OS TÍTULOS DO CARTÓRIO JÁ FORAM CONFIRMADOS ANTES DE MARCAR O PARÂMETRO.</mark>
+*   Habilitar o parâmetro no cadastro do Cartório 'Confirmação automática'.
+
+    <mark style="color:red;"></mark>
+
+{% hint style="danger" %}
+<mark style="color:red;">**VERIFICAR SE TODOS OS TÍTULOS DO CARTÓRIO JÁ FORAM CONFIRMADOS ANTES DE MARCAR O PARÂMETRO.**</mark>
+{% endhint %}
 
 
 
