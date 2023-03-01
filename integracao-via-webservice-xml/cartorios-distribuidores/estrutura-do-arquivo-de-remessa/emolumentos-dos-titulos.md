@@ -81,7 +81,7 @@ Observações:
 
 **Mensagens:**
 
-* Custas do título atualizadas com sucesso.
+* Exemplo de custas do título atualizadas com sucesso.
 
 ```xml
 <!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
@@ -93,9 +93,7 @@ Observações:
 
 
 
-* Título não encontrado.
-
-
+* Exemplo de  título não encontrado.
 
 ```xml
 <!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
@@ -108,10 +106,12 @@ Observações:
 ****\
 ****
 
-| **CÓDIGO** | **DESCRIÇÃO**                             |
-| ---------- | ----------------------------------------- |
-| 2291       | Custas do título atualizadas com sucesso. |
-| 2196       | Título não encontrado.                    |
+| **CÓDIGO** | **DESCRIÇÃO**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2291       | Custas do título atualizadas com sucesso.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 2196       | Título não encontrado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 2292       | <p>Campos inválidos ou não informados (<strong>APRESENTANTES</strong>)<br>Campos inválidos ou não informados (<strong>APRESENTANTE</strong>)<br>Campos inválidos ou não informados (<strong>TITULOS</strong>)<br>Campos inválidos ou não informados (<strong>TITULO</strong>)<br>Campos inválidos ou não informados (<strong>EMOLUMENTOS</strong>)<br>Campos inválidos ou não informados (<strong>EMOLUMENTO</strong>)<br>Campos inválidos ou não informados (<strong>TOTAL</strong>)<br>Campos inválidos ou não informados (<strong>TIPO</strong>)</p> |
+| 2137       | <p>Campo (<strong>TIPO DE EMOLUMENTO</strong>) inválido<br>Campo (<strong>VIGENCIA</strong>) inválido</p>                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 \
 
