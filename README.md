@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/green Minimalist Facebook Cover.png
+coverY: 0
+---
+
 # CRA 21
 
 O CRA21 é um sistema onde o usuário (bancos, procuradorias, particulares, empresas, profissionais liberais, conselhos de classe), pode enviar eletronicamente títulos e documentos de dívida aos cartórios de protesto. O ambiente de trabalho, totalmente eletrônico, conta com requisitos de segurança que o tornam altamente confiável e estável, possibilitando aos portadores de títulos de crédito e outros documentos de dívida encaminhá-los a protesto para qualquer cartório do Brasil, a partir do local em que estiverem, de maneira simples e segura, bem como, em um único lugar, resolver eventuais pendências, sem ter que se preocupar em entrar em contato com diferentes cartórios, pois será o CRA21, que se encarregará de fazer toda a intermediação entre o apresentante e o cartório, concentrando o atendimento e tornando mais eficiente a solução de pendências.
