@@ -50,22 +50,22 @@ description: >-
 
 <mark style="color:green;">**``**</mark>[<mark style="color:green;">**`DOWNLOAD ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO\_CUSTAS\_TITULO.zip?raw=true)
 
-| _**Atributo**_         | _**Descrição**_                                   | _**Tam**_    | _**Tipo**_            | _**Casas Decimais**_ | _**Obrigatório**_ |
-| ---------------------- | ------------------------------------------------- | ------------ | --------------------- | -------------------- | ----------------- |
-| **codigo**             | **Código do apresentante**                        | **Variável** | **Alfanumérico**      | **Nenhuma**          | **Sim**           |
-| **protocolo**          | **Protocolo do título**                           | **Variável** | **Alfanumérico**      | **Nenhuma**          | **Não**           |
-| **documento\_devedor** | **Documento do devedor**                          | **Variável** | **Numérico**          | **Nenhuma**          | **Não**           |
-| **data\_protocolo**    | **Data de protocolo**                             | **010**      | **Data (01/01/2024)** | **Nenhuma**          | **Não**           |
-| **numero\_titulo**     | **Número do título**                              | **Variável** | **Numérico**          | **Nenhuma**          | **Não**           |
-| **nosso\_numero**      | **Nosso número**                                  | **Variável** | **Numérico**          | **Nenhuma**          | **Não**           |
-| **valor**              | **Documento do devedor**                          | **Variável** | **Decimal**           | **2**                | **Não**           |
-| custas                 | Custas do cartório/distribuidor/demais despesas   | Variável     | Decimal               | 2                    | Não               |
-| intimacao              | Custas de intimação                               | Variável     | Decimal               |  2                   | Não               |
-| cancelamento           | Custas de cancelamento                            | Variável     | Decimal               |  2                   | Não               |
-| edital                 | Custas de edital                                  | 003          | Decimal               |  2                   | Não               |
-| **tipo**               | **Tipo de custas (1 – Retirada, 2 Cancelamento)** | **001**      | **Inteiro**           | **Nenhuma**          | **Não**           |
-| **total**              | **Total das custas pré-calculadas**               | **Variável** | **Decimal**           | **2**                | **Não**           |
-| vigencia               | Vigência das custas                               | 010          | Data (01/01/2024)     | Nenhuma              | N                 |
+| _**Atributo**_                                                                                                                     | _**Descrição**_                                   | _**Tam**_    | _**Tipo**_            | _**Casas Decimais**_ | _**Obrigatório**_ |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------ | --------------------- | -------------------- | ----------------- |
+| **codigo**                                                                                                                         | **Código do apresentante**                        | **Variável** | **Alfanumérico**      | **Nenhuma**          | **Sim**           |
+| **protocolo**                                                                                                                      | **Protocolo do título**                           | **Variável** | **Alfanumérico**      | **Nenhuma**          | **Não**           |
+| **documento\_devedor**                                                                                                             | **Documento do devedor**                          | **Variável** | **Numérico**          | **Nenhuma**          | **Não**           |
+| **data\_protocolo**                                                                                                                | **Data de protocolo**                             | **010**      | **Data (01/01/2024)** | **Nenhuma**          | **Não**           |
+| **numero\_titulo**                                                                                                                 | **Número do título**                              | **Variável** | **Numérico**          | **Nenhuma**          | **Não**           |
+| **nosso\_numero**                                                                                                                  | **Nosso número**                                  | **Variável** | **Numérico**          | **Nenhuma**          | **Não**           |
+| **valor**                                                                                                                          | **Documento do devedor**                          | **Variável** | **Decimal**           | **2**                | **Não**           |
+| <p>custas<br><mark style="color:red;background-color:red;"><strong>(Uso somente para o Distrito Federal)</strong></mark></p>       | Custas do cartório/distribuidor/demais despesas   | Variável     | Decimal               | 2                    | Não               |
+| <p>intimacao<br><mark style="color:red;background-color:red;"><strong>(Uso somente para o Distrito Federal)</strong></mark></p>    | Custas de intimação                               | Variável     | Decimal               |  2                   | Não               |
+| <p>cancelamento<br><mark style="color:red;background-color:red;"><strong>(Uso somente para o Distrito Federal)</strong></mark></p> | Custas de cancelamento                            | Variável     | Decimal               |  2                   | Não               |
+| <p>edital<br><mark style="color:red;background-color:red;"><strong>(Uso somente para o Distrito Federal)</strong></mark></p>       | Custas de edital                                  | 003          | Decimal               |  2                   | Não               |
+| **tipo**                                                                                                                           | **Tipo de custas (1 – Retirada, 2 Cancelamento)** | **001**      | **Inteiro**           | **Nenhuma**          | **Não**           |
+| **total**                                                                                                                          | **Total das custas pré-calculadas**               | **Variável** | **Decimal**           | **2**                | **Não**           |
+| vigencia                                                                                                                           | Vigência das custas                               | 010          | Data (01/01/2024)     | Nenhuma              | N                 |
 
 \
 
