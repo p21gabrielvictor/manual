@@ -88,6 +88,7 @@
 
 * [Remessa em Excel.](apresentante/preenchimento-de-remessa-em-excel.md)
 * [Autorização de cancelamento em Excel](apresentante/upload-de-autorizacao-de-cancelamento-em-excel..md)
+* [Autorização de cancelamento em Excel](apresentante/autorizacao-de-cancelamento-em-excel.md)
 * [Pedido de desistência/cancelamento em Excel](apresentante/preenchimento-de-pedido-de-desistencia-cancelamento-em-excel.md)
 * [Envio de arquivo CNAB](apresentante/envio-de-arquivo-cnab.md)
 * [Instrumento de Protesto eletrônico.](apresentante/instrumento-de-protesto-eletronico..md)
