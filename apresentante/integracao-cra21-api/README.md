@@ -6,13 +6,9 @@
 _<mark style="color:red;"><mark style="background-color:yellow;">**ATENÇÃO**<mark style="background-color:yellow;"></mark><mark style="color:red;"><mark style="background-color:yellow;">: Substituir<mark style="background-color:yellow;"></mark> <mark style="color:red;"><mark style="background-color:yellow;"> </mark><mark style="color:red;"><mark style="background-color:yellow;">**UF**<mark style="background-color:yellow;"></mark> <mark style="color:red;"><mark style="background-color:yellow;"> </mark><mark style="color:red;"><mark style="background-color:yellow;">pelo estado desejado.<mark style="background-color:yellow;"></mark>_
 {% endhint %}
 
-**Homologação (ambiente de testes):** \
-http://UF.hm.craapi.com.br\
-__**Exemplo:** http://**df**.hm.craapi.com.br
-
 **Produção (ambiente de funcionamento do sistema):** \
-http://cra**UF**.api.crabr.com.br\
-**Exemplo:**http://cra**df**.api.crabr.com.br
+[https://craUF.api.crabr.com.br/](https://crama.api.crabr.com.br/)__\
+__**Exemplo:** [**https://crama.api.crabr.com.br/**](https://crama.api.crabr.com.br/)****
 
 ### Parâmetros de envio
 
