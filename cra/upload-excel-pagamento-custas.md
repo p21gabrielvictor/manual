@@ -1,6 +1,6 @@
 # Upload Excel pagamento custas
 
-#### ``[<mark style="color:green;">`DOWNLOAD DO ARQUIVO EXEMPLO`</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/CUSTAS\_CARTORIO.xlsx?raw=true)<mark style="color:green;">``</mark>
+#### [<mark style="color:green;">`DOWNLOAD DO ARQUIVO EXEMPLO`</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/CUSTAS\_CARTORIO.xlsx?raw=true)
 
 {% tabs %}
 {% tab title="Instruções Gerais" %}

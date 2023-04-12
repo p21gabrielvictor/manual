@@ -1,6 +1,6 @@
-# Preenchimento de remessa em Excel.
+# Remessa em Excel.
 
-<mark style="color:green;background-color:green;">**``**</mark>[<mark style="color:green;background-color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/XNNNCCCCCC.xlsx?raw=true)<mark style="color:green;background-color:green;">**``**</mark>
+[<mark style="color:green;background-color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/XNNNCCCCCC.xlsx?raw=true)
 
 {% tabs %}
 {% tab title="Instruções Gerais" %}

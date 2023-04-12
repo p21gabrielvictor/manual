@@ -4,7 +4,7 @@
 
 A conta corrente deverá ser cadastrada em “Plataforma de Pagamento > Conta Corrente” com a opção “Repasse com boleto" habilitada:
 
-![Repasse com boleto](<../../../.gitbook/assets/image (1) (2).png>)
+![Repasse com boleto](<../../.gitbook/assets/image (1) (2).png>)
 
 Dias de vencimento: definido pelo cliente em alinhamento com Banco.
 
@@ -20,13 +20,13 @@ Taxa de boleto: provavelmente o Banco cobrará do IEPTB alguma taxa para o uso d
 
 Após isso, selecionar os apresentantes que receberão o repasse pela conta cadastrada:
 
-![Repasse com boleto](<../../../.gitbook/assets/image (8) (2).png>)
+![Repasse com boleto](<../../.gitbook/assets/image (8) (2).png>)
 
 **Cadastro do apresentante**
 
 Em “Cadastro > Banco/Convênio > Alterar”:
 
-&#x20;   Gestão Financeira pela CRA. O operador da CRA deve informar que a gestão financeira desse apresentante é realizada pela CRA. ****&#x20;
+&#x20;   Gestão Financeira pela CRA. O operador da CRA deve informar que a gestão financeira desse apresentante é realizada pela CRA.&#x20;
 
 Em “Cadastro > Banco/Convênio > Ações”:
 

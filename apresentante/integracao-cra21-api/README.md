@@ -7,8 +7,8 @@ _<mark style="color:red;"><mark style="background-color:yellow;">**ATENÇÃO**<m
 {% endhint %}
 
 **Produção (ambiente de funcionamento do sistema):** \
-[https://craUF.api.crabr.com.br/](https://crama.api.crabr.com.br/)__\
-__**Exemplo:** [**https://crama.api.crabr.com.br/**](https://crama.api.crabr.com.br/)****
+[https://craUF.api.crabr.com.br/](https://crama.api.crabr.com.br/)\
+**Exemplo:** [**https://crama.api.crabr.com.br/**](https://crama.api.crabr.com.br/)
 
 ### Parâmetros de envio
 

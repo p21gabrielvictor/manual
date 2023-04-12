@@ -1,6 +1,6 @@
 # Autorização de cancelamento em Excel
 
-#### **``**[<mark style="color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/Exemplo\_Autoriza%C3%A7%C3%A3o\_Cancelamento.xlsx?raw=true)<mark style="color:green;">**``**</mark>
+#### [<mark style="color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/Exemplo\_Autoriza%C3%A7%C3%A3o\_Cancelamento.xlsx?raw=true)
 
 {% tabs %}
 {% tab title="Instruções  Gerais" %}

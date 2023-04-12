@@ -1,6 +1,6 @@
-# Preenchimento de pedido de desistência/cancelamento em Excel
+# Pedido de desistência/cancelamento em Excel
 
-#### ``[<mark style="color:green;">`DOWNLOAD DO ARQUIVO EXEMPLO`</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO\_PEDIDO\_DESIST%C3%8ANCIA\_CANCELAMENTO\_APRESENTANTE.xlsx?raw=true)<mark style="color:green;">``</mark>
+#### [<mark style="color:green;">`DOWNLOAD DO ARQUIVO EXEMPLO`</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO\_PEDIDO\_DESIST%C3%8ANCIA\_CANCELAMENTO\_APRESENTANTE.xlsx?raw=true)
 
 {% tabs %}
 {% tab title="Instruções gerais" %}
@@ -27,4 +27,4 @@
 {% endtab %}
 {% endtabs %}
 
-#### ``
+####

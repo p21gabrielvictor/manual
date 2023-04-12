@@ -23,7 +23,7 @@ Arquivo pdf assinado em p7s referente ao título de protocolo 00256 de 12/03/201
 
 ![](<../.gitbook/assets/image (31) (1).png>)
 
-****
+
 {% endtab %}
 
 {% tab title="Recepção / Consulta" %}

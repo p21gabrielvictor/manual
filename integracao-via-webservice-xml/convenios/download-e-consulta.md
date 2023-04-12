@@ -81,4 +81,4 @@ Informar o parâmetro “**userDados**" com a seguinte estrutura:\\
 
 Dessa forma, o apresentante poderá fazer a consulta de mais de um instrumento por município e cartório.
 
-<mark style="color:green;">**``**</mark>[<mark style="color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/CONFIRMACAO\_RETORNO\_COMARCAS\_CONSULTA\_SLIP\_XML.zip?raw=true)<mark style="color:green;">**``**</mark>
+[<mark style="color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/CONFIRMACAO\_RETORNO\_COMARCAS\_CONSULTA\_SLIP\_XML.zip?raw=true)

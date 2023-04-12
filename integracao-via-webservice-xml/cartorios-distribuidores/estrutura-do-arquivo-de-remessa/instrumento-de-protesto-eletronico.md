@@ -3,12 +3,12 @@
 Atualmente existe duas formas de realizar o envio do instrumento de protesto eletrônico.
 
 **Envio no retorno**\
-****O instrumento eletrônico deve ser compactado, e gerado o base64 do arquivo zip. A string gerada é adicionada no atributo t51 da tag de transação (tr);
+O instrumento eletrônico deve ser compactado, e gerado o base64 do arquivo zip. A string gerada é adicionada no atributo t51 da tag de transação (tr);
 
 **Envio de imagem**\
-****O instrumento eletrônico deve ser compactado, e gerado o base64 do arquivo zip. A string gerada é adicionada na tag < base64 >
+O instrumento eletrônico deve ser compactado, e gerado o base64 do arquivo zip. A string gerada é adicionada na tag < base64 >
 
-****
+
 
 **NOMENCLATURA**
 
