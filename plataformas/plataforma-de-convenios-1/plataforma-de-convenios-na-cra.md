@@ -68,7 +68,7 @@ Para a empresa, o sistema informa que a minuta está pronta e que já pode ser b
 
 ![](../../.gitbook/assets/minuta-pronta.png)
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Contrato recebido pelo instituto. A CRA acerta os últimos detalhes do convênio e devolve a via do contrato assinada se tiver sido enviada pela empresa por meio físico.
 

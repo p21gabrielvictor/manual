@@ -109,6 +109,8 @@
 
 * [Instrumento de Protesto eletrônico.](cartorios/instrumento-de-protesto-eletronico..md)
 * [Confirmação Automática](cartorios/confirmacao-automatica.md)
+* [Município Virtual](cartorios/municipio-virtual/README.md)
+  * [Como funciona](cartorios/municipio-virtual/como-funciona.md)
 
 ## CRA
 

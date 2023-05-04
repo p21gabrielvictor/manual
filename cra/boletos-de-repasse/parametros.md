@@ -4,7 +4,7 @@
 
 A conta corrente deverá ser cadastrada em “Plataforma de Pagamento > Conta Corrente” com a opção “Repasse com boleto" habilitada:
 
-![Repasse com boleto](<../../.gitbook/assets/image (1) (2).png>)
+![Repasse com boleto](<../../.gitbook/assets/image (1) (2) (1).png>)
 
 Dias de vencimento: definido pelo cliente em alinhamento com Banco.
 
