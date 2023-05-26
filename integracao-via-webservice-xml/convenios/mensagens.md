@@ -292,7 +292,7 @@ Esse modo de mensagem é ativado por parâmetro interno do sistema devido ao imp
 | 2102       | PARCIAL    | Arquivo corrompido. Tamanho da linha inválido. Tamanho: XXXX – Linha: XXXX.                                                                        |
 | 2104       | PARCIAL    | Município: XXXX – XXXX não possui cartório na CRA.                                                                                                 |
 | 2106       | PARCIAL    | Município: XXXX – XXXX não está ativo                                                                                                              |
-| 2107       | PARCIAL    | Sequencial do devedor inválido (XXXX)                                                                                                              |
+| 2107       | COMPLETO   | Sequencial do devedor inválido (XXXX)                                                                                                              |
 | 2108       | COMPLETO   | Arquivo corrompido. Soma de títulos existentes no arquivo (XXXX) não confere com total informado no header (XXXX).                                 |
 | 2109       | COMPLETO   | Arquivo corrompido. Soma de indicações existentes no arquivo (XXXX) não confere com total informado no header (XXXX).                              |
 | 1253       | COMPLETO   | TÍTULO NÃO PODE SER ENVIADO COM SALDO (X) SUPERIOR AO PERMITIDO (Y) PARA O APRESENTANTE.                                                           |
