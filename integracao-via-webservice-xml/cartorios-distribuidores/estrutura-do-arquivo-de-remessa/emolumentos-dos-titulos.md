@@ -58,7 +58,7 @@ description: >-
 | **valor**              | **Documento do devedor**                          | **Não**           | **Variável** | **Decimal**           | **2**                |
 | **tipo**               | **Tipo de custas (1 – Retirada, 2 Cancelamento)** | **Sim**           | **001**      | **Inteiro**           | **Nenhuma**          |
 | **total**              | **Total das custas pré-calculadas**               | **Não**           | **Variável** | **Decimal**           | **2**                |
-| vigencia               | Vigência das custas                               | **Não**           | 010          | Data (01/01/2024)     | Nenhuma              |
+| **vigência**           | **Vigência das custas**                           | **Não**           | **010**      | **Data (01/01/2024)** | **Nenhuma**          |
 
 \
 
