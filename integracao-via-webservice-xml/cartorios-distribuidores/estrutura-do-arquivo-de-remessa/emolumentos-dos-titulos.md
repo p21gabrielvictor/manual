@@ -14,15 +14,12 @@ description: >-
   * Após a autenticação serão validados os parâmetros de entrada e por último a crítica do arquivo
 *   **Serviços disponíveis:**
 
-    | **CustasTitulo** | Envio de emolumentos dos títulos |
-    | ---------------- | -------------------------------- |
+    <table data-header-hidden><thead><tr><th width="234"></th><th></th></tr></thead><tbody><tr><td><strong>CustasTitulo</strong></td><td>Envio de emolumentos dos títulos</td></tr></tbody></table>
 *   **Parâmetros dos serviços disponíveis:**
 
     * **Upload**
 
-    | **userArq**   | Nome do arquivo no formato **ENNNDDMM.AAS.** |
-    | ------------- | -------------------------------------------- |
-    | **userDados** | Conteúdo do arquivo XML.                     |
+    <table data-header-hidden><thead><tr><th width="278"></th><th></th></tr></thead><tbody><tr><td><strong>userArq</strong></td><td>Nome do arquivo no formato <strong>ENNNDDMM.AAS.</strong></td></tr><tr><td><strong>userDados</strong></td><td>Conteúdo do arquivo XML.</td></tr></tbody></table>
 
     * **O encoding do XML deve estar de acordo com ISO-8859-1.**
     * **O conteúdo dos arquivos enviados para CRA devem seguir o padrão de codificação ASCII**
@@ -50,22 +47,18 @@ description: >-
 
 [<mark style="color:green;">**`DOWNLOAD ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO\_CUSTAS\_TITULO.zip?raw=true)
 
-| _**Atributo**_                                                                                                                                      | _**Descrição**_                                   | _**Tam**_    | _**Tipo**_            | _**Casas Decimais**_ | _**Obrigatório**_ |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------ | --------------------- | -------------------- | ----------------- |
-| **codigo**                                                                                                                                          | **Código do apresentante**                        | **Variável** | **Alfanumérico**      | **Nenhuma**          | **Sim**           |
-| **protocolo**                                                                                                                                       | **Protocolo do título**                           | **Variável** | **Alfanumérico**      | **Nenhuma**          | **Não**           |
-| **documento\_devedor**                                                                                                                              | **Documento do devedor**                          | **Variável** | **Numérico**          | **Nenhuma**          | **Não**           |
-| **data\_protocolo**                                                                                                                                 | **Data de protocolo**                             | **010**      | **Data (01/01/2024)** | **Nenhuma**          | **Não**           |
-| **numero\_titulo**                                                                                                                                  | **Número do título**                              | **Variável** | **Numérico**          | **Nenhuma**          | **Não**           |
-| **nosso\_numero**                                                                                                                                   | **Nosso número**                                  | **Variável** | **Numérico**          | **Nenhuma**          | **Não**           |
-| **valor**                                                                                                                                           | **Documento do devedor**                          | **Variável** | **Decimal**           | **2**                | **Não**           |
-| <p><strong>custas</strong><br><mark style="color:red;background-color:red;"><strong>(Uso somente para o Distrito Federal)</strong></mark></p>       | Custas do cartório/distribuidor/demais despesas   | Variável     | Decimal               | 2                    | Não               |
-| <p><strong>intimacao</strong><br><mark style="color:red;background-color:red;"><strong>(Uso somente para o Distrito Federal)</strong></mark></p>    | Custas de intimação                               | Variável     | Decimal               |  2                   | Não               |
-| <p><strong>cancelamento</strong><br><mark style="color:red;background-color:red;"><strong>(Uso somente para o Distrito Federal)</strong></mark></p> | Custas de cancelamento                            | Variável     | Decimal               |  2                   | Não               |
-| <p><strong>edital</strong><br><mark style="color:red;background-color:red;"><strong>(Uso somente para o Distrito Federal)</strong></mark></p>       | Custas de edital                                  | 003          | Decimal               |  2                   | Não               |
-| **tipo**                                                                                                                                            | **Tipo de custas (1 – Retirada, 2 Cancelamento)** | **001**      | **Inteiro**           | **Nenhuma**          | **Não**           |
-| **total**                                                                                                                                           | **Total das custas pré-calculadas**               | **Variável** | **Decimal**           | **2**                | **Não**           |
-| vigencia                                                                                                                                            | Vigência das custas                               | 010          | Data (01/01/2024)     | Nenhuma              | N                 |
+| _**Atributo**_         | _**Descrição**_                                   | _**Tam**_    | _**Tipo**_            | _**Casas Decimais**_ | _**Obrigatório**_ |
+| ---------------------- | ------------------------------------------------- | ------------ | --------------------- | -------------------- | ----------------- |
+| **codigo**             | **Código do apresentante**                        | **Variável** | **Alfanumérico**      | **Nenhuma**          | Sim               |
+| **protocolo**          | **Protocolo do título**                           | **Variável** | **Alfanumérico**      | **Nenhuma**          | Sim               |
+| **documento\_devedor** | **Documento do devedor**                          | **Variável** | **Numérico**          | **Nenhuma**          | **Não**           |
+| **data\_protocolo**    | **Data de protocolo**                             | **010**      | **Data (01/01/2024)** | **Nenhuma**          | **Não**           |
+| **numero\_titulo**     | **Número do título**                              | **Variável** | **Numérico**          | **Nenhuma**          | **Não**           |
+| **nosso\_numero**      | **Nosso número**                                  | **Variável** | **Numérico**          | **Nenhuma**          | **Não**           |
+| **valor**              | **Documento do devedor**                          | **Variável** | **Decimal**           | **2**                | **Não**           |
+| **tipo**               | **Tipo de custas (1 – Retirada, 2 Cancelamento)** | **001**      | **Inteiro**           | **Nenhuma**          | **Sim**           |
+| **total**              | **Total das custas pré-calculadas**               | **Variável** | **Decimal**           | **2**                | **Não**           |
+| vigencia               | Vigência das custas                               | 010          | Data (01/01/2024)     | Nenhuma              | N                 |
 
 \
 
@@ -106,12 +99,7 @@ Observações:
 \
 
 
-| **CÓDIGO** | **DESCRIÇÃO**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2291       | Custas do título atualizadas com sucesso.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| 2196       | Título não encontrado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 2292       | <p>Campos inválidos ou não informados (<strong>APRESENTANTES</strong>)<br>Campos inválidos ou não informados (<strong>APRESENTANTE</strong>)<br>Campos inválidos ou não informados (<strong>TITULOS</strong>)<br>Campos inválidos ou não informados (<strong>TITULO</strong>)<br>Campos inválidos ou não informados (<strong>EMOLUMENTOS</strong>)<br>Campos inválidos ou não informados (<strong>EMOLUMENTO</strong>)<br>Campos inválidos ou não informados (<strong>TOTAL</strong>)<br>Campos inválidos ou não informados (<strong>TIPO</strong>)</p> |
-| 2137       | <p>Campo (<strong>TIPO DE EMOLUMENTO</strong>) inválido<br>Campo (<strong>VIGENCIA</strong>) inválido</p>                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+<table data-header-hidden><thead><tr><th width="183"></th><th></th></tr></thead><tbody><tr><td><strong>CÓDIGO</strong></td><td><strong>DESCRIÇÃO</strong></td></tr><tr><td>2291</td><td>Custas do título atualizadas com sucesso.</td></tr><tr><td>2196</td><td>Título não encontrado.</td></tr><tr><td>2292</td><td>Campos inválidos ou não informados (<strong>APRESENTANTES</strong>)<br>Campos inválidos ou não informados (<strong>APRESENTANTE</strong>)<br>Campos inválidos ou não informados (<strong>TITULOS</strong>)<br>Campos inválidos ou não informados (<strong>TITULO</strong>)<br>Campos inválidos ou não informados (<strong>EMOLUMENTOS</strong>)<br>Campos inválidos ou não informados (<strong>EMOLUMENTO</strong>)<br>Campos inválidos ou não informados (<strong>TOTAL</strong>)<br>Campos inválidos ou não informados (<strong>TIPO</strong>)</td></tr><tr><td>2137</td><td>Campo (<strong>TIPO DE EMOLUMENTO</strong>) inválido<br>Campo (<strong>VIGENCIA</strong>) inválido</td></tr></tbody></table>
 
 \
 
