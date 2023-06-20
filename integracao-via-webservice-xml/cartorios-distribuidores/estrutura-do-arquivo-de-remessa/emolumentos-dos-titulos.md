@@ -47,18 +47,18 @@ description: >-
 
 [<mark style="color:green;">**`DOWNLOAD ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO\_CUSTAS\_TITULO.zip?raw=true)
 
-| _**Atributo**_         | _**Descrição**_                                   | _**Tam**_    | _**Tipo**_            | _**Casas Decimais**_ | _**Obrigatório**_ |
-| ---------------------- | ------------------------------------------------- | ------------ | --------------------- | -------------------- | ----------------- |
-| **codigo**             | **Código do apresentante**                        | **Variável** | **Alfanumérico**      | **Nenhuma**          | Sim               |
-| **protocolo**          | **Protocolo do título**                           | **Variável** | **Alfanumérico**      | **Nenhuma**          | Sim               |
-| **documento\_devedor** | **Documento do devedor**                          | **Variável** | **Numérico**          | **Nenhuma**          | **Não**           |
-| **data\_protocolo**    | **Data de protocolo**                             | **010**      | **Data (01/01/2024)** | **Nenhuma**          | **Não**           |
-| **numero\_titulo**     | **Número do título**                              | **Variável** | **Numérico**          | **Nenhuma**          | **Não**           |
-| **nosso\_numero**      | **Nosso número**                                  | **Variável** | **Numérico**          | **Nenhuma**          | **Não**           |
-| **valor**              | **Documento do devedor**                          | **Variável** | **Decimal**           | **2**                | **Não**           |
-| **tipo**               | **Tipo de custas (1 – Retirada, 2 Cancelamento)** | **001**      | **Inteiro**           | **Nenhuma**          | **Sim**           |
-| **total**              | **Total das custas pré-calculadas**               | **Variável** | **Decimal**           | **2**                | **Não**           |
-| vigencia               | Vigência das custas                               | 010          | Data (01/01/2024)     | Nenhuma              | N                 |
+| _**Atributo**_         | _**Descrição**_                                   | _**Obrigatório**_ | _**Tam**_    | _**Tipo**_            | _**Casas Decimais**_ |
+| ---------------------- | ------------------------------------------------- | ----------------- | ------------ | --------------------- | -------------------- |
+| **codigo**             | **Código do apresentante**                        | **Sim**           | **Variável** | **Alfanumérico**      | **Nenhuma**          |
+| **protocolo**          | **Protocolo do título**                           | **Sim**           | **Variável** | **Alfanumérico**      | **Nenhuma**          |
+| **documento\_devedor** | **Documento do devedor**                          | **Não**           | **Variável** | **Numérico**          | **Nenhuma**          |
+| **data\_protocolo**    | **Data de protocolo**                             | **Não**           | **010**      | **Data (01/01/2024)** | **Nenhuma**          |
+| **numero\_titulo**     | **Número do título**                              | **Não**           | **Variável** | **Numérico**          | **Nenhuma**          |
+| **nosso\_numero**      | **Nosso número**                                  | **Não**           | **Variável** | **Numérico**          | **Nenhuma**          |
+| **valor**              | **Documento do devedor**                          | **Não**           | **Variável** | **Decimal**           | **2**                |
+| **tipo**               | **Tipo de custas (1 – Retirada, 2 Cancelamento)** | **Sim**           | **001**      | **Inteiro**           | **Nenhuma**          |
+| **total**              | **Total das custas pré-calculadas**               | **Não**           | **Variável** | **Decimal**           | **2**                |
+| vigencia               | Vigência das custas                               | **Não**           | 010          | Data (01/01/2024)     | Nenhuma              |
 
 \
 
