@@ -4,15 +4,7 @@
 
 **Atributos**
 
-| **Atributo**  | **Descrição**     |
-| ------------- | ----------------- |
-| boleto        | base64 do boleto  |
-| nomeMunicipio | Nome do município |
-| nomeCartorio  | Nome do cartório  |
-| valorTitulo   | Valor do título   |
-| saldoTitulo   | Saldo do título   |
-| nossoNumero   | Nosso número      |
-| nomeDevedor   | Nome do devedor   |
+<table data-header-hidden><thead><tr><th width="173.57142857142856"></th><th></th></tr></thead><tbody><tr><td><strong>Atributo</strong></td><td><strong>Descrição</strong></td></tr><tr><td>boleto</td><td>base64 do boleto</td></tr><tr><td>nomeMunicipio</td><td>Nome do município</td></tr><tr><td>nomeCartorio</td><td>Nome do cartório</td></tr><tr><td>valorTitulo</td><td>Valor do título</td></tr><tr><td>saldoTitulo</td><td>Saldo do título</td></tr><tr><td>nossoNumero</td><td>Nosso número</td></tr><tr><td>nomeDevedor</td><td>Nome do devedor</td></tr></tbody></table>
 
 ### Exemplos de requisição e resposta
 

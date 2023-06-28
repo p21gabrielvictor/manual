@@ -446,8 +446,4 @@
 
 **Custas título**
 
-| CÓDIGO | DESCRIÇÃO                |
-| ------ | ------------------------ |
-| 2318   | Custas atualizadas.      |
-| 2292   | Campos inválidos (xxxx). |
-| 2196   | Título não encontrado.   |
+<table><thead><tr><th width="150">CÓDIGO</th><th>DESCRIÇÃO</th></tr></thead><tbody><tr><td>2318</td><td>Custas atualizadas.</td></tr><tr><td>2292</td><td>Campos inválidos (xxxx).</td></tr><tr><td>2196</td><td>Título não encontrado.</td></tr></tbody></table>
