@@ -11,7 +11,7 @@ Em seguida o sistema irá redirecionar para a tela de Upload Cancelamento seleci
 * O sistema da CRA está configurado para **aceitar** upload de arquivo após o horário limite: \
   Nesse caso o sistema aceita o arquivo, mas só irá disponibilizá-lo para o cartório no próximo dia útil.
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 Após o envio do arquivo o sistema irá gerar um log de sucesso ou de erro, conforme mostrado no exemplo abaixo:
 

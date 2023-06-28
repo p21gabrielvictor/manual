@@ -4,7 +4,7 @@ Download Retorno é o local onde o apresentante deverá acessar para a coleta os
 
 Para visualizar os retornos acesse o menu Retorno -> Download Retorno
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
 
 O sistema apresentará os arquivos de retorno que estão pendentes de download. Clique no ícone ![](<../../.gitbook/assets/image (66).png>) para realizar o download.&#x20;
 

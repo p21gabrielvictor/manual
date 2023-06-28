@@ -14,11 +14,11 @@ Insira o código do cartório e o código [**IBGE do município**](https://www.i
 
 Selecione o arquivo de remessa, confirmação, retorno etc. e clique em Converter.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 O arquivo é alterado e pode seguir o processo normalmente.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 OBS: Será disponibilizado um sistema para o cartório físico fazer a conversão dos códigos.\
 \
