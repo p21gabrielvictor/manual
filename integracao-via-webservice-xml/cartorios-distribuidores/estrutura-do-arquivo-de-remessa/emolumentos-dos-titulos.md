@@ -19,7 +19,7 @@ description: >-
 
     * **Upload**
 
-    <table data-header-hidden><thead><tr><th width="278"></th><th></th></tr></thead><tbody><tr><td><strong>userArq</strong></td><td>Nome do arquivo no formato <strong>ENNNDDMM.AAS.</strong></td></tr><tr><td><strong>userDados</strong></td><td>Conteúdo do arquivo XML.</td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="144"></th><th></th></tr></thead><tbody><tr><td><strong>userArq</strong></td><td>Nome do arquivo no formato <strong>ENNNDDMM.AAS.</strong></td></tr><tr><td><strong>userDados</strong></td><td>Conteúdo do arquivo XML.</td></tr></tbody></table>
 
     * **O encoding do XML deve estar de acordo com ISO-8859-1.**
     * **O conteúdo dos arquivos enviados para CRA devem seguir o padrão de codificação ASCII**

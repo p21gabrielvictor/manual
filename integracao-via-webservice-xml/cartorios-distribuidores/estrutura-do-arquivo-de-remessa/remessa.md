@@ -2,25 +2,7 @@
 
 #### REGISTRO HEADER – ARQUIVO REMESSA (Tag hd)
 
-| _**Atributo**_ | _**Descrição**_                                                    | _**Tamanho**_ | _**Tipo**_   | _**Casas Decimais**_ |
-| -------------- | ------------------------------------------------------------------ | ------------- | ------------ | -------------------- |
-| h01            | Identifica o registro header no arquivo – Constante 0              | 001           | Numérico     | Nenhuma              |
-| h02            | Código do apresentante (informar “999” se tiver mais de 3 dígitos) | 003           | Numérico     | Nenhuma              |
-| h03            | Nome do apresentante                                               | 040           | Alfabético   |                      |
-| h04            | Data do envio do arquivo de remessa                                | 008           | Numérico     | Nenhuma              |
-| h05            | Identificação de Transação – Remetente                             | 003           | Alfanumérico |                      |
-| h06            | Identificação de Transação – Destinatário                          | 003           | Alfanumérico |                      |
-| h07            | Identificação de Transação – Tipo                                  | 003           | Alfanumérico |                      |
-| h08            | Sequencial da remessa                                              | 006           | Numérico     | Nenhuma              |
-| h09            | Quantidade de registros na transação                               | 004           | Numérico     | Nenhuma              |
-| h10            | Quantidade de títulos na remessa                                   | 004           | Numérico     | Nenhuma              |
-| h11            | Quantidade de indicações (tipo: DMI, DRI e CBI)                    | 004           | Numérico     | Nenhuma              |
-| h12            | Quantidade de títulos originais na remessa                         | 004           | Numérico     | Nenhuma              |
-| h13            | Número de identificação do apresentante (opcional)                 | 006           | Alfanumérico |                      |
-| h14            | Versão do Layout                                                   | 003           | Numérico     | Nenhuma              |
-| h15            | Código do município                                                | 007           | Alfanumérico |                      |
-| h16            | Preencher em caso de código do apresentante com mais de 3 dígitos  | 497           | Alfanumérico |                      |
-| h17            | Sequencial do registro                                             | 004           | Numérico     | Nenhuma              |
+<table data-header-hidden><thead><tr><th width="117"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><em><strong>Atributo</strong></em></td><td><em><strong>Descrição</strong></em></td><td><em><strong>Tamanho</strong></em></td><td><em><strong>Tipo</strong></em></td><td><em><strong>Casas Decimais</strong></em></td></tr><tr><td>h01</td><td>Identifica o registro header no arquivo – Constante 0</td><td>001</td><td>Numérico</td><td>Nenhuma</td></tr><tr><td>h02</td><td>Código do apresentante (informar “999” se tiver mais de 3 dígitos)</td><td>003</td><td>Numérico</td><td>Nenhuma</td></tr><tr><td>h03</td><td>Nome do apresentante</td><td>040</td><td>Alfabético</td><td></td></tr><tr><td>h04</td><td>Data do envio do arquivo de remessa</td><td>008</td><td>Numérico</td><td>Nenhuma</td></tr><tr><td>h05</td><td>Identificação de Transação – Remetente</td><td>003</td><td>Alfanumérico</td><td></td></tr><tr><td>h06</td><td>Identificação de Transação – Destinatário</td><td>003</td><td>Alfanumérico</td><td></td></tr><tr><td>h07</td><td>Identificação de Transação – Tipo</td><td>003</td><td>Alfanumérico</td><td></td></tr><tr><td>h08</td><td>Sequencial da remessa</td><td>006</td><td>Numérico</td><td>Nenhuma</td></tr><tr><td>h09</td><td>Quantidade de registros na transação</td><td>004</td><td>Numérico</td><td>Nenhuma</td></tr><tr><td>h10</td><td>Quantidade de títulos na remessa</td><td>004</td><td>Numérico</td><td>Nenhuma</td></tr><tr><td>h11</td><td>Quantidade de indicações (tipo: DMI, DRI e CBI)</td><td>004</td><td>Numérico</td><td>Nenhuma</td></tr><tr><td>h12</td><td>Quantidade de títulos originais na remessa</td><td>004</td><td>Numérico</td><td>Nenhuma</td></tr><tr><td>h13</td><td>Número de identificação do apresentante (opcional)</td><td>006</td><td>Alfanumérico</td><td></td></tr><tr><td>h14</td><td>Versão do Layout</td><td>003</td><td>Numérico</td><td>Nenhuma</td></tr><tr><td>h15</td><td>Código do município</td><td>007</td><td>Alfanumérico</td><td></td></tr><tr><td>h16</td><td>Preencher em caso de código do apresentante com mais de 3 dígitos</td><td>497</td><td>Alfanumérico</td><td></td></tr><tr><td>h17</td><td>Sequencial do registro</td><td>004</td><td>Numérico</td><td>Nenhuma</td></tr></tbody></table>
 
 **REGISTRO DE TRANSAÇÃO – ARQUIVO REMESSA (Tag tr)**
 
