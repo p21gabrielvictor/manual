@@ -37,27 +37,27 @@ O objetivo desse arquivo é garantir que as informações sobre o andamento do t
 
 {% code fullWidth="true" %}
 ```
-ATRIBUTO                DESCRIÇÃO                  OBRIGATORIO      TAMANHO     TIPO      
- CODIGO            CODIGO DO APRESENTANTE             SIM           Variável ALFANUMÉRICO
- PROTOCOLO         PROTOCOLO  DO CARTÓRIO             SIM           Variável ALFANUMÉRICO
- DOCUMENTO_DEVEDOR DOCUMENTO DO DEVEDOR               SIM           Variável   NUMÉRICO
- DATA_PROTOCOLO    DATA DO PROTOCOLO                  NÃO             010       DATA
- NUMERO_TITULO     NUMERO DO TÍTULO                   NÃO           Variável   NUMÉRICO
- NOSSO_NUMERO      NOSSO NUMERO INFORMADO NO TITULO   NÃO           Variável   NUMÉRICO
- VALOR             VALOR DO TÍTULO                    NÃO           Variável   DECIMAL
- SALDO             SALDO DO TÍTULO                    NÃO           Variável   DECIMAL
+     ATRIBUTO     |         DESCRIÇÃO                | OBRIGATORIO | TAMANHO  |    TIPO      
+ CODIGO           | CODIGO DO APRESENTANTE           |    SIM      | Variável | ALFANUMÉRICO
+ PROTOCOLO        | PROTOCOLO  DO CARTÓRIO           |    SIM      | Variável | ALFANUMÉRICO
+ DOCUMENTO_DEVEDOR| DOCUMENTO DO DEVEDOR             |    SIM      | Variável |   NUMÉRICO
+ DATA_PROTOCOLO   | DATA DO PROTOCOLO                |    NÃO      |   010    |    DATA
+ NUMERO_TITULO    | NUMERO DO TÍTULO                 |    NÃO      | Variável |   NUMÉRICO
+ NOSSO_NUMERO     | NOSSO NUMERO INFORMADO NO TITULO |    NÃO      | Variável |   NUMÉRICO
+ VALOR            | VALOR DO TÍTULO                  |    NÃO      | Variável |   DECIMAL
+ SALDO            | SALDO DO TÍTULO                  |    NÃO      | Variável |   DECIMAL
 ```
 {% endcode %}
 
 * **EMOLUMENTOS:**
 
 ```
-ATRIBUTO                DESCRIÇÃO                  OBRIGATORIO      TAMANHO     TIPO      
- TIPO              TIPO DAS CUSTAS                    SIM             001      INTEIRO
-                     1 - RETIRADA
-                     2 - CANCELAMENTO  
-TOTAL             TOTAL DAS CUSTAS PRÉ-CALCULADAS    NÃO           Variável   DECIMAL
-VIGENCIA          VIGENCIA DAS CUSTAS                NÃO             010       DATA
+     ATRIBUTO    |            DESCRIÇÃO             | OBRIGATORIO | TAMANHO  |   TIPO      
+TIPO             | TIPO DAS CUSTAS                  |     SIM     |   001    |  INTEIRO
+                 |   1 - RETIRADA                   |             |          |                   
+                 |   2 - CANCELAMENTO               |             |          |           
+TOTAL            | TOTAL DAS CUSTAS PRÉ-CALCULADAS  |     NÃO     | Variável |  DECIMAL
+VIGENCIA         | VIGENCIA DAS CUSTAS              |     NÃO     |   010    |   DATA
 
 ```
 
@@ -66,15 +66,23 @@ VIGENCIA          VIGENCIA DAS CUSTAS                NÃO             010       
 * **ANDAMENTO:**
 
 ```
-ATRIBUTO                DESCRIÇÃO                 OBRIGATORIO      TAMANHO     TIPO   CASA DECIMAIS
-  CODIGO           AA Apontado
-                   AB Em intimação - Pessoal
-                   AC Em intimação - Eletrônica
-                   AD Em intimação – AR / Correios
-                   AE Publicacao por Edital
-                   AF Em intimação – Aguardando AR
-                   AG Intimado – Aguardando tríduo
-  DATA             DATA DO ANDAMENTO       
+    ATRIBUTO     |        DESCRIÇÃO                  | OBRIGATORIO | TAMANHO |    TIPO       
+  CODIGO         | Ocorrência                        |    SIM      |   002   | ALFANUMÉRICO      
+                 | AA Apontado                       |             |         |                                  
+                 | AB Em intimação - Pessoal         |             |         |         
+                 | AC Em intimação - Eletrônica      |             |         |       
+                 | AD Em intimação – AR / Correios   |             |         | 
+                 | AE Publicacao por Edital          |             |         |                       
+                 | AF Em intimação – Aguardando AR   |             |         |                   
+                 | AG Intimado – Aguardando tríduo   |             |         |                 
+                 | AI Pedido de Retirada - Aguardando|             |         |                     
+                 | tríduo                            |             |         |                   
+                 | AJ Protesto do banco cancelado    |             |         |                 
+                 | (Exclusivamente para título de    |             |         |                         
+                 |  apresentante Banco)              |             |         | 
+                 |                                   |             |         |            
+  DATA           | DATA DO ANDAMENTO                 |    SIM      | Variável| ALFANUMÉRICO  
+                 | (FORMATO D/M/Y H:I:S)             |             |         |                        
 ```
 
 * **ARQUIVO EXEMPLO:**&#x20;
