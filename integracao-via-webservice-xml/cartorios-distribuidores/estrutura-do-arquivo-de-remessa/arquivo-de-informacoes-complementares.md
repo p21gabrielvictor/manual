@@ -139,7 +139,6 @@ ATRIBUTO                DESCRIÇÃO                 OBRIGATORIO      TAMANHO    
             </titulos>
         </apresentante>
     </apresentantes>
-</titulos>
 </complementos>
 ```
 {% endtab %}
