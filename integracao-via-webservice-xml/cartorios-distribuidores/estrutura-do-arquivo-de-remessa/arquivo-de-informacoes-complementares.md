@@ -33,25 +33,35 @@
 {% endtab %}
 
 {% tab title="Estrutura do Arquivo" %}
-* **EMOLUMENTOS:**
+* **DADOS DO TÍTULO:**
 
 {% code fullWidth="true" %}
 ```
-ATRIBUTO                DESCRIÇÃO                  OBRIGATORIO      TAMANHO     TIPO   CASA DECIMAIS  
- CODIGO            CODIGO DO APRESENTANTE          
- PROTOCOLO         PROTOCOLO  DO CARTÓRIO          
- DOCUMENTO_DEVEDOR DOCUMENTO DO DEVEDOR            
- DATA_PROTOCOLO    DATA DO PROTOCOLO              
- NUMERO_TITULO     NUMERO DO TÍTULO                 
- NOSSO_NUMERO      NOSSO NUMERO INFORMADO NO TITULO      
- VALOR             VALOR DO TITUO 
- TIPO              TIPO DAS CUSTAS 
-                     1 - RETIRADA
-                     2 - CANCELAMENTO  
- TOTAL             TOTAL DAS CUSTAS PRÉ-CALCULADAS    
- VIGENCIA          VIGENCIA DAS CUSTAS     
+ATRIBUTO                DESCRIÇÃO                  OBRIGATORIO      TAMANHO     TIPO      
+ CODIGO            CODIGO DO APRESENTANTE             SIM           Variável ALFANUMÉRICO
+ PROTOCOLO         PROTOCOLO  DO CARTÓRIO             SIM           Variável ALFANUMÉRICO
+ DOCUMENTO_DEVEDOR DOCUMENTO DO DEVEDOR               SIM           Variável   NUMÉRICO
+ DATA_PROTOCOLO    DATA DO PROTOCOLO                  NÃO             010       DATA
+ NUMERO_TITULO     NUMERO DO TÍTULO                   NÃO           Variável   NUMÉRICO
+ NOSSO_NUMERO      NOSSO NUMERO INFORMADO NO TITULO   NÃO           Variável   NUMÉRICO
+ VALOR             VALOR DO TÍTULO                    NÃO           Variável   DECIMAL
+ SALDO             SALDO DO TÍTULO                    NÃO           Variável   DECIMAL
 ```
 {% endcode %}
+
+* **EMOLUMENTOS:**
+
+```
+ATRIBUTO                DESCRIÇÃO                  OBRIGATORIO      TAMANHO     TIPO      
+ TIPO              TIPO DAS CUSTAS                    SIM             001      INTEIRO
+                     1 - RETIRADA
+                     2 - CANCELAMENTO  
+TOTAL             TOTAL DAS CUSTAS PRÉ-CALCULADAS    NÃO           Variável   DECIMAL
+VIGENCIA          VIGENCIA DAS CUSTAS                NÃO             010       DATA
+
+```
+
+
 
 * **ANDAMENTO:**
 
@@ -130,6 +140,7 @@ ATRIBUTO                DESCRIÇÃO                 OBRIGATORIO      TAMANHO    
         </apresentante>
     </apresentantes>
 </titulos>
+</complementos>
 ```
 {% endtab %}
 
