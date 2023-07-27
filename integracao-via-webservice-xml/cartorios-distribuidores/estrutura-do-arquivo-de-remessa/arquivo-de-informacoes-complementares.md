@@ -77,7 +77,7 @@ ATRIBUTO                DESCRIÇÃO                 OBRIGATORIO      TAMANHO    
   DATA             DATA DO ANDAMENTO       
 ```
 
-* ARQUIVO EXEMPLO:&#x20;
+* **ARQUIVO EXEMPLO:**&#x20;
 
 ```xml
 <complementos>
