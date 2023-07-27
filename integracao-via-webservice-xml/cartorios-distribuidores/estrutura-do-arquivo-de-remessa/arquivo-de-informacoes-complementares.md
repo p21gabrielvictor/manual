@@ -1,6 +1,6 @@
 # Arquivo de Informações complementares
 
-
+O objetivo desse arquivo é garantir que as informações sobre o andamento do título sejam disponibilizadas de forma diária para os apresentantes. Essa obrigação não substitui outros arquivos, como os de confirmação e retorno, sendo necessário o envio de todos eles.
 
 {% tabs %}
 {% tab title="Parâmetros de Envio" %}
