@@ -67,8 +67,10 @@ VIGENCIA         | VIGÊNCIA DAS CUSTAS              |     NÃO     |   010    |
 
 * **ANDAMENTO:**
 
-<pre data-full-width="true"><code>    ATRIBUTO     |        DESCRIÇÃO                  | OBRIGATÓRIO | TAMANHO  |    TIPO       
-  CODIGO         | Ocorrência                        |    SIM      |   002    | ALFABÉTICA      
+{% code fullWidth="false" %}
+```
+    ATRIBUTO     |        DESCRIÇÃO                  | OBRIGATÓRIO | TAMANHO  |    TIPO       
+  CODIGO         | Ocorrência                        |    SIM      |   002    | ALFABÉTICO      
                  | AA Apontado                       |             |          |                                  
                  | AB Em intimação - Pessoal         |             |          |         
                  | AC Em intimação - Eletrônica      |             |          |       
@@ -82,11 +84,12 @@ VIGENCIA         | VIGÊNCIA DAS CUSTAS              |     NÃO     |   010    |
                  | (Exclusivamente para título de    |             |          |                         
                  |  apresentante Banco)              |             |          | 
                  | AK Pagamento por Boleto -         |             |          |            
-<strong>                 | Aguardando compensação            |             |          |                
-</strong><strong>                 |                                   |             |          |                
-</strong>  DATA           | DATA DO ANDAMENTO                 |    SIM      | Variável | ALFANUMÉRICO  
+                 | Aguardando compensação            |             |          |                
+                 |                                   |             |          |                
+  DATA           | DATA DO ANDAMENTO                 |    SIM      | Variável | ALFANUMÉRICO  
                  | (FORMATO d/m/Y H:I:S)             |             |          |                        
-</code></pre>
+```
+{% endcode %}
 
 * **ARQUIVO EXEMPLO:**&#x20;
 
