@@ -33,7 +33,7 @@
     * [Remessa](integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/remessa.md)
     * [Emolumentos dos títulos](integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/emolumentos-dos-titulos.md)
     * [Instrumento de Protesto eletrônico](integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/instrumento-de-protesto-eletronico.md)
-    * [Arquivo de Informações complementares](integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/arquivo-de-informacoes-complementares.md)
+    * [Serviço de Informações complementares](integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/servico-de-informacoes-complementares.md)
   * [Envio de arquivos](integracao-via-webservice-xml/cartorios-distribuidores/envio-de-arquivos.md)
   * [Download e Consulta](integracao-via-webservice-xml/cartorios-distribuidores/download-e-consulta.md)
   * [Exemplos de arquivos](integracao-via-webservice-xml/cartorios-distribuidores/exemplos-de-arquivos.md)

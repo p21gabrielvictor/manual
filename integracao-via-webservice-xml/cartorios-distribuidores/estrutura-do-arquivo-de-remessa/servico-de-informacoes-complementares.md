@@ -1,6 +1,10 @@
-# Arquivo de Informações complementares
+# Serviço de Informações complementares
 
-O objetivo desse arquivo é garantir que as informações sobre o andamento do título sejam disponibilizadas de forma diária para os apresentantes. Essa obrigação não substitui outros arquivos, como os de confirmação e retorno, sendo necessário o envio de todos eles.
+O objetivo desse serviço é viabilizar que informações complementares dos títulos sejam enviadas para a CRA. Nesse primeiro momento, o serviço receberá os dados do andamento do título no cartório e informações de emolumentos/custas cartorárias para eventuais consultas para retirada ou cancelamento.
+
+O serviço permitirá o recebimento das duas informações (andamento e custas) ou apenas uma delas.
+
+Serviços disponíveis: Envio do status do andamento no cartório e emolumentos/custas cartorárias para eventuais consultas para retirada ou cancelamento.
 
 {% tabs %}
 {% tab title="Parâmetros de Envio" %}
@@ -25,7 +29,7 @@ O objetivo desse arquivo é garantir que as informações sobre o andamento do t
 {% tab title="Nomenclatura do arquivo" %}
 * **MCCCDDMM.AAS:**
   * **M:** Constante – Identifica tratar-se do arquivo de andamento.&#x20;
-  * **CCC:** Código do Apresentante / Portador&#x20;
+  * **CCC:** Código do Apresentante/Portador ou **constante 000**
   * **DD:** Dia do envio do arquivo de andamento
   * **MM:** Mês do envio do arquivo de andamento
   * **AA:** Ano do envio do arquivo de andamento&#x20;
@@ -37,13 +41,13 @@ O objetivo desse arquivo é garantir que as informações sobre o andamento do t
 
 {% code fullWidth="true" %}
 ```
-     ATRIBUTO     |         DESCRIÇÃO                | OBRIGATORIO | TAMANHO  |    TIPO      
- CODIGO           | CODIGO DO APRESENTANTE           |    SIM      | Variável | ALFANUMÉRICO
+     ATRIBUTO     |         DESCRIÇÃO                | OBRIGATÓRIO | TAMANHO  |    TIPO      
+ CODIGO           | CÓDIGO DO APRESENTANTE           |    SIM      | Variável | ALFANUMÉRICO
  PROTOCOLO        | PROTOCOLO  DO CARTÓRIO           |    SIM      | Variável | ALFANUMÉRICO
  DOCUMENTO_DEVEDOR| DOCUMENTO DO DEVEDOR             |    SIM      | Variável |   NUMÉRICO
  DATA_PROTOCOLO   | DATA DO PROTOCOLO                |    NÃO      |   010    |    DATA
- NUMERO_TITULO    | NUMERO DO TÍTULO                 |    NÃO      | Variável |   NUMÉRICO
- NOSSO_NUMERO     | NOSSO NUMERO INFORMADO NO TITULO |    NÃO      | Variável |   NUMÉRICO
+ NUMERO_TITULO    | NÚMERO DO TÍTULO                 |    NÃO      | Variável |   NUMÉRICO
+ NOSSO_NUMERO     | NOSSO NÚMERO INFORMADO NO TITULO |    NÃO      | Variável |   NUMÉRICO
  VALOR            | VALOR DO TÍTULO                  |    NÃO      | Variável |   DECIMAL
  SALDO            | SALDO DO TÍTULO                  |    NÃO      | Variável |   DECIMAL
 ```
@@ -52,12 +56,12 @@ O objetivo desse arquivo é garantir que as informações sobre o andamento do t
 * **EMOLUMENTOS:**
 
 ```
-     ATRIBUTO    |            DESCRIÇÃO             | OBRIGATORIO | TAMANHO  |   TIPO      
+     ATRIBUTO    |            DESCRIÇÃO             | OBRIGATÓRIO | TAMANHO  |   TIPO      
 TIPO             | TIPO DAS CUSTAS                  |     SIM     |   001    |  INTEIRO
                  |   1 - RETIRADA                   |             |          |                   
                  |   2 - CANCELAMENTO               |             |          |           
 TOTAL            | TOTAL DAS CUSTAS PRÉ-CALCULADAS  |     NÃO     | Variável |  DECIMAL
-VIGENCIA         | VIGENCIA DAS CUSTAS              |     NÃO     |   010    |   DATA
+VIGENCIA         | VIGÊNCIA DAS CUSTAS              |     NÃO     |   010    |   DATA
 
 ```
 
@@ -65,25 +69,26 @@ VIGENCIA         | VIGENCIA DAS CUSTAS              |     NÃO     |   010    | 
 
 * **ANDAMENTO:**
 
-```
-    ATRIBUTO     |        DESCRIÇÃO                  | OBRIGATORIO | TAMANHO |    TIPO       
-  CODIGO         | Ocorrência                        |    SIM      |   002   | ALFANUMÉRICO      
-                 | AA Apontado                       |             |         |                                  
-                 | AB Em intimação - Pessoal         |             |         |         
-                 | AC Em intimação - Eletrônica      |             |         |       
-                 | AD Em intimação – AR / Correios   |             |         | 
-                 | AE Publicacao por Edital          |             |         |                       
-                 | AF Em intimação – Aguardando AR   |             |         |                   
-                 | AG Intimado – Aguardando tríduo   |             |         |                 
-                 | AI Pedido de Retirada - Aguardando|             |         |                     
-                 | tríduo                            |             |         |                   
-                 | AJ Protesto do banco cancelado    |             |         |                 
-                 | (Exclusivamente para título de    |             |         |                         
-                 |  apresentante Banco)              |             |         | 
-                 |                                   |             |         |            
-  DATA           | DATA DO ANDAMENTO                 |    SIM      | Variável| ALFANUMÉRICO  
-                 | (FORMATO D/M/Y H:I:S)             |             |         |                        
-```
+<pre data-full-width="true"><code>    ATRIBUTO     |        DESCRIÇÃO                  | OBRIGATÓRIO | TAMANHO  |    TIPO       
+  CODIGO         | Ocorrência                        |    SIM      |   002    | ALFABÉTICA      
+                 | AA Apontado                       |             |          |                                  
+                 | AB Em intimação - Pessoal         |             |          |         
+                 | AC Em intimação - Eletrônica      |             |          |       
+                 | AD Em intimação – AR / Correios   |             |          | 
+                 | AE Publicacao por Edital          |             |          |                       
+                 | AF Em intimação – Aguardando AR   |             |          |                   
+                 | AG Intimado – Aguardando tríduo   |             |          |                 
+                 | AI Pedido de Retirada - Aguardando|             |          |                     
+                 | tríduo                            |             |          |                   
+                 | AJ Protesto do banco cancelado    |             |          |                 
+                 | (Exclusivamente para título de    |             |          |                         
+                 |  apresentante Banco)              |             |          | 
+                 | AK Pagamento por Boleto -         |             |          |            
+<strong>                 | Aguardando compensação            |             |          |                
+</strong><strong>                 |                                   |             |          |                
+</strong>  DATA           | DATA DO ANDAMENTO                 |    SIM      | Variável | ALFANUMÉRICO  
+                 | (FORMATO d/m/Y H:I:S)             |             |          |                        
+</code></pre>
 
 * **ARQUIVO EXEMPLO:**&#x20;
 

@@ -21,4 +21,3 @@ Após fazer o envio do cancelamento, o apresentante deverá aguardar o recebimen
 
 {% embed url="https://docs.google.com/presentation/d/1eTUmVynNM9c7Sk8bxpAQsUGRd9sl_WSd/edit?ouid=113548925962906305703&rtpof=true&sd=true&usp=sharing" %}
 
-***
