@@ -4,8 +4,6 @@ O objetivo desse serviço é viabilizar que informações complementares dos tí
 
 O serviço permitirá o recebimento das duas informações (andamento e custas) ou apenas uma delas.
 
-Serviços disponíveis: Envio do status do andamento no cartório e emolumentos/custas cartorárias para eventuais consultas para retirada ou cancelamento.
-
 {% tabs %}
 {% tab title="Parâmetros de Envio" %}
 * **Os dados (parâmetros) devem ser enviados via protocolo SOAP.**
@@ -14,7 +12,7 @@ Serviços disponíveis: Envio do status do andamento no cartório e emolumentos/
   * Após a autenticação serão validados os parâmetros de entrada e por último a crítica do arquivo
 * **Serviços disponíveis:**
 
-<table data-header-hidden><thead><tr><th width="200"></th><th></th></tr></thead><tbody><tr><td>TituloComplemento</td><td>Envio dos emolumentos e as informações complementares dos títulos</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="200"></th><th></th></tr></thead><tbody><tr><td>TituloComplemento</td><td>Envio do status do andamento no cartório e emolumentos/custas cartorárias para eventuais consultas para retirada ou cancelamento.</td></tr></tbody></table>
 
 *   **Parâmetros dos serviços disponíveis:**
 
