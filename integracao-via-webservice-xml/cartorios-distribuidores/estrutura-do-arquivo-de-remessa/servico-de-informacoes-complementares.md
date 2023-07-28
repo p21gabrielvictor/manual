@@ -160,7 +160,7 @@ VIGENCIA         | VIGÊNCIA DAS CUSTAS              |     NÃO     |   010    |
 {% tab title="Mensagens " %}
 **Mensagens:**
 
-**Exemplo de mensagem:**&#x20;
+**Exemplo de mensagem com recusa completa:**&#x20;
 
 ```xml
 <relatorio>
@@ -171,9 +171,86 @@ VIGENCIA         | VIGÊNCIA DAS CUSTAS              |     NÃO     |   010    |
 
 ```
 
+**Exemplo de mensagem de sucesso:**
 
+Enviando somente andamento
 
-<table data-header-hidden><thead><tr><th width="200"></th><th></th></tr></thead><tbody><tr><td>CÓDIGO</td><td>DESCRIÇÃO</td></tr><tr><td>2292</td><td>CAMPOS INVÁLIDOS OU NÃO INFORMADOS (ATRIBUTO)</td></tr><tr><td>2304</td><td>FOI ENCONTRADO MAIS DE UM TÍTULO COM OS DADOS INFORMADOS</td></tr><tr><td>2137</td><td>CAMPO (ATRIBUTO) INVÁLIDO.</td></tr><tr><td>2318</td><td>CUSTAS ATUALIZADAS</td></tr><tr><td>2196</td><td>TÍTULO NÃO ENCONTRADO</td></tr><tr><td>2322</td><td>ANDAMENTO INSERIDO </td></tr></tbody></table>
+```xml
+<complementos>
+    <apresentantes>
+        <apresentante>
+            <codigo>111</codigo>
+            <titulos>
+                <titulo>
+                    <protocolo>0000000000</protocolo>
+                    <documento_devedor>99999999999</documento_devedor>
+                    <mensagens>
+                        <andamento>
+                            <codigo>2322</codigo>
+                            <descricao>Andamento inserido.</descricao>
+                        </andamento>
+                    </mensagens>
+                </titulo>
+            </titulos>
+        </apresentante>
+    </apresentantes>
+</complementos>
+```
+
+&#x20;Enviando somente emolumentos
+
+```xml
+<complementos>
+    <apresentantes>
+        <apresentante>
+            <codigo>111</codigo>
+            <titulos>
+                <titulo>
+                    <protocolo>0000000000</protocolo>
+                    <documento_devedor>99999999999</documento_devedor>
+                    <mensagens>
+                        <emolumento>
+                            <codigo>2318</codigo>
+                            <descricao>Custas atualizadas.</descricao>
+                        </emolumento>
+                    </mensagens>
+                </titulo>
+            </titulos>
+        </apresentante>
+    </apresentantes>
+</complementos>
+
+```
+
+Enviando andamento e emolumento
+
+```xml
+<complementos>
+    <apresentantes>
+        <apresentante>
+            <codigo>111</codigo>
+            <titulos>
+                <titulo>
+                    <protocolo>0000000000</protocolo>
+                    <documento_devedor>99999999999</documento_devedor>
+                    <mensagens>
+                        <emolumento>
+                            <codigo>2318</codigo>
+                            <descricao>Custas atualizadas.</descricao>
+                        </emolumento>
+                        <andamento>
+                            <codigo>2322</codigo>
+                            <descricao>Andamento inserido.</descricao>
+                        </andamento>
+                    </mensagens>
+                </titulo>
+            </titulos>
+        </apresentante>
+    </apresentantes>
+</complementos>
+```
+
+<table data-header-hidden><thead><tr><th width="200"></th><th></th></tr></thead><tbody><tr><td><strong>CÓDIGO</strong></td><td><strong>DESCRIÇÃO</strong></td></tr><tr><td>2292</td><td>CAMPOS INVÁLIDOS OU NÃO INFORMADOS (ATRIBUTO)</td></tr><tr><td>2304</td><td>FOI ENCONTRADO MAIS DE UM TÍTULO COM OS DADOS INFORMADOS</td></tr><tr><td>2137</td><td>CAMPO (ATRIBUTO) INVÁLIDO.</td></tr><tr><td>2318</td><td>CUSTAS ATUALIZADAS</td></tr><tr><td>2196</td><td>TÍTULO NÃO ENCONTRADO</td></tr><tr><td>2322</td><td>ANDAMENTO INSERIDO </td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
