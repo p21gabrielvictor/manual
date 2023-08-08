@@ -112,6 +112,7 @@
 * [Confirmação Automática](cartorios/confirmacao-automatica.md)
 * [Município Virtual](cartorios/municipio-virtual/README.md)
   * [Como funciona](cartorios/municipio-virtual/como-funciona.md)
+* [Arquivo de andamento em TXT](cartorios/arquivo-de-andamento-em-txt.md)
 
 ## CRA
 
