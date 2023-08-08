@@ -40,6 +40,11 @@
   * [Envio de imagens](integracao-via-webservice-xml/cartorios-distribuidores/envio-de-imagens.md)
   * [Mensagens](integracao-via-webservice-xml/cartorios-distribuidores/mensagens.md)
 
+## Arquivo de Andamento (Cartório)
+
+* [Andamento em XML](arquivo-de-andamento-cartorio/andamento-em-xml.md)
+* [Andamento em TXT](arquivo-de-andamento-cartorio/andamento-em-txt.md)
+
 ## Primeiros passos
 
 * [Fluxo do Negócio](primeiros-passos/fluxo-do-negocio/README.md)
