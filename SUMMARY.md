@@ -4,9 +4,9 @@
 
 ## ✨ Novidades
 
-* [Arquivo de andamento (Upload Cartório)](novidades/arquivo-de-andamento-upload-cartorio/README.md)
-  * [Andamento em TXT](novidades/arquivo-de-andamento-upload-cartorio/andamento-em-txt.md)
-  * [Andamento em XML](novidades/arquivo-de-andamento-upload-cartorio/andamento-em-xml.md)
+* [Arquivo de andamento (Upload Cartório)](novidades/arquivo-de-andamento-cartorio/README.md)
+  * [Andamento em TXT](novidades/arquivo-de-andamento-cartorio/andamento-em-txt.md)
+  * [Andamento em XML](novidades/arquivo-de-andamento-cartorio/servico-de-informacoes-complementares-xml.md)
   * [Andamento pela aplicação CRA21](novidades/arquivo-de-andamento-upload-cartorio/andamento-pela-aplicacao-cra21.md)
 * [Arquivo de andamento (Download Apresentante)](novidades/arquivo-de-andamento-download-apresentante/README.md)
   * [Download do andamento pela aplicação CRA21](novidades/arquivo-de-andamento-download-apresentante/download-do-andamento-pela-aplicacao-cra21.md)

@@ -5,4 +5,4 @@ O cartório terá à disposição três opções para transmitir essa informaç�
 
 * [<mark style="color:green;">TXT</mark>](andamento-em-txt.md)
 * [<mark style="color:green;">XML</mark> ](../../integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/servico-de-informacoes-complementares.md)
-* [<mark style="color:green;">Manual, disponível pela aplicação</mark> ](andamento-pela-aplicacao-cra21.md)
+* [<mark style="color:green;">Manual, disponível pela aplicação</mark> ](../arquivo-de-andamento-upload-cartorio/andamento-pela-aplicacao-cra21.md)
