@@ -4,7 +4,7 @@ O que os cartórios físicos A e B terá que fazer?
 
 Acessar o login do cartório virtual e baixar as remessas, pois o Banco do Brasil, após a criação dos cartórios virtuais, enviará remessas para eles (cartórios virtuais).
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (4).png" alt=""><figcaption></figcaption></figure>
 
 Após o cartório físico baixar a remessa do cartório virtual, terá que alterar o código IBGE e código do cartório para processar no seu sistema e confirmar a remessa. Para a etapa de troca do código IBGE e do cartório a P21 disponibiliza um conversor.
 
@@ -18,7 +18,7 @@ Selecione o arquivo de remessa, confirmação, retorno etc. e clique em Converte
 
 O arquivo é alterado e pode seguir o processo normalmente.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
 
 OBS: Será disponibilizado um sistema para o cartório físico fazer a conversão dos códigos.\
 \

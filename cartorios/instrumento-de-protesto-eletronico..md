@@ -41,7 +41,7 @@ Download das imagens com ou sem assinatura na tela Retorno/Download retorno.
 
 A CRA pode fazer a impressão dos instrumentos através do menu Impressão/Impressão instrumento. É possível baixar as imagens separadamente ou todas em um arquivo .ZIP. Como essa tela é voltada para impressão, os instrumentos são baixados sem assinatura.
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17) (2).png>)
 {% endtab %}
 
 {% tab title="Validação / Autenticidade" %}

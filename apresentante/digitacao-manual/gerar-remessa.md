@@ -12,7 +12,7 @@ A opção “**Fixar campos**” nos dados do devedor mantém todos os campos pr
 
 Mais abaixo, a opção “**Fixar campos**” nos dados do título manterá os campos “**Espécie**”, “**Tipo de vencimento**” e “**Praça protesto**” preenchidos
 
-![](<../../.gitbook/assets/image (12) (2).png>)
+![](<../../.gitbook/assets/image (12) (2) (1).png>)
 
 Se o título tiver mais de um devedor, clique no botão ![](<../../.gitbook/assets/image (3) (2).png>). Até 9 devedores podem ser informados em um mesmo título.
 

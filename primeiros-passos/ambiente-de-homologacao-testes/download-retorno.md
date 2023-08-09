@@ -8,7 +8,7 @@ Para visualizar os retornos acesse o menu Retorno -> Download Retorno
 
 O sistema apresentará os arquivos de retorno que estão pendentes de download. Clique no ícone ![](<../../.gitbook/assets/image (66).png>) para realizar o download.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (3).png" alt=""><figcaption></figcaption></figure>
 
 Para fazer o download de um arquivo já coletado, é necessário informar a data do retorno no filtro e clicar em OK.
 

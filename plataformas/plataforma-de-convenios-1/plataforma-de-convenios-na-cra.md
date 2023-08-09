@@ -23,7 +23,7 @@ Para prosseguir com o cadastro do convênio, clicar na situação do pedido (2).
 
 O sistema apresenta os seguintes botões:
 
-<table data-header-hidden><thead><tr><th width="150"></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (14).png" alt="" data-size="original"></td><td>Ver</td><td>Visualiza as informações cadastradas pela empresa no pré-cadastro.</td></tr><tr><td><img src="../../.gitbook/assets/image (8) (1).png" alt=""></td><td>Alterar</td><td>Altera os dados cadastrados</td></tr><tr><td><img src="../../.gitbook/assets/image (2) (1) (3).png" alt=""></td><td>Anotações</td><td>Insere observações</td></tr><tr><td><img src="../../.gitbook/assets/image (10).png" alt=""></td><td>Documentos</td><td>Mostra os documentos inseridos pela empresa, para realizar download e analisar</td></tr><tr><td><img src="../../.gitbook/assets/image (11).png" alt=""></td><td>Resetar senha</td><td>Reseta a senha de acesso a página de acompanhamento. A nova senha será igual ao login (e-mail do responsável operacional cadastrado).</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="150"></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (14) (2).png" alt="" data-size="original"></td><td>Ver</td><td>Visualiza as informações cadastradas pela empresa no pré-cadastro.</td></tr><tr><td><img src="../../.gitbook/assets/image (8) (1) (3).png" alt=""></td><td>Alterar</td><td>Altera os dados cadastrados</td></tr><tr><td><img src="../../.gitbook/assets/image (2) (1) (3).png" alt=""></td><td>Anotações</td><td>Insere observações</td></tr><tr><td><img src="../../.gitbook/assets/image (10) (1).png" alt=""></td><td>Documentos</td><td>Mostra os documentos inseridos pela empresa, para realizar download e analisar</td></tr><tr><td><img src="../../.gitbook/assets/image (11) (1).png" alt=""></td><td>Resetar senha</td><td>Reseta a senha de acesso a página de acompanhamento. A nova senha será igual ao login (e-mail do responsável operacional cadastrado).</td></tr></tbody></table>
 
 **Situações da solicitação:**
 
@@ -63,7 +63,7 @@ Para a empresa, o sistema informa que a minuta está pronta e que já pode ser b
 
 ![](../../.gitbook/assets/minuta-pronta.png)
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (4).png" alt=""><figcaption></figcaption></figure>
 
 Contrato recebido pelo instituto. A CRA acerta os últimos detalhes do convênio e devolve a via do contrato assinada se tiver sido enviada pela empresa por meio físico.
 

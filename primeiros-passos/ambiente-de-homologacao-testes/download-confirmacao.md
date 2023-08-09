@@ -28,4 +28,4 @@ As confirmações enviadas no dia corrente, só estarão disponíveis após o ho
 
 Para fazer a impressão da relação de remessa confirmada, basta clicar no ícone ![](<../../.gitbook/assets/image (5) (2).png>).
 
-<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3) (1).png" alt=""><figcaption></figcaption></figure>

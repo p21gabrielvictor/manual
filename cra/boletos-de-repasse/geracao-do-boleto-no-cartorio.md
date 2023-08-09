@@ -4,7 +4,7 @@ A geração do boleto é realizada através do cartório, após o horário limit
 
 – Se for a geração do primeiro boleto, o cartório deve acessar o menu de “Retorno > Boleto de repasse” e selecionar a opção gerar boleto:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 Após clicar em gerar o boleto, será apresentando um campo para informar a data do retorno ao qual o repasse será realizado.
 
@@ -20,6 +20,6 @@ As informações do boleto gerado serão exibidas na tela e o boleto poderá ser
 
 – A partir do primeiro boleto gerado pelo cartório, o sistema exibirá as pendências na tela, dos boletos ainda não gerados, possibilitando clicar no botão 'Gerar boleto' para geração.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Após o cartório realizar o pagamento, não é necessário realizar a comprovação.

@@ -13,6 +13,6 @@ O sistema utiliza uma linguagem visual para facilitar a identificação da situa
 
 ![](<../../.gitbook/assets/Campos para consulta (4).png>)
 
-Para visualizar informações complementares do título do pedido como: data de confirmação, data de retorno, custas do título ou valores de repasse, basta clicar no ícone<img src="../../.gitbook/assets/image (13).png" alt="" data-size="line">. \\
+Para visualizar informações complementares do título do pedido como: data de confirmação, data de retorno, custas do título ou valores de repasse, basta clicar no ícone<img src="../../.gitbook/assets/image (13) (1).png" alt="" data-size="line">. \\
 
 ![](<../../.gitbook/assets/image (29) (2).png>)

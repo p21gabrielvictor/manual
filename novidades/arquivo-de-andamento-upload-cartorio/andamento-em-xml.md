@@ -1,6 +1,12 @@
-# Serviço de Informações complementares (XML)
+# Andamento em XML
 
-O objetivo desse serviço é viabilizar que informações complementares dos títulos sejam enviadas para a CRA. Nesse primeiro momento, o serviço receberá os dados do andamento do título no cartório e informações de emolumentos/custas cartorárias para eventuais consultas para retirada ou cancelamento.
+O objetivo desse serviço é viabilizar que informações complementares dos títulos sejam enviadas para a CRA. \
+Alguns cartórios já enviam para a CRA21 as informações de custas/emolumentos para consultas de eventuais retiradas e cancelamentos por parte dos apresentantes. Visando não criar uma nova rotina para o cartório, criarmos esse novo serviço acrescentando a informação do andamento do título. \
+Nesse primeiro momento, o serviço receberá os dados do andamento do título no cartório e informações de emolumentos/custas cartorárias para eventuais consultas para retirada ou cancelamento. Esse serviço poderá ser usado por todos os cartórios interessados, mesmo os que não usavam a [<mark style="color:green;">rotina de custas disponibilizado anteriormente</mark>](../../integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/emolumentos-dos-titulos.md)<mark style="color:green;">.</mark>
+
+{% hint style="success" %}
+O serviço de emolumentos continuará funcionando normalmente caso queira continuar usando ele apenas para envio dos emolumentos.
+{% endhint %}
 
 O serviço permitirá o recebimento das duas informações (andamento e custas) ou apenas uma delas.
 
@@ -252,5 +258,105 @@ Enviando andamento e emolumento
 
 <table data-header-hidden><thead><tr><th width="200"></th><th></th></tr></thead><tbody><tr><td><strong>CÓDIGO</strong></td><td><strong>DESCRIÇÃO</strong></td></tr><tr><td>2292</td><td>CAMPOS INVÁLIDOS OU NÃO INFORMADOS (ATRIBUTO)</td></tr><tr><td>2304</td><td>FOI ENCONTRADO MAIS DE UM TÍTULO COM OS DADOS INFORMADOS</td></tr><tr><td>2137</td><td>CAMPO (ATRIBUTO) INVÁLIDO.</td></tr><tr><td>2318</td><td>CUSTAS ATUALIZADAS</td></tr><tr><td>2196</td><td>TÍTULO NÃO ENCONTRADO</td></tr><tr><td>2322</td><td>ANDAMENTO INSERIDO </td></tr></tbody></table>
 {% endtab %}
+
+{% tab title="Diferença dos serviços" %}
+Caso o seu sistema já esteja integrado e enviando os emolumentos, as mudanças para o novo layout são:
+
+<mark style="color:green;">**CustasTitulo ⇒ TituloComplemento**</mark>
+
+Para quem já usa o serviço de envio de custas, aqui estão algumas mudanças que precisam ser realizadas para reaproveitar o mesmo serviço já existente:
+
+O Endpoint do serviço deverá ser alterado de CustasTitulo para TituloComplemento
+
+A TAG raiz do XML foi alterado
+
+De Titulos:
+
+```html
+<titulos>
+  <apresentantes>
+    <apresentante>
+      <codigo>...</codigo>
+      ...
+    
+</titulos>
+```
+
+Para Complementos:&#x20;
+
+```markup
+  <complementos>
+    <apresentantes>
+      <apresentante>
+        <codigo>111</codigo>
+        ...
+  </complementos>
+```
+
+Agora é possível inserir informações adicionais no XML, além da tag de Emolumentos. É viável incluir ao conteúdo do título os dados referentes aos andamentos. Assim como para os emolumentos, também é permitido informar múltiplos andamentos de uma só vez, utilizando a seguinte estrutura:
+
+```markup
+...
+<andamentos> 
+    <andamento>
+      <codigo>AA</codigo>
+      <data>13/07/2023 13:50:25</data>
+    </andamento>
+    <andamento>
+      <codigo>AA</codigo>
+      <data>13/07/2023 13:50:25</data>
+    </andamento>
+</andamentos>
+...
+```
+
+A resposta do webservice passou por alterações. No serviço de custas, era previsto o retorno de apenas um tipo de mensagem. No serviço de complementos, que possibilita informar outros dados do título, está habilitado para receber mais de um tipo de mensagem. A estrutura de resposta foi adaptada da seguinte maneira:
+
+```markup
+<mensagens>
+    <emolumento>
+        <codigo>2318</codigo>
+        <descricao>Custas atualizadas.</descricao>
+    </emolumento>
+    <andamento>
+        <codigo>2322</codigo>
+        <descricao>Andamento inserido.</descricao>
+    </andamento>
+</mensagens>
+
+OU 
+
+<mensagens>
+    <andamento>
+        <codigo>2322</codigo>
+        <descricao>Andamento inserido.</descricao>
+    </andamento>
+</mensagens>
+
+OU
+
+<mensagens>
+    <emolumento>
+        <codigo>2318</codigo>
+        <descricao>Custas atualizadas.</descricao>
+    </emolumento>
+</mensagens>
+```
+
+É fundamental lembrar que se trata de um serviço capaz de receber ou enviar mais de uma informação, é importante prever, no momento da captura da resposta, a possibilidade da existência ou ausência de algum grupo de mensagens.
+
+Com essa precaução, o sistema poderá lidar de forma adequada com diferentes cenários, garantindo que não ocorram erros inesperados durante o processamento das informações recebidas do serviço.
+
+As mensagens de resposta são organizadas por título, não por informações enviadas. Portanto, caso haja alguma informação incorreta, o sistema irá gravar todas as demais informações corretas e, em seguida, notificar sobre a existência de algum erro específico.
+
+Essa abordagem de gravação seletiva permite que as informações corretas sejam armazenadas adequadamente, mesmo em situações em que alguma parte dos dados não esteja correta. Ao mesmo tempo, a identificação dos erros possibilita que sejam tratados e corrigidos posteriormente.
+
+Caso tenham alguma dúvida, basta entrar em contato com a nossa equipe de atendimento.
+{% endtab %}
 {% endtabs %}
 
+
+
+{% hint style="success" %}
+O sistema agrupará todos os andamentos informados pelo cartório até o horário limite e disponibilizará para o apresentante no arquivo com formato alinhado nacionalmente.
+{% endhint %}
