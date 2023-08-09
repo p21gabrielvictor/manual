@@ -2,6 +2,12 @@
 
 * [CRA 21](README.md)
 
+## ✨ Novidades
+
+* [Arquivo de andamento (Cartório)](novidades/arquivo-de-andamento-cartorio/README.md)
+  * [Serviço de Informações complementares (XML)](novidades/arquivo-de-andamento-cartorio/servico-de-informacoes-complementares-xml.md)
+  * [Andamento em TXT](novidades/arquivo-de-andamento-cartorio/andamento-em-txt.md)
+
 ## Integração via Webservice (XML)
 
 * [Convênios](integracao-via-webservice-xml/convenios/README.md)
@@ -39,11 +45,6 @@
   * [Exemplos de arquivos](integracao-via-webservice-xml/cartorios-distribuidores/exemplos-de-arquivos.md)
   * [Envio de imagens](integracao-via-webservice-xml/cartorios-distribuidores/envio-de-imagens.md)
   * [Mensagens](integracao-via-webservice-xml/cartorios-distribuidores/mensagens.md)
-
-## Arquivo de Andamento (Cartório)
-
-* [Andamento em XML](arquivo-de-andamento-cartorio/andamento-em-xml.md)
-* [Andamento em TXT](arquivo-de-andamento-cartorio/andamento-em-txt.md)
 
 ## Primeiros passos
 

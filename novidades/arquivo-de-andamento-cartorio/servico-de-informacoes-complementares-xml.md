@@ -1,4 +1,4 @@
-# Andamento em XML
+# Serviço de Informações complementares (XML)
 
 O objetivo desse serviço é viabilizar que informações complementares dos títulos sejam enviadas para a CRA. Nesse primeiro momento, o serviço receberá os dados do andamento do título no cartório e informações de emolumentos/custas cartorárias para eventuais consultas para retirada ou cancelamento.
 

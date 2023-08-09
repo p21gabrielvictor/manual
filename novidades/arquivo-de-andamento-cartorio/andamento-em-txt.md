@@ -15,4 +15,4 @@ Após acessar o menu na tela de **Upload andamento**, observe o horário limite,
 
 Para ver o log completo, basta clicar no botão **Ver Detalhes**.
 
-<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
