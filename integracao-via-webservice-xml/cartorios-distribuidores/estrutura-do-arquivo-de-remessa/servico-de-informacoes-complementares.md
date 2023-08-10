@@ -58,8 +58,8 @@ O serviço permitirá o recebimento das duas informações (andamento e custas) 
 TIPO             | TIPO DAS CUSTAS                  |     SIM     |   001    |  INTEIRO
                  |   1 - RETIRADA                   |             |          |                   
                  |   2 - CANCELAMENTO               |             |          |           
-TOTAL            | TOTAL DAS CUSTAS PRÉ-CALCULADAS  |     NÃO     | Variável |  DECIMAL
-VIGENCIA         | VIGÊNCIA DAS CUSTAS              |     NÃO     |   010    |   DATA
+TOTAL            | TOTAL DAS CUSTAS PRÉ-CALCULADAS  |     SIM     | Variável |  DECIMAL
+VIGENCIA         | VIGÊNCIA DAS CUSTAS              |     SIM     |   010    |   DATA
 
 ```
 
