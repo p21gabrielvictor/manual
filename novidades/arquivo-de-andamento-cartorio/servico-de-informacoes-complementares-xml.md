@@ -350,8 +350,6 @@ Com essa precaução, o sistema poderá lidar de forma adequada com diferentes c
 As mensagens de resposta são organizadas por título, não por informações enviadas. Portanto, caso haja alguma informação incorreta, o sistema irá gravar todas as demais informações corretas e, em seguida, notificar sobre a existência de algum erro específico.
 
 Essa abordagem de gravação seletiva permite que as informações corretas sejam armazenadas adequadamente, mesmo em situações em que alguma parte dos dados não esteja correta. Ao mesmo tempo, a identificação dos erros possibilita que sejam tratados e corrigidos posteriormente.
-
-Caso tenham alguma dúvida, basta entrar em contato com a nossa equipe de atendimento.
 {% endtab %}
 {% endtabs %}
 
