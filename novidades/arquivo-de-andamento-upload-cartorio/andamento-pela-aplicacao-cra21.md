@@ -2,7 +2,7 @@
 
 O objetivo dessa rotina é viabilizar o cadastro manual do andamento do título pelo cartório. O cadastro do andamento manual poderá ser feito por meio de duas opções:
 
-* Consulta titulo&#x20;
+* Consulta título&#x20;
 * Confirmar remessa
 
 Na rotina **Consulta título** é possível informar o andamento do título acessando o menu **Consulta -> Consulta título e clicar no botão do Andamento(**![](<../../.gitbook/assets/image (73).png>)**).**
