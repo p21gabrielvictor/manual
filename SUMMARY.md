@@ -38,6 +38,7 @@
   * [URL](integracao-via-webservice-xml/cartorios-distribuidores/url.md)
   * [Parâmetros de envio](integracao-via-webservice-xml/cartorios-distribuidores/parametros-de-envio.md)
   * [Nomenclatura de arquivos](integracao-via-webservice-xml/cartorios-distribuidores/nomenclatura-de-arquivos.md)
+  * [Consulta autorização efetivada](integracao-via-webservice-xml/cartorios-distribuidores/consulta-autorizacao-efetivada.md)
   * [Estrutura de arquivos](integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/README.md)
     * [Remessa](integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/remessa.md)
     * [Emolumentos dos títulos](integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/emolumentos-dos-titulos.md)
