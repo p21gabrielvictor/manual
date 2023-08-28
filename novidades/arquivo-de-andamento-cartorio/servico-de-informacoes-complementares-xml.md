@@ -273,13 +273,13 @@ A TAG raiz do XML foi alterado
 De Titulos:
 
 ```html
-<titulos>
+<custas_titulo>
   <apresentantes>
     <apresentante>
       <codigo>...</codigo>
       ...
     
-</titulos>
+</custas_titulo>
 ```
 
 Para Complementos:&#x20;
