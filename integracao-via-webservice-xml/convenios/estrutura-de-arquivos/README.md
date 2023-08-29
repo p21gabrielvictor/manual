@@ -1,6 +1,6 @@
 # Estrutura de arquivos
 
-
+***
 
 **Serão retornados todos os arquivos de confirmação/retorno conforme a data informada no nome do arquivo.**
 

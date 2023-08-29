@@ -10,6 +10,7 @@
   * [Andamento pela aplicação CRA21](novidades/arquivo-de-andamento-upload-cartorio/andamento-pela-aplicacao-cra21.md)
 * [Arquivo de andamento (Download Apresentante)](novidades/arquivo-de-andamento-download-apresentante/README.md)
   * [Download do andamento pela aplicação CRA21](novidades/arquivo-de-andamento-download-apresentante/download-do-andamento-pela-aplicacao-cra21.md)
+  * [Download do andamento em XML](novidades/arquivo-de-andamento-download-apresentante/download-do-andamento-em-xml.md)
 
 ## Integração via Webservice (XML)
 
