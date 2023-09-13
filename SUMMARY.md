@@ -51,6 +51,30 @@
   * [Envio de imagens](integracao-via-webservice-xml/cartorios-distribuidores/envio-de-imagens.md)
   * [Mensagens](integracao-via-webservice-xml/cartorios-distribuidores/mensagens.md)
 
+## API CRA21
+
+* [Integração – CRA21 API](api-cra21/integracao-cra21-api/README.md)
+  * [URL/titulo](api-cra21/integracao-cra21-api/url-titulo.md)
+  * [URL/protesto-indevido](api-cra21/integracao-cra21-api/url-protesto-indevido.md)
+  * [URL/remessa](api-cra21/integracao-cra21-api/url-remessa.md)
+  * [URL/cancelamento](api-cra21/integracao-cra21-api/url-cancelamento.md)
+  * [URL/cancelamento-titulo](api-cra21/integracao-cra21-api/url-cancelamento-titulo.md)
+  * [URL/desistencia](api-cra21/integracao-cra21-api/url-desistencia.md)
+  * [URL/apresentante](api-cra21/integracao-cra21-api/url-apresentante.md)
+  * [URL/titulo-ocorrencia](api-cra21/integracao-cra21-api/url-titulo-ocorrencia.md)
+  * [URL/produtividade-geral](api-cra21/integracao-cra21-api/url-produtividade-geral.md)
+  * [URL/protesto-cancelamento](api-cra21/integracao-cra21-api/url-protesto-cancelamento.md)
+  * [URL/titulo-especie](api-cra21/integracao-cra21-api/url-titulo-especie.md)
+  * [URL/painel-controle/gestao-pendencias](api-cra21/integracao-cra21-api/url-painel-controle-gestao-pendencias.md)
+  * [URL/plataforma-batimento/pagamento-retido](api-cra21/integracao-cra21-api/url-plataforma-batimento-pagamento-retido.md)
+  * [URL/plataforma-batimento/comprovantes-aberto](api-cra21/integracao-cra21-api/url-plataforma-batimento-comprovantes-aberto.md)
+  * [URL/pendencias/cartorio](api-cra21/integracao-cra21-api/url-pendencias-cartorio.md)
+  * [URL/instrumento](api-cra21/integracao-cra21-api/url-instrumento.md)
+  * [URL/cedente](api-cra21/integracao-cra21-api/url-cedente.md)
+  * [URL/relatorio-remessa](api-cra21/integracao-cra21-api/url-relatorio-remessa.md)
+  * [URL/apresentantes](api-cra21/integracao-cra21-api/url-apresentantes.md)
+  * [Mensagens](api-cra21/integracao-cra21-api/mensagens.md)
+
 ## Primeiros passos
 
 * [Fluxo do Negócio](primeiros-passos/fluxo-do-negocio/README.md)
@@ -113,9 +137,6 @@
 * [Layout Febraban](apresentante/layout-febraban/README.md)
   * [Declaração do portador](apresentante/layout-febraban/declaracao-do-portador.md)
 * [Web Service – SoapUI](apresentante/web-service-soapui.md)
-* [Integração – CRA21 API](apresentante/integracao-cra21-api/README.md)
-  * [URL/titulo](apresentante/integracao-cra21-api/url-titulo.md)
-  * [URL/protesto-indevido](apresentante/integracao-cra21-api/url-protesto-indevido.md)
 * [Utilizando PHP](apresentante/utilizando-php.md)
 
 ## Cartórios
