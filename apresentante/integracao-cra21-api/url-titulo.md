@@ -1,16 +1,20 @@
-# URL e Mensagens
+# URL/titulo
+
+
 
 {% tabs %}
 {% tab title="URL/titulo" %}
 **Parâmetros passados via GET**
 
-<table><thead><tr><th width="241.6933614330875">Campo</th><th>Descrição</th><th>Opcional</th></tr></thead><tbody><tr><td>idCartorio</td><td>Recuperado após autenticação ou através do serviço URL/cartorio</td><td>X</td></tr><tr><td>idApresentante</td><td>Recuperado após autenticação ou através do serviço URL/apresentante</td><td>X</td></tr><tr><td>identificador</td><td>Número identificador do título</td><td>X</td></tr><tr><td>numeroTitulo</td><td>Número do título</td><td>X</td></tr><tr><td>documentoDevedor</td><td>Documento do devedor do título</td><td>X</td></tr><tr><td>documentoCredor</td><td>CPF/CNPJ do credor do título</td><td>X</td></tr><tr><td>nomeCredor</td><td>Nome do credor do título</td><td>X</td></tr><tr><td>ocorrenciaRetorno</td><td>Ocorrência do título, parâmetros de busca: protesto, pagamento, cacelamento, sustação, devolução, desistência</td><td>X</td></tr></tbody></table>
+**Parâmetros**
+
+<table><thead><tr><th width="199.90121796419186">Campo</th><th width="402">Descrição</th><th>Opcional</th></tr></thead><tbody><tr><td>idCartorio</td><td>Recuperado após autenticação ou através do serviço URL/cartorio</td><td>X</td></tr><tr><td>idApresentante</td><td>Recuperado após autenticação ou através do serviço URL/apresentante</td><td>X</td></tr><tr><td>identificador</td><td>Número identificador do título</td><td>X</td></tr><tr><td>numeroTitulo</td><td>Número do título</td><td>X</td></tr><tr><td>documentoDevedor</td><td>Documento do devedor do título</td><td>X</td></tr><tr><td>documentoCredor</td><td>CPF/CNPJ do credor do título</td><td>X</td></tr><tr><td>nomeCredor</td><td>Nome do credor do título</td><td>X</td></tr><tr><td>ocorrenciaRetorno</td><td>Ocorrência do título, parâmetros de busca: protesto, pagamento, cacelamento, sustação, devolução, desistência</td><td>X</td></tr></tbody></table>
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Resposta" %}
 **Resposta:**
 
-```
+```markup
   {
     "_links": {
         "self": {

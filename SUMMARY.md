@@ -114,7 +114,8 @@
   * [Declaração do portador](apresentante/layout-febraban/declaracao-do-portador.md)
 * [Web Service – SoapUI](apresentante/web-service-soapui.md)
 * [Integração – CRA21 API](apresentante/integracao-cra21-api/README.md)
-  * [URL e Mensagens](apresentante/integracao-cra21-api/url-e-mensagens.md)
+  * [URL/titulo](apresentante/integracao-cra21-api/url-titulo.md)
+  * [URL/protesto-indevido](apresentante/integracao-cra21-api/url-protesto-indevido.md)
 * [Utilizando PHP](apresentante/utilizando-php.md)
 
 ## Cartórios

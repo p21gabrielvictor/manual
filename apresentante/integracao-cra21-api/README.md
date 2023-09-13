@@ -3,7 +3,7 @@
 ### URL de Acesso
 
 {% hint style="warning" %}
-_<mark style="color:red;"><mark style="background-color:yellow;">**ATENÇÃO**<mark style="background-color:yellow;"></mark><mark style="color:red;"><mark style="background-color:yellow;">: Substituir<mark style="background-color:yellow;"></mark> <mark style="color:red;"><mark style="background-color:yellow;"> </mark><mark style="color:red;"><mark style="background-color:yellow;">**UF**<mark style="background-color:yellow;"></mark> <mark style="color:red;"><mark style="background-color:yellow;"> </mark><mark style="color:red;"><mark style="background-color:yellow;">pelo estado desejado.<mark style="background-color:yellow;"></mark>_
+_<mark style="color:red;">**ATENÇÃO**</mark><mark style="color:red;">: Substituir</mark> <mark style="color:red;"></mark><mark style="color:red;">**UF**</mark> <mark style="color:red;"></mark><mark style="color:red;">pelo estado desejado.</mark>_
 {% endhint %}
 
 **Produção (ambiente de funcionamento do sistema):** \
