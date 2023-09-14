@@ -20,6 +20,6 @@ As informações do boleto gerado serão exibidas na tela e o boleto poderá ser
 
 – A partir do primeiro boleto gerado pelo cartório, o sistema exibirá as pendências na tela, dos boletos ainda não gerados, possibilitando clicar no botão 'Gerar boleto' para geração.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Após o cartório realizar o pagamento, não é necessário realizar a comprovação.
