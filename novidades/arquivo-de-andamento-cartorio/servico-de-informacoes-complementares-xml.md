@@ -49,11 +49,11 @@ O serviço permitirá o recebimento das duas informações (andamento e custas) 
  CODIGO           | CÓDIGO DO APRESENTANTE           |    SIM      | Variável | ALFANUMÉRICO
  PROTOCOLO        | PROTOCOLO  DO CARTÓRIO           |    SIM      | Variável | ALFANUMÉRICO
  DOCUMENTO_DEVEDOR| DOCUMENTO DO DEVEDOR             |    SIM      | Variável |   NUMÉRICO
- DATA_PROTOCOLO   | DATA DO PROTOCOLO                |    NÃO      |   010    |    DATA
- NUMERO_TITULO    | NÚMERO DO TÍTULO                 |    NÃO      | Variável |   NUMÉRICO
- NOSSO_NUMERO     | NOSSO NÚMERO INFORMADO NO TITULO |    NÃO      | Variável |   NUMÉRICO
- VALOR            | VALOR DO TÍTULO                  |    NÃO      | Variável |   DECIMAL
- SALDO            | SALDO DO TÍTULO                  |    NÃO      | Variável |   DECIMAL
+ DATA_PROTOCOLO   | DATA DO PROTOCOLO                |    SIM      |   010    |    DATA
+ NUMERO_TITULO    | NÚMERO DO TÍTULO                 |    SIM      | Variável |   NUMÉRICO
+ NOSSO_NUMERO     | NOSSO NÚMERO INFORMADO NO TITULO |    SIM      | Variável |   NUMÉRICO
+ VALOR            | VALOR DO TÍTULO                  |    SIM      | Variável |   DECIMAL
+ SALDO            | SALDO DO TÍTULO                  |    SIM      | Variável |   DECIMAL
 ```
 {% endcode %}
 
