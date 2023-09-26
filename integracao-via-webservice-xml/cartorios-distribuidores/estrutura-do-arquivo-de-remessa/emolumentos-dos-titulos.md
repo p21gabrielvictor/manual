@@ -51,14 +51,14 @@ description: >-
 | ---------------------- | ------------------------------------------------- | ----------------- | ------------- | --------------------- | -------------------- |
 | **codigo**             | **Código do apresentante**                        | **Sim**           | **Variável**  | **Alfanumérico**      | **Nenhuma**          |
 | **protocolo**          | **Protocolo do título**                           | **Sim**           | **Variável**  | **Alfanumérico**      | **Nenhuma**          |
-| **documento\_devedor** | **Documento do devedor**                          | **Não**           | **Variável**  | **Numérico**          | **Nenhuma**          |
-| **data\_protocolo**    | **Data de protocolo**                             | **Não**           | **010**       | **Data (01/01/2024)** | **Nenhuma**          |
-| **numero\_titulo**     | **Número do título**                              | **Não**           | **Variável**  | **Numérico**          | **Nenhuma**          |
-| **nosso\_numero**      | **Nosso número**                                  | **Não**           | **Variável**  | **Numérico**          | **Nenhuma**          |
-| **valor**              | **Valor do título**                               | **Não**           | **Variável**  | **Decimal**           | **2**                |
+| **documento\_devedor** | **Documento do devedor**                          | **Sim**           | **Variável**  | **Numérico**          | **Nenhuma**          |
+| **data\_protocolo**    | **Data de protocolo**                             | **Sim**           | **010**       | **Data (01/01/2024)** | **Nenhuma**          |
+| **numero\_titulo**     | **Número do título**                              | **Sim**           | **Variável**  | **Numérico**          | **Nenhuma**          |
+| **nosso\_numero**      | **Nosso número**                                  | **Sim**           | **Variável**  | **Numérico**          | **Nenhuma**          |
+| **valor**              | **Valor do título**                               | **Sim**           | **Variável**  | **Decimal**           | **2**                |
 | **tipo**               | **Tipo de custas (1 – Retirada, 2 Cancelamento)** | **Sim**           | **001**       | **Inteiro**           | **Nenhuma**          |
-| **total**              | **Total das custas pré-calculadas**               | **Não**           | **Variável**  | **Decimal**           | **2**                |
-| **vigência**           | **Vigência das custas**                           | **Não**           | **010**       | **Data (01/01/2024)** | **Nenhuma**          |
+| **total**              | **Total das custas pré-calculadas**               | **Sim**           | **Variável**  | **Decimal**           | **2**                |
+| **vigência**           | **Vigência das custas**                           | **Sim**           | **010**       | **Data (01/01/2024)** | **Nenhuma**          |
 
 \
 
