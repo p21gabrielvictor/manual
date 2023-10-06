@@ -30,7 +30,8 @@ A montagem do arquivo deve seguir o padrão do Layout FEBRABAN.&#x20;
 
 [<mark style="color:green;">**`DOWNLOAD LAYOUT`**</mark>](https://drive.google.com/file/d/1-xofUSo-UFjdB72LltWqDKEuF4x0w\_nD/view?usp=sharing)
 
-Exemplo de um arquivo de retorno.
+Exemplo de um arquivo de retorno.\
+(Dados fictícios)
 
 ```
 0341Itau                                    06102023SDTBFORTP0000010003000300000003 300380434115200                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 0001
@@ -61,6 +62,8 @@ O cartório pode enviar também um arquivo único contendo os retornos de todos 
 Para a montagem desse arquivo cada apresentante deve ter seus registros compostos por Header (0), Transação (1) e Trailer (9).&#x20;
 
 Feito isso, basta juntar os retornos de todos os apresentantes em um arquivo.
+
+(Dados fictícios)
 
 ```
 0237Bradesco                                06102023SDTBFORTP0000010002000200000002    280434304408                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 0001
