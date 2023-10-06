@@ -82,3 +82,7 @@ No arquivo acima existem retornos de dois apresentantes diferentes (237 - Brades
 
 
 
+As regras de arquivou único se aplica para o formato em XML.
+
+
+
