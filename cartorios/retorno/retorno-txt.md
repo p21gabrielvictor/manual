@@ -28,7 +28,8 @@ O envio do retorno segue o seguinte fluxo.
 
 A montagem do arquivo deve seguir o padrão do Layout FEBRABAN.&#x20;
 
-(Link layout) \
+[<mark style="color:green;">**`DOWNLOAD LAYOUT`**</mark>](https://drive.google.com/file/d/1-xofUSo-UFjdB72LltWqDKEuF4x0w\_nD/view?usp=sharing)
+
 Exemplo de um arquivo de retorno.
 
 ```
