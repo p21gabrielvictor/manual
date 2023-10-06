@@ -142,6 +142,8 @@
 
 ## Cartórios
 
+* [Retorno](cartorios/retorno/README.md)
+  * [Retorno TXT](cartorios/retorno/retorno-txt.md)
 * [Instrumento de Protesto eletrônico.](cartorios/instrumento-de-protesto-eletronico..md)
 * [Confirmação Automática](cartorios/confirmacao-automatica.md)
 * [Município Virtual](cartorios/municipio-virtual/README.md)
