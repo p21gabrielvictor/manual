@@ -60,7 +60,7 @@ O cartório pode enviar também um arquivo único contendo os retornos de todos 
 
 Para a montagem desse arquivo cada apresentante deve ter seus registros compostos por Header (0), Transação (1) e Trailer (9).&#x20;
 
-Feito isso, basta juntas os retornos de todos os apresentantes em um arquivo.
+Feito isso, basta juntar os retornos de todos os apresentantes em um arquivo.
 
 ```
 0237Bradesco                                06102023SDTBFORTP0000010002000200000002    280434304408                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 0001
