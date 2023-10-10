@@ -1,6 +1,6 @@
 # Remessa
 
-O conteúdo do arquivo foi desenvolvido com base no[ <mark style="color:green;">Layout</mark> ](../../../apresentante/layout-febraban/)XML da FEBRABAN. O arquivo pode conter mais de uma **remessa**, agrupadas uma abaixo da outra, desde que esteja em conformidade com o padrão.
+O conteúdo do arquivo foi desenvolvido com base no [<mark style="color:green;">**Layout FEBRABAN**</mark>](../../../apresentante/layout-febraban/). O arquivo pode conter mais de uma **remessa**, agrupadas uma abaixo da outra, desde que esteja em conformidade com o padrão.
 
 [<mark style="color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO\_REMESSA\_XML.zip?raw=true)
 
