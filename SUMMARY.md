@@ -86,13 +86,6 @@
   * [Envio de Cancelamento](primeiros-passos/fluxo-do-negocio/envio-de-cancelamento.md)
   * [Envio de Autorização de Desistência](primeiros-passos/fluxo-do-negocio/envio-de-autorizacao-de-desistencia.md)
   * [Envio de Autorização de Cancelamento](primeiros-passos/fluxo-do-negocio/envio-de-autorizacao-de-cancelamento.md)
-* [Consultas](primeiros-passos/consultas/README.md)
-  * [Downloads e Uploads](primeiros-passos/consultas/downloads-e-uploads.md)
-  * [Consulta de título](primeiros-passos/consultas/consulta-de-titulo.md)
-  * [Consulta de retorno](primeiros-passos/consultas/consulta-de-retorno.md)
-  * [Consulta de desistência](primeiros-passos/consultas/consulta-de-desistencia.md)
-  * [Consulta de cancelamento](primeiros-passos/consultas/consulta-de-cancelamento.md)
-  * [Consulta de autorização](primeiros-passos/consultas/consulta-de-autorizacao.md)
 * [Ambiente de Homologação (testes)](primeiros-passos/ambiente-de-homologacao-testes/README.md)
   * [Remessa por Upload](primeiros-passos/ambiente-de-homologacao-testes/remessa-por-upload.md)
   * [Download Confirmação](primeiros-passos/ambiente-de-homologacao-testes/download-confirmacao.md)
@@ -102,31 +95,9 @@
   * [Solicitar Cancelamento](primeiros-passos/ambiente-de-homologacao-testes/solicitar-cancelamento.md)
   * [Cancelamento por Upload](primeiros-passos/ambiente-de-homologacao-testes/cancelamento-por-upload.md)
 
-## Plataformas
-
-* [Plataforma de cobrança](plataformas/plataforma-de-convenios/README.md)
-  * [Como funciona](plataformas/plataforma-de-convenios/pagina-de-divulgacao.md)
-  * [Por onde começar](plataformas/plataforma-de-convenios/links-de-acesso.md)
-  * [Parâmetros](plataformas/plataforma-de-convenios/pre-cadastro.md)
-  * [Cobrança do apresentante](plataformas/plataforma-de-convenios/pagina-de-acompanhamento.md)
-  * [Processamento dos pagamentos na CRA](plataformas/plataforma-de-convenios/contratos.md)
-  * [Repasse para o cartório](plataformas/plataforma-de-convenios/plataforma-de-convenios-na-cra.md)
-* [Plataforma de convênios](plataformas/plataforma-de-convenios-1/README.md)
-  * [Página de divulgação](plataformas/plataforma-de-convenios-1/pagina-de-divulgacao.md)
-  * [Links de acesso](plataformas/plataforma-de-convenios-1/links-de-acesso.md)
-  * [Pré cadastro](plataformas/plataforma-de-convenios-1/pre-cadastro.md)
-  * [Página de acompanhamento](plataformas/plataforma-de-convenios-1/pagina-de-acompanhamento.md)
-  * [Contratos](plataformas/plataforma-de-convenios-1/contratos.md)
-  * [Plataforma de Convênios na CRA](plataformas/plataforma-de-convenios-1/plataforma-de-convenios-na-cra.md)
-  * [Paramêtros](plataformas/plataforma-de-convenios-1/parametros.md)
-  * [Dúvidas Frequentes](plataformas/plataforma-de-convenios-1/duvidas-frequentes.md)
-
 ## Apresentante
 
-* [Remessa em Excel.](apresentante/preenchimento-de-remessa-em-excel.md)
-* [Autorização de cancelamento em Excel](apresentante/autorizacao-de-cancelamento-em-excel.md)
 * [Pedido de desistência/cancelamento em Excel](apresentante/preenchimento-de-pedido-de-desistencia-cancelamento-em-excel.md)
-* [Envio de arquivo CNAB](apresentante/envio-de-arquivo-cnab.md)
 * [Instrumento de Protesto eletrônico.](apresentante/instrumento-de-protesto-eletronico..md)
 * [Digitação Manual](apresentante/digitacao-manual/README.md)
   * [Gerar remessa](apresentante/digitacao-manual/gerar-remessa.md)
@@ -152,11 +123,4 @@
 
 ## CRA
 
-* [Boletos de repasse](cra/boletos-de-repasse/README.md)
-  * [Como funciona](cra/boletos-de-repasse/como-funciona.md)
-  * [Por onde começar](cra/boletos-de-repasse/por-onde-comecar.md)
-  * [Parâmetros](cra/boletos-de-repasse/parametros.md)
-  * [Geração do boleto no cartório](cra/boletos-de-repasse/geracao-do-boleto-no-cartorio.md)
-  * [Processamento dos pagamentos na CRA](cra/boletos-de-repasse/processamento-dos-pagamentos-na-cra.md)
-  * [Repasse para o apresentante](cra/boletos-de-repasse/repasse-para-o-apresentante.md)
 * [Upload Excel pagamento custas](cra/upload-excel-pagamento-custas.md)
