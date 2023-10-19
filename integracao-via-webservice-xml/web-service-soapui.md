@@ -28,7 +28,7 @@ Para realizar testes de conexão com o **Web Service** da CRA utilizando a ferra
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-**4.º Escolha o serviço que deseja utilizar, crie ou seleciona uma **<mark style="color:green;">**request**</mark>**.**\
+**4.º Escolha o serviço que deseja utilizar, crie ou selecione uma **<mark style="color:green;">**request**</mark>**.**\
 
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
