@@ -7,7 +7,7 @@ coverY: -6
 
 ## SoapUI
 
-O SoapUI é um aplicativo de teste de serviço da Web de código aberto para Protocolo de Acesso a Objeto Simples e transferências de estado representacional. Sua funcionalidade abrange inspeção de serviços da Web, invocação, desenvolvimento, simulação e simulação, testes funcionais, testes de carga e conformidade.
+O SoapUI é um aplicativo de teste de serviço da Web de código aberto para Protocolo de Acesso a Objeto Simples e transferências de estado representacional. Sua funcionalidade abrange inspeção de serviços da Web, invocação, desenvolvimento, simulação e situação, testes funcionais, testes de carga e conformidade.
 
 Com ele será possível realizar testes de envio de arquivo com a CRA21&#x20;
 
