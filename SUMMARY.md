@@ -51,6 +51,7 @@
   * [Exemplos de arquivos](integracao-via-webservice-xml/cartorios-distribuidores/exemplos-de-arquivos.md)
   * [Envio de imagens](integracao-via-webservice-xml/cartorios-distribuidores/envio-de-imagens.md)
   * [Mensagens](integracao-via-webservice-xml/cartorios-distribuidores/mensagens.md)
+* [Web Service – SoapUI](integracao-via-webservice-xml/web-service-soapui.md)
 
 ## API CRA21
 
@@ -108,7 +109,6 @@
   * [Registro do log](apresentante/digitacao-manual/registro-do-log.md)
 * [Layout Febraban](apresentante/layout-febraban/README.md)
   * [Declaração do portador](apresentante/layout-febraban/declaracao-do-portador.md)
-* [Web Service – SoapUI](apresentante/web-service-soapui.md)
 * [Utilizando PHP](apresentante/utilizando-php.md)
 
 ## Cartórios

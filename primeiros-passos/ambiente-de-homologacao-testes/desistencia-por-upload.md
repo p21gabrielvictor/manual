@@ -10,7 +10,7 @@ Após acessar o menu na tela de Upload Desistência, observe o horário limite, 
 
 Após o envio do arquivo o sistema irá gerar um log de sucesso ou de erro, conforme mostrado abaixo:
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para ver o log completo, bata clicar no botão <mark style="color:green;">**Ver Detalhes**</mark>.
 

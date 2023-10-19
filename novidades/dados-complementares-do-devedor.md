@@ -25,15 +25,15 @@ Para enviar por XML, o apresentante deverá preencher os dados nas tags: <mark s
 
 Para informar os dados pela aplicação CRA21, o apresentante irá acessar o menu Remessa -> Gerar remessa -> informar os dados nos campos telefone e e-mail.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 #### ENVIO POR EXCEL  APLICAÇÃO CRA21&#x20;
 
 Para efetuar o upload por Excel pela aplicação o apresentante irá acessar o menu Remessa -> Upload remessa Excel -> informar os dados nos campos telefone e e-mail na planilha (Conforme na imagem).
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Download pelo cartório/distribuidor
 
