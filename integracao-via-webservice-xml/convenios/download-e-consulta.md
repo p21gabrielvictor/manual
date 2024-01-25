@@ -58,10 +58,10 @@ Informar o parâmetro “**userDados**" com a seguinte estrutura:\\
              </cartorios>
          </municipio>
          <municipio>
-             <codigomunicipio>3100209</codigomunicipio>
+             <codigoMunicipio>3100209</codigoMunicipio>
              <cartorios>
                  <cartorio>
-                     <codigocartorio>02</codigocartorio>
+                     <codigoCartorio>02</codigoCartorio>
                      <titulos>
                          <titulo>
                              <protocolo>5040302010</protocolo>
