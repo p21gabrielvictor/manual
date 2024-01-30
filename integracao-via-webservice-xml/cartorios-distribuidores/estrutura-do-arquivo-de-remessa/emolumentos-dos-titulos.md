@@ -1,6 +1,6 @@
 ---
 description: >-
-  Descrever o serviço para informar custas dos títulos enviados entre Cartórios
+  Descrição do serviço para informar custas dos títulos enviados entre Cartórios
   de Protesto e o CRA21.
 ---
 
