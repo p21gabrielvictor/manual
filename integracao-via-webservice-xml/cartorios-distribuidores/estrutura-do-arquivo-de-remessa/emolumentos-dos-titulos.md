@@ -1,7 +1,7 @@
 ---
 description: >-
-  Descrição do serviço para informar custas dos títulos enviados entre Cartórios
-  de Protesto e o CRA21.
+  Descrição do serviço de atualização das custas de retirada/cancelamento dos
+  títulos, que pode ser utilizado pelos cartórios.
 ---
 
 # Emolumentos dos títulos
@@ -47,26 +47,26 @@ description: >-
 
 [<mark style="color:green;">**`DOWNLOAD ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO\_CUSTAS\_TITULO.zip?raw=true)
 
-| _**Atributo**_         | _**Descrição**_                                   | _**Obrigatório**_ | _**Tamanho**_ | _**Tipo**_            | _**Casas Decimais**_ |
-| ---------------------- | ------------------------------------------------- | ----------------- | ------------- | --------------------- | -------------------- |
-| **codigo**             | **Código do apresentante**                        | **Sim**           | **Variável**  | **Alfanumérico**      | **Nenhuma**          |
-| **protocolo**          | **Protocolo do título**                           | **Sim**           | **Variável**  | **Alfanumérico**      | **Nenhuma**          |
-| **documento\_devedor** | **Documento do devedor**                          | **Sim**           | **Variável**  | **Numérico**          | **Nenhuma**          |
-| **data\_protocolo**    | **Data de protocolo**                             | **Sim**           | **010**       | **Data (01/01/2024)** | **Nenhuma**          |
-| **numero\_titulo**     | **Número do título**                              | **Sim**           | **Variável**  | **Numérico**          | **Nenhuma**          |
-| **nosso\_numero**      | **Nosso número**                                  | **Sim**           | **Variável**  | **Numérico**          | **Nenhuma**          |
-| **valor**              | **Valor do título**                               | **Sim**           | **Variável**  | **Decimal**           | **2**                |
-| **tipo**               | **Tipo de custas (1 – Retirada, 2 Cancelamento)** | **Sim**           | **001**       | **Inteiro**           | **Nenhuma**          |
-| **total**              | **Total das custas pré-calculadas**               | **Sim**           | **Variável**  | **Decimal**           | **2**                |
-| **vigência**           | **Vigência das custas**                           | **Sim**           | **010**       | **Data (01/01/2024)** | **Nenhuma**          |
+| _**Atributo**_         | _**Descrição**_                                                  | _**Obrigatório**_ | _**Tamanho**_ | _**Tipo**_            | _**Casas Decimais**_ |
+| ---------------------- | ---------------------------------------------------------------- | ----------------- | ------------- | --------------------- | -------------------- |
+| **codigo**             | **Código do apresentante**                                       | **Sim**           | **Variável**  | **Alfanumérico**      | **Nenhuma**          |
+| **protocolo**          | **Protocolo do título**                                          | **Sim**           | **Variável**  | **Alfanumérico**      | **Nenhuma**          |
+| **documento\_devedor** | **Documento do devedor**                                         | **Sim**           | **Variável**  | **Numérico**          | **Nenhuma**          |
+| **data\_protocolo**    | **Data de protocolo**                                            | **Sim**           | **010**       | **Data (DD/MM/AAAA)** | **Nenhuma**          |
+| **numero\_titulo**     | **Número do título**                                             | **Sim**           | **Variável**  | **Numérico**          | **Nenhuma**          |
+| **nosso\_numero**      | **Nosso número**                                                 | **Sim**           | **Variável**  | **Numérico**          | **Nenhuma**          |
+| **valor**              | **Valor do título**                                              | **Sim**           | **Variável**  | **Decimal**           | **2**                |
+| **tipo**               | **Tipo de custas (1 – Retirada, 2 Cancelamento)**                | **Sim**           | **001**       | **Inteiro**           | **Nenhuma**          |
+| **total**              | **Valor total das custas para retirada/cancelamento do título.** | **Sim**           | **Variável**  | **Decimal**           | **2**                |
+| **vigência**           | **Vigência das custas**                                          | **Sim**           | **010**       | **Data (DD/MM/AAAA)** | **Nenhuma**          |
 
 \
 
 
 Observações:
 
-* **O envio das custas simplificado prevê o preenchimento dos em destaque.**
-* A vigência indica até quando essas custas podem ser consultadas pelo apresentante ou em rotinas públicas, o não preenchimento desse campo indica que as custas não têm uma data de validade.
+* **O envio das custas prevê o preenchimento dos campos a cima em destaque.**
+* A vigência indica o prazo de validade das custas informadas. O não preenchimento da vigência indica que o prazo de validade das custas é indefinido.
 {% endtab %}
 
 {% tab title="Mensagens" %}
