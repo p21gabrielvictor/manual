@@ -65,7 +65,7 @@ description: >-
 
 Observações:
 
-* **O envio das custas prevê o preenchimento dos campos a cima em destaque.**
+* **O envio das custas prevê o preenchimento dos campos acima em destaque.**
 * A vigência indica o prazo de validade das custas informadas. O não preenchimento da vigência indica que o prazo de validade das custas é indefinido.
 {% endtab %}
 
