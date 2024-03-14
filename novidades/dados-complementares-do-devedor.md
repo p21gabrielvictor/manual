@@ -31,9 +31,9 @@ Para informar os dados pela aplicação CRA21, o apresentante irá acessar o men
 
 Para efetuar o upload por Excel pela aplicação o apresentante irá acessar o menu Remessa -> Upload remessa Excel -> informar os dados nos campos telefone e e-mail na planilha (Conforme na imagem).
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Download pelo cartório/distribuidor
 
@@ -52,7 +52,11 @@ O download via XML será disponibilizado ao cartório nessas mesmas tags <mark s
 </remessa>
 ```
 
-####
+#### Visualização pela aplicação CRA21
+
+É possível consultar o e-mail pela aplicação CRA21, pelo menu Consulta -> Consulta titulo.&#x20;
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### CONSULTA DOS DADOS COMPLEMENTARES DO TÍTULO VIA API&#x20;
 
