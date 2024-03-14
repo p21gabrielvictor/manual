@@ -39,7 +39,7 @@ Para efetuar o upload por Excel pela aplicação o apresentante irá acessar o m
 
 O e-mail e telefone do devedor pode ser verificado pela aplicação CRA21, acessando o menu Consulta -> Consulta titulo.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 ### Download pelo cartório/distribuidor
 
