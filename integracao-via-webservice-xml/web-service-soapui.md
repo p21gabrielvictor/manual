@@ -40,7 +40,7 @@ Para realizar testes de conexão com o **Web Service** da CRA utilizando a ferra
 \<!\[CDATA\[inserir aqui no formato XML o conteudo da remessa]]>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **6.º Após isso clique no botão play na parte superior, o sistema irá mostra o resultado da sua requisição na parte lateral direita RAW/XML.**
 
