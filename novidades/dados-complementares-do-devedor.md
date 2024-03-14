@@ -35,6 +35,12 @@ Para efetuar o upload por Excel pela aplicação o apresentante irá acessar o m
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+### Visualização pela aplicação CRA21
+
+O e-mail e telefone do devedor pode ser verificado pela aplicação CRA21, acessando o menu Consulta -> Consulta titulo.&#x20;
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 ### Download pelo cartório/distribuidor
 
 {% hint style="success" %}
@@ -51,12 +57,6 @@ O download via XML será disponibilizado ao cartório nessas mesmas tags <mark s
 <tl ... t08="0004"/>
 </remessa>
 ```
-
-#### Visualização pela aplicação CRA21
-
-É possível consultar o e-mail pela aplicação CRA21, pelo menu Consulta -> Consulta titulo.&#x20;
-
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### CONSULTA DOS DADOS COMPLEMENTARES DO TÍTULO VIA API&#x20;
 
