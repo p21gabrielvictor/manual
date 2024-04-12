@@ -256,7 +256,7 @@ Enviando andamento e emolumento
 </complementos>
 ```
 
-<table data-header-hidden><thead><tr><th width="200"></th><th></th></tr></thead><tbody><tr><td><strong>CÓDIGO</strong></td><td><strong>DESCRIÇÃO</strong></td></tr><tr><td>2292</td><td>CAMPOS INVÁLIDOS OU NÃO INFORMADOS (ATRIBUTO)</td></tr><tr><td>2304</td><td>FOI ENCONTRADO MAIS DE UM TÍTULO COM OS DADOS INFORMADOS</td></tr><tr><td>2137</td><td>CAMPO (ATRIBUTO) INVÁLIDO.</td></tr><tr><td>2318</td><td>CUSTAS ATUALIZADAS</td></tr><tr><td>2196</td><td>TÍTULO NÃO ENCONTRADO</td></tr><tr><td>2322</td><td>ANDAMENTO INSERIDO </td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="200"></th><th></th></tr></thead><tbody><tr><td><strong>CÓDIGO</strong></td><td><strong>DESCRIÇÃO</strong></td></tr><tr><td>2292</td><td>CAMPOS INVÁLIDOS OU NÃO INFORMADOS (ATRIBUTO)</td></tr><tr><td>2304</td><td>FOI ENCONTRADO MAIS DE UM TÍTULO COM OS DADOS INFORMADOS</td></tr><tr><td>2137</td><td>CAMPO (ATRIBUTO) INVÁLIDO.</td></tr><tr><td>2318</td><td>CUSTAS ATUALIZADAS</td></tr><tr><td>2196</td><td>TÍTULO NÃO ENCONTRADO</td></tr><tr><td>2322</td><td>ANDAMENTO INSERIDO </td></tr><tr><td>2334</td><td>O ARQUIVO POSSUI REGISTROS EM DUPLICIDADE. CONSULTE O LOG NO SISTEMA PARA MAIS INFORMAÇÕES. </td></tr><tr><td>2335</td><td>REGISTRO EM DUPLICIDADE</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Diferença dos serviços" %}
