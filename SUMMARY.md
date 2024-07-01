@@ -43,6 +43,8 @@
   * [Consulta autorização efetivada](integracao-via-webservice-xml/cartorios-distribuidores/consulta-autorizacao-efetivada.md)
   * [Estrutura de arquivos](integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/README.md)
     * [Remessa](integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/remessa.md)
+    * [Retorno](integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/retorno/README.md)
+      * [Retorno único](integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/retorno/retorno-unico.md)
     * [Emolumentos dos títulos](integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/emolumentos-dos-titulos.md)
     * [Instrumento de Protesto eletrônico](integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/instrumento-de-protesto-eletronico.md)
     * [Serviço de Informações complementares](integracao-via-webservice-xml/cartorios-distribuidores/estrutura-do-arquivo-de-remessa/servico-de-informacoes-complementares.md)
