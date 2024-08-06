@@ -77,3 +77,20 @@ Para consultar os dados complementares do título via é necessário utilizar a 
 ```
 
 Para demais dúvidas sobre a API, [<mark style="color:green;">**clique aqui**</mark>](../api-cra21/integracao-cra21-api/).
+
+## Múltiplos contatos&#x20;
+
+Atualmente, é possível incluir mais de um telefone e e-mail para o devedor em um título. Para realizar esse envio, é necessário separar os contatos com ponto e vírgula ";", conforme o exemplo abaixo:
+
+```markup
+<remessa>
+<hd ... h17="0001"/>
+<tr ... t51="" t53="(99) 9999-9999; (99) 9999-9999" t54="devedor@email.com.br; devedor@email.com.br"/>
+<tr ... t51="" t53="(99) 9999-9999; (99) 9999-9999" t54="devedor@email.com.br; devedor@email.com.br"/>
+<tl ... t08="0004"/>
+</remessa>
+```
+
+### Visualização na CRA21&#x20;
+
+<figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
