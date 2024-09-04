@@ -1,6 +1,6 @@
 # Arquivo de andamento (Upload Cartório)
 
-O objetivo desse arquivo é viabilizar que as informações de andamento dos títulos sejam enviadas para a CRA e para o apresentante. \
+Este arquivo tem como finalidade informar o andamento dos títulos enviados a protesto antes de sua conclusão. Ele visa garantir que as informações de status dos títulos sejam devidamente compartilhadas com a CRA e com os apresentantes, facilitando o acompanhamento dos títulos enviados a protesto. Além disso, o arquivo é essencial para a negociação de desistências e cancelamentos entre os devedores e os apresentantes, promovendo uma gestão mais eficaz dos protestos.\
 O cartório terá à disposição três opções para transmitir essa informação:
 
 * [<mark style="color:green;">TXT</mark>](andamento-em-txt.md)
