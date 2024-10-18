@@ -8,7 +8,7 @@
 
 **Parâmetros**
 
-<table><thead><tr><th width="199.90121796419186">Campo</th><th width="402">Descrição</th><th>Opcional</th></tr></thead><tbody><tr><td>idCartorio</td><td>Recuperado após autenticação ou através do serviço URL/cartorio</td><td>X</td></tr><tr><td>idApresentante</td><td>Recuperado após autenticação ou através do serviço URL/apresentante</td><td>X</td></tr><tr><td>identificador</td><td>Número identificador do título</td><td>X</td></tr><tr><td>numeroTitulo</td><td>Número do título</td><td>X</td></tr><tr><td>documentoDevedor</td><td>Documento do devedor do título</td><td>X</td></tr><tr><td>documentoCredor</td><td>CPF/CNPJ do credor do título</td><td>X</td></tr><tr><td>nomeCredor</td><td>Nome do credor do título</td><td>X</td></tr><tr><td>ocorrenciaRetorno</td><td>Ocorrência do título, parâmetros de busca: protesto, pagamento, cacelamento, sustação, devolução, desistência</td><td>X</td></tr></tbody></table>
+<table><thead><tr><th width="199.90121796419186">Campo</th><th width="402">Descrição</th><th>Opcional</th></tr></thead><tbody><tr><td>idCartorio</td><td>Recuperado após autenticação ou através do serviço URL/cartorio</td><td>X</td></tr><tr><td>idApresentante</td><td>Recuperado após autenticação ou através do serviço URL/apresentante</td><td>X</td></tr><tr><td>identificador</td><td>Número identificador do título</td><td>X</td></tr><tr><td>numeroTitulo</td><td>Número do título</td><td>X</td></tr><tr><td>documentoDevedor</td><td>Documento do devedor do título</td><td>X</td></tr><tr><td>documentoCredor</td><td>CPF/CNPJ do credor do título</td><td>X</td></tr><tr><td>nomeCredor</td><td>Nome do credor do título</td><td>X</td></tr><tr><td>ocorrenciaRetorno</td><td>Ocorrência do título, parâmetros de busca: protesto, pagamento, cacelamento, sustação, devolução, desistência</td><td>X</td></tr><tr><td>dataRetorno</td><td>Data do retorno</td><td>X</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Resposta" %}
@@ -169,7 +169,45 @@
                        "timezone_type": 3,
                        "timezone": "America/Sao_Paulo"
                     }
-                },
+                }, 
+                "custas":[
+                  {
+                    "tipo": "cancelamento",
+                    "valor" : 10.34,
+                    "vigencia":             {
+                       "date": "2022-04-17 08:29:27.000000",
+                       "timezone_type": 3,
+                       "timezone": "America/Sao_Paulo"
+                    }
+                  },
+                {
+                    "tipo": "desistencia",
+                    "valor" : 25.69,
+                    "vigencia":             {
+                       "date": "2022-04-17 08:29:27.000000",
+                       "timezone_type": 3,
+                       "timezone": "America/Sao_Paulo"
+                    }
+                  },
+                ],
+                "andamentos": [
+                    {
+                        "codigo": "AA",
+                        "data": {
+                            "date": "2024-10-08 19:05:45.000000",
+                            "timezone_type": 3,
+                            "timezone": "America/Sao_Paulo"
+                        }
+                    },
+                    {
+                        "codigo": "AB",
+                        "data": {
+                            "date": "2024-10-09 11:18:32.000000",
+                            "timezone_type": 3,
+                            "timezone": "America/Sao_Paulo"
+                        }
+                    },
+                ],
                 "_links": {
                     "self": {
                         "href": "http://craUF.api.crabr.com.br/titulo/0000000000"
