@@ -50,5 +50,5 @@ _<mark style="color:red;">**ATENÇÃO**</mark><mark style="color:red;">: Substit
 | url/relatorio-remessa                        | Consulta aos dados do relatório de remessa analítico detalhado             | GET   |
 | url/apresentantes                            | Consulta informações dos apresentantes.                                    | GET   |
 | url/dataRemessa                              | Consulta os títulos da data informada                                      | GET   |
-| url/apenasTitulosDadosComplementares         | Consulta apenas os títulos com dados complementares                        | GET   |
+| url/apenasTitulosDadosComplementares         | Consulta os títulos com dados complementares:                              | GET   |
 
