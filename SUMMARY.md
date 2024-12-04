@@ -76,8 +76,10 @@
   * [URL/instrumento](api-cra21/integracao-cra21-api/url-instrumento.md)
   * [URL/cedente](api-cra21/integracao-cra21-api/url-cedente.md)
   * [URL/relatorio-remessa](api-cra21/integracao-cra21-api/url-relatorio-remessa.md)
-  * [URL/apresentantes](api-cra21/integracao-cra21-api/url-apresentantes.md)
+  * [url/dataRemessa](api-cra21/integracao-cra21-api/url-dataremessa.md)
+  * [url/apenasTitulosDadosComplementares](api-cra21/integracao-cra21-api/url-apenastitulosdadoscomplementares.md)
   * [Mensagens](api-cra21/integracao-cra21-api/mensagens.md)
+  * [URL/apresentantes](api-cra21/integracao-cra21-api/url-apresentantes.md)
 
 ## Primeiros passos
 
