@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # url/dataRemessa
 
 Parâmetros de URL. Exemplo: **http://craUF.api.crabr.com.br/titulo?dataRemessa=02122024**
