@@ -8,7 +8,7 @@
 
 **Parâmetros**
 
-<table><thead><tr><th width="199.90121796419186">Campo</th><th width="402">Descrição</th><th>Opcional</th></tr></thead><tbody><tr><td>idCartorio</td><td>Recuperado após autenticação ou através do serviço URL/cartorio</td><td>X</td></tr><tr><td>idApresentante</td><td>Recuperado após autenticação ou através do serviço URL/apresentante</td><td>X</td></tr><tr><td>identificador</td><td>Número identificador do título</td><td>X</td></tr><tr><td>numeroTitulo</td><td>Número do título</td><td>X</td></tr><tr><td>documentoDevedor</td><td>Documento do devedor do título</td><td>X</td></tr><tr><td>documentoCredor</td><td>CPF/CNPJ do credor do título</td><td>X</td></tr><tr><td>nomeCredor</td><td>Nome do credor do título</td><td>X</td></tr><tr><td>ocorrenciaRetorno</td><td>Ocorrência do título, parâmetros de busca: protesto, pagamento, cacelamento, sustação, devolução, desistência</td><td>X</td></tr><tr><td>dataRetorno</td><td>Data do retorno</td><td>X</td></tr></tbody></table>
+<table><thead><tr><th width="325.90121796419186">Campo</th><th width="402">Descrição</th><th>Opcional</th></tr></thead><tbody><tr><td>idCartorio</td><td>Recuperado após autenticação ou através do serviço URL/cartorio</td><td>X</td></tr><tr><td>idApresentante</td><td>Recuperado após autenticação ou através do serviço URL/apresentante</td><td>X</td></tr><tr><td>identificador</td><td>Número identificador do título</td><td>X</td></tr><tr><td>numeroTitulo</td><td>Número do título</td><td>X</td></tr><tr><td>documentoDevedor</td><td>Documento do devedor do título</td><td>X</td></tr><tr><td>documentoCredor</td><td>CPF/CNPJ do credor do título</td><td>X</td></tr><tr><td>nomeCredor</td><td>Nome do credor do título</td><td>X</td></tr><tr><td>ocorrenciaRetorno</td><td>Ocorrência do título, parâmetros de busca: protesto, pagamento, cacelamento, sustação, devolução, desistência</td><td>X</td></tr><tr><td>dataRetorno</td><td>Data do retorno</td><td>X</td></tr><tr><td>apenasDevedoresEnderecoCompleto</td><td>Filtra títulos em que o apresentante informou um endereço de devedor maior que 45 caracteres (limite do layout FEBRABAN)</td><td>X</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Resposta" %}
@@ -51,10 +51,24 @@
                 "documentoSacador": "00000000000000",
                 "nomeCedente": "TESTE 123",
                 "devedores": [
-                    {
-                        "nome": "DEVEDOR DEVEDOR",
-                        "tipoDocumento": "CNPJ",
-                        "documento": "00000000000000"
+                     {
+                        "nome": "NOME DO DEVEDOR",
+                        "tipoDocumento": "CPF",
+                        "documento": "99999999999",
+                        "telefone": [
+                            ""
+                        ],
+                        "email": [
+                            ""
+                        ],
+                        "endereco": {
+                            "endereco": "80686-508, RUA EXEMPLO99999. BC. 2 AP. 999999",
+                            "enderecoCompleto": "80686-508, RUA EXEMPLO99999. BC. 2 AP. 999999A ENDERECO COMPLETO 999, R. EXEMPLO999999. ANEXOJOSE D'OESTE - XX",
+                            "bairro": "R. EXEMPLO 3. BC. 13",
+                            "cep": 99999999,
+                            "uf": "XX",
+                            "cidade": "CIDADE EXEMPL"
+                        }
                     }
                 ],
                 "apresentante": {
