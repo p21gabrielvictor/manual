@@ -5,20 +5,20 @@
   * Deverão ser passados os parâmetros de _usuário_ e _senha_, fornecidos pela CRA.
   * Após a autenticação serão validados os parâmetros de entrada e por último a crítica do arquivo
 * **Serviços disponíveis:**
-  * | **Remessa**                   | upload do arquivo de remessa                                                                                                                                                        |
-    | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | **Confirmacao**               | download do arquivo de confirmação                                                                                                                                                  |
-    | **Retorno**                   | download do arquivo de retorno                                                                                                                                                      |
-    | **Desistencia**               | upload de desistência                                                                                                                                                               |
-    | **Cancelamento**              | upload de cancelamento                                                                                                                                                              |
-    | **Autorizacao\_Cancelamento** | upload de autorização de cancelamento                                                                                                                                               |
-    | **Autorizacao\_Desistencia**  | upload de autorização de desistência                                                                                                                                                |
-    | **BoletoAutorizacao**         | consulta de boletos de autorização. Os detalhes desse serviço podem ser conferidos nesse [link](https://manual.crabr.com.br/manual/boletos\_autorizacao\_webservice-apresentante/). |
-    | **Homologadas**               | download de comarcas homologadas                                                                                                                                                    |
-    | **Consulta**                  | consulta de título                                                                                                                                                                  |
-    | **Consulta\_Slip**            | consulta de dados do slip                                                                                                                                                           |
-    | **Instrumento**               | consulta dos instrumentos eletrônicos.                                                                                                                                              |
-    | **Imagem**                    | upload de imagens do título após o envio da remessa.                                                                                                                                |
+  * | **Remessa**                | upload do arquivo de remessa                                                                                                                                                      |
+    | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | **Confirmacao**            | download do arquivo de confirmação                                                                                                                                                |
+    | **Retorno**                | download do arquivo de retorno                                                                                                                                                    |
+    | **Desistencia**            | upload de desistência                                                                                                                                                             |
+    | **Cancelamento**           | upload de cancelamento                                                                                                                                                            |
+    | **Autoriza\_Cancelamento** | upload de autorização de cancelamento                                                                                                                                             |
+    | **Autoriza\_Desistencia**  | upload de autorização de desistência                                                                                                                                              |
+    | **BoletoAutorizacao**      | consulta de boletos de autorização. Os detalhes desse serviço podem ser conferidos nesse [link](https://manual.crabr.com.br/manual/boletos_autorizacao_webservice-apresentante/). |
+    | **Homologadas**            | download de comarcas homologadas                                                                                                                                                  |
+    | **Consulta**               | consulta de título                                                                                                                                                                |
+    | **Consulta\_Slip**         | consulta de dados do slip                                                                                                                                                         |
+    | **Instrumento**            | consulta dos instrumentos eletrônicos.                                                                                                                                            |
+    | **Imagem**                 | upload de imagens do título após o envio da remessa.                                                                                                                              |
 * **Parâmetros dos serviços disponíveis:**
 *   Upload\\
 
