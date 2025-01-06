@@ -1,5 +1,9 @@
 # Envio de Imagens
 
+{% hint style="info" %}
+O sistema permite o upload de arquivos com tamanho máximo de 200MB por arquivo.
+{% endhint %}
+
 **Imagem do título no arquivo de remessa**
 
 * As imagens podem ser assinadas **opcionalmente**.
@@ -42,8 +46,6 @@
     </remessa>
 </remessas>
 ```
-
-
 
 **Cancelamento/Desistência**
 
