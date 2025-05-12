@@ -2,16 +2,24 @@
 
 * [CRA 21](README.md)
 
-## ✨ Novidades
+## Primeiros passos
 
-* [Arquivo de andamento (Upload Cartório)](novidades/arquivo-de-andamento-cartorio/README.md)
-  * [Andamento em TXT](novidades/arquivo-de-andamento-cartorio/andamento-em-txt.md)
-  * [Andamento em XML](novidades/arquivo-de-andamento-cartorio/servico-de-informacoes-complementares-xml.md)
-  * [Andamento pela aplicação CRA21](novidades/arquivo-de-andamento-upload-cartorio/andamento-pela-aplicacao-cra21.md)
-* [Arquivo de andamento (Download Apresentante)](novidades/arquivo-de-andamento-download-apresentante/README.md)
-  * [Download do andamento pela aplicação CRA21](novidades/arquivo-de-andamento-download-apresentante/download-do-andamento-pela-aplicacao-cra21.md)
-  * [Download do andamento em XML](novidades/arquivo-de-andamento-download-apresentante/download-do-andamento-em-xml.md)
-* [Dados complementares do devedor](novidades/dados-complementares-do-devedor.md)
+* [Fluxo do Negócio](primeiros-passos/fluxo-do-negocio/README.md)
+  * [Envio de Remessa](primeiros-passos/fluxo-do-negocio/envio-de-remessa.md)
+  * [Envio de Confirmação](primeiros-passos/fluxo-do-negocio/envio-de-confirmacao.md)
+  * [Envio de Retorno](primeiros-passos/fluxo-do-negocio/envio-de-retorno.md)
+  * [Envio de Desistência](primeiros-passos/fluxo-do-negocio/envio-de-desistencia.md)
+  * [Envio de Cancelamento](primeiros-passos/fluxo-do-negocio/envio-de-cancelamento.md)
+  * [Envio de Autorização de Desistência](primeiros-passos/fluxo-do-negocio/envio-de-autorizacao-de-desistencia.md)
+  * [Envio de Autorização de Cancelamento](primeiros-passos/fluxo-do-negocio/envio-de-autorizacao-de-cancelamento.md)
+* [Ambiente de Homologação (testes)](primeiros-passos/ambiente-de-homologacao-testes/README.md)
+  * [Remessa por Upload](primeiros-passos/ambiente-de-homologacao-testes/remessa-por-upload.md)
+  * [Download Confirmação](primeiros-passos/ambiente-de-homologacao-testes/download-confirmacao.md)
+  * [Download Retorno](primeiros-passos/ambiente-de-homologacao-testes/download-retorno.md)
+  * [Solicitar Desistência](primeiros-passos/ambiente-de-homologacao-testes/solicitar-desistencia.md)
+  * [Desistência por Upload](primeiros-passos/ambiente-de-homologacao-testes/desistencia-por-upload.md)
+  * [Solicitar Cancelamento](primeiros-passos/ambiente-de-homologacao-testes/solicitar-cancelamento.md)
+  * [Cancelamento por Upload](primeiros-passos/ambiente-de-homologacao-testes/cancelamento-por-upload.md)
 
 ## Integração via Webservice (XML)
 
@@ -81,25 +89,6 @@
   * [Mensagens](api-cra21/integracao-cra21-api/mensagens.md)
   * [URL/apresentantes](api-cra21/integracao-cra21-api/url-apresentantes.md)
 
-## Primeiros passos
-
-* [Fluxo do Negócio](primeiros-passos/fluxo-do-negocio/README.md)
-  * [Envio de Remessa](primeiros-passos/fluxo-do-negocio/envio-de-remessa.md)
-  * [Envio de Confirmação](primeiros-passos/fluxo-do-negocio/envio-de-confirmacao.md)
-  * [Envio de Retorno](primeiros-passos/fluxo-do-negocio/envio-de-retorno.md)
-  * [Envio de Desistência](primeiros-passos/fluxo-do-negocio/envio-de-desistencia.md)
-  * [Envio de Cancelamento](primeiros-passos/fluxo-do-negocio/envio-de-cancelamento.md)
-  * [Envio de Autorização de Desistência](primeiros-passos/fluxo-do-negocio/envio-de-autorizacao-de-desistencia.md)
-  * [Envio de Autorização de Cancelamento](primeiros-passos/fluxo-do-negocio/envio-de-autorizacao-de-cancelamento.md)
-* [Ambiente de Homologação (testes)](primeiros-passos/ambiente-de-homologacao-testes/README.md)
-  * [Remessa por Upload](primeiros-passos/ambiente-de-homologacao-testes/remessa-por-upload.md)
-  * [Download Confirmação](primeiros-passos/ambiente-de-homologacao-testes/download-confirmacao.md)
-  * [Download Retorno](primeiros-passos/ambiente-de-homologacao-testes/download-retorno.md)
-  * [Solicitar Desistência](primeiros-passos/ambiente-de-homologacao-testes/solicitar-desistencia.md)
-  * [Desistência por Upload](primeiros-passos/ambiente-de-homologacao-testes/desistencia-por-upload.md)
-  * [Solicitar Cancelamento](primeiros-passos/ambiente-de-homologacao-testes/solicitar-cancelamento.md)
-  * [Cancelamento por Upload](primeiros-passos/ambiente-de-homologacao-testes/cancelamento-por-upload.md)
-
 ## Apresentante
 
 * [Pedido de desistência/cancelamento em Excel](apresentante/preenchimento-de-pedido-de-desistencia-cancelamento-em-excel.md)
@@ -124,6 +113,17 @@
 * [Município Virtual](cartorios/municipio-virtual/README.md)
   * [Como funciona](cartorios/municipio-virtual/como-funciona.md)
 * [Arquivo de andamento em TXT](cartorios/arquivo-de-andamento-em-txt.md)
+
+## ✨ Novidades
+
+* [Arquivo de andamento (Upload Cartório)](novidades/arquivo-de-andamento-cartorio/README.md)
+  * [Andamento em TXT](novidades/arquivo-de-andamento-cartorio/andamento-em-txt.md)
+  * [Andamento em XML](novidades/arquivo-de-andamento-cartorio/servico-de-informacoes-complementares-xml.md)
+  * [Andamento pela aplicação CRA21](novidades/arquivo-de-andamento-upload-cartorio/andamento-pela-aplicacao-cra21.md)
+* [Arquivo de andamento (Download Apresentante)](novidades/arquivo-de-andamento-download-apresentante/README.md)
+  * [Download do andamento pela aplicação CRA21](novidades/arquivo-de-andamento-download-apresentante/download-do-andamento-pela-aplicacao-cra21.md)
+  * [Download do andamento em XML](novidades/arquivo-de-andamento-download-apresentante/download-do-andamento-em-xml.md)
+* [Dados complementares do devedor](novidades/dados-complementares-do-devedor.md)
 
 ## CRA
 
