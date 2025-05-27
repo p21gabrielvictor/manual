@@ -238,6 +238,24 @@ Esse modo de mensagem é ativado por parâmetro interno do sistema devido ao imp
 </consulta>
 ```
 
+#### **Envio de remessa**
+
+* Quando o código de barras acusar erro
+
+```xml
+<!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
+<relatorio>
+    <nome_arquivo>BG132205.251</nome_arquivo>
+    <comarca CodMun="4300307">
+        <datahora>202505221733</datahora>
+        <dataoperacao>20250522</dataoperacao>
+        <total_registros>0</total_registros>
+        <codigo>1309</codigo>
+        <ocorrencia>CAMPO 55 TRANSAÇÃO - LINHA DIGITAVEL INVALIDA</ocorrencia>
+    </comarca>
+</relatorio>
+```
+
 ### Mensagens retornadas
 
 #### **Remessa**
@@ -306,6 +324,7 @@ Esse modo de mensagem é ativado por parâmetro interno do sistema devido ao imp
 | 2229       | COMPLETO   | A LINHA QUE ANTECEDE O TRAILLER PRECISA SER UMA TRANSAÇÃO (1)                                                                                      |
 | 2305       | COMPLETO   | Documento do devedor inválido. (999.999.999-99)                                                                                                    |
 | 10000      | COMPLETO   | 1.5 ARQUIVO XML CORROMPIDO.                                                                                                                        |
+| 1309       | PARCIAL    | CAMPO 55 TRANSAÇÃO - LINHA DIGITAVEL INVALIDA                                                                                                      |
 
 #### **Imagem no arquivo de remessa**
 
