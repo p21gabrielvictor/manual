@@ -1,6 +1,6 @@
 # Autorização de Cancelamento
 
-[<mark style="color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO\_DP-CP-AC-AD\_XML.zip?raw=true)
+[<mark style="color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO_DP-CP-AC-AD_XML.zip?raw=true)
 
 | **Descrição**                                                                                                                                                                                                                                                           | **Tamanho** | **Tipo**     | **Casas Decimais** | **Atributo**              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------ | ------------------ | ------------------------- |
@@ -14,3 +14,5 @@
 | Nome do Devedor                                                                                                                                                                                                                                                         | 045         | Alfanumérico |                    | < nome\_devedor>          |
 | Valor do Título                                                                                                                                                                                                                                                         | 014         | Numérico     | 2                  | < valor\_titulo>          |
 | <p>Imagem:</p><ul><li>Para <strong>solicitação</strong> de Desistência ou Cancelamento: Imagens dos documentos zipados e convertidos em base64.</li><li>Para <strong>autorização</strong> de Desistência ou Cancelamento: Imagem em PDF convertido em base64.</li></ul> |             |              |                    | < imagem>                 |
+
+**Para autorizações de cancelamento assinadas digitalmente, a CRA aceita arquivos no formato P7S, independentemente da ferramenta utilizada para a assinatura. Entre os exemplos de certificados digitais utilizados estão o A1 e o A3.**
