@@ -20,7 +20,7 @@
       | **Consulta\_Slip**         | consulta de dados do slip                                                                                                                                                         |
       | **Instrumento**            | consulta dos instrumentos eletrônicos.                                                                                                                                            |
       | **Imagem**                 | upload de imagens do título após o envio da remessa.                                                                                                                              |
-      | Oficio\_Titulo             | upload do arquivo de remessa                                                                                                                                                      |
+      | **Oficio\_Titulo**         | upload do arquivo de ofício                                                                                                                                                       |
 
 
 * **Parâmetros dos serviços disponíveis:**
