@@ -59,6 +59,13 @@
     | **userArq**   | nome do arquivo no formato **FEBRABAN**         |
     | ------------- | ----------------------------------------------- |
     | **userDados** | conteúdo do arquivo XML em **Envio de Imagens** |
+*   **Oficio\_Titulo**
+
+    | userArq   | **nome do arquivo no formato definido**        |
+    | --------- | ---------------------------------------------- |
+    | userDados | conteúdo do arquivo XML em **Envio de ofício** |
+
+
 * **O encoding do XML deve corresponder com ISO-8859-1.**
 * **Assim como no HTML, o XML possui entidades, que devem ser substituídas conforme tabela abaixo:**
   * | **De** | **Para** |
