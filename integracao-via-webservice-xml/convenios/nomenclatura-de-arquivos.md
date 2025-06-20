@@ -71,3 +71,13 @@
   * **MM:** mês;
   * **AA:** ano de referência;
   * **S:** sequencial do arquivo (mínimo 1, máximo 9). Ex: R3412401.141 (Arquivo do Itaú de 24/01/2014 e sequencial 1). **Obs**: o campo “NNN” pode ser alterado para mais posições no caso de apresentantes conveniados que **não** são bancos.
+
+**OFÍCIO**
+
+* **OTNNNDDMM.AAS, onde**:
+  * OT: constante que indica ser arquivo de ofício;
+  * NNN: constante 000;
+  * DD: dia;
+  * MM: mês;
+  * AA: ano de referência;
+  * S: sequencial do arquivo (mínimo 1, máximo 9).Ex: OT0000404.221

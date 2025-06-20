@@ -35,6 +35,7 @@
     * [Autorização de Cancelamento](integracao-via-webservice-xml/convenios/estrutura-de-arquivos/autorizacao-de-cancelamento.md)
     * [Autorização de Desistência](integracao-via-webservice-xml/convenios/estrutura-de-arquivos/autorizacao-de-desistencia.md)
     * [Imagens da Remessa](integracao-via-webservice-xml/convenios/estrutura-de-arquivos/imagens-da-remessa.md)
+    * [Ofício](integracao-via-webservice-xml/convenios/estrutura-de-arquivos/oficio.md)
   * [Envio de Imagens](integracao-via-webservice-xml/convenios/envio-de-imagens.md)
   * [Download e Consulta](integracao-via-webservice-xml/convenios/download-e-consulta.md)
   * [Códigos de Ocorrência](integracao-via-webservice-xml/convenios/codigos-de-ocorrencia.md)

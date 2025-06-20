@@ -59,7 +59,7 @@
     | **userArq**   | nome do arquivo no formato **FEBRABAN**         |
     | ------------- | ----------------------------------------------- |
     | **userDados** | conteúdo do arquivo XML em **Envio de Imagens** |
-*   **Oficio\_Titulo**
+*   Oficio\_Titulo
 
     | userArq   | **nome do arquivo no formato definido**        |
     | --------- | ---------------------------------------------- |
