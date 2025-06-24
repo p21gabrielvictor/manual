@@ -85,7 +85,9 @@ O conteúdo do arquivo foi desenvolvido com base no [<mark style="color:green;">
 | **t55**      | _Linha digitável_                                                                                                                                                                                                                                                                                                                                                                                                                                                  |         | Numérico     | Nenhuma            |
 | **t56**      | _Código de barras no padrão FEBRABAN_                                                                                                                                                                                                                                                                                                                                                                                                                              |         | Numérico     | Nenhuma            |
 
-**OBSERVAÇÃO:** Os campos t55 e t56 são exclusivos para o estado do Maranhão.\
+**OBSERVAÇÃO:** Os campos t55 e t56 são exclusivos para o estado do Maranhão.
+
+[<mark style="color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO_REMESSA_XML.zip?raw=true)\
 \
 **REGISTRO DE TRAILLER – ARQUIVO REMESSA (Tag tl)**
 
