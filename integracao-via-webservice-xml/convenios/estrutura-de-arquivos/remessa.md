@@ -2,7 +2,7 @@
 
 O conteúdo do arquivo foi desenvolvido com base no [<mark style="color:green;">**Layout FEBRABAN**</mark>](../../../apresentante/layout-febraban/). O arquivo pode conter mais de uma **remessa**, agrupadas uma abaixo da outra, desde que esteja em conformidade com o padrão.
 
-[<mark style="color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO\_REMESSA\_XML.zip?raw=true)
+[<mark style="color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO_REMESSA_XML.zip?raw=true)
 
 **REGISTRO HEADER – ARQUIVO REMESSA (Tag hd)**
 
@@ -82,7 +82,11 @@ O conteúdo do arquivo foi desenvolvido com base no [<mark style="color:green;">
 | t50          | <p>Valor das demais despesas<br>Uso restrito dos cartórios – Preencher com zeros</p>                                                                                                                                                                                                                                                                                                                                                                               | 010     | Numérico     | 2                  |
 | t51          | Imagens dos documentos **zipados e convertidos em base64 (**<mark style="color:red;">**Não inserir em co-devedores**</mark>**)**                                                                                                                                                                                                                                                                                                                                   |         |              |                    |
 | t52          | Sequencial do registro                                                                                                                                                                                                                                                                                                                                                                                                                                             | 004     |              | Numérico           |
+| **t55**      | _Linha digitável_                                                                                                                                                                                                                                                                                                                                                                                                                                                  |         | Numérico     |                    |
+| **t56**      | _Código de barras no padrão FEBRABAN_                                                                                                                                                                                                                                                                                                                                                                                                                              |         | Numérico     |                    |
 
+**OBSERVAÇÃO:** Os campos t55 e t56 são exclusivos para o estado do Maranhão.\
+\
 **REGISTRO DE TRAILLER – ARQUIVO REMESSA (Tag tl)**
 
 | **Atributo** | **Descrição**                                                                       | **Tam** | **Tipo**     | **Casas Decimais** |
