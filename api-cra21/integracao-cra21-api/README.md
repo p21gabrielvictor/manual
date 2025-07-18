@@ -115,9 +115,9 @@ _<mark style="color:red;">**ATENÇÃO**</mark><mark style="color:red;">: Substit
 | /url/titulo-especie        | Quantidade de títulos por espécie       | GET    |
 | /url/titulo-ocorrencia     | Quantidade de títulos por ocorrência 2º | GET    |
 
-\
-\
-Permissões apresentante
+
+
+#### Permissões apresentante
 
 | Serviço                    | Descrição                               | Método |
 | -------------------------- | --------------------------------------- | ------ |
