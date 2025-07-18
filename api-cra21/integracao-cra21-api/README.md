@@ -57,8 +57,6 @@ _<mark style="color:red;">**ATENÇÃO**</mark><mark style="color:red;">: Substit
 
 #### Permissões cartório
 
-
-
 | Serviço                      | Descrição                                                  | Método |
 | ---------------------------- | ---------------------------------------------------------- | ------ |
 | /url/apresentante            | Consulta de apresentantes com títulos no período informado | GET    |
@@ -80,7 +78,7 @@ _<mark style="color:red;">**ATENÇÃO**</mark><mark style="color:red;">: Substit
 
 
 
-Permissões distribuidor
+#### Permissões Distribuidor
 
 | Serviço                    | Descrição                                                  | Método |
 | -------------------------- | ---------------------------------------------------------- | ------ |
@@ -101,7 +99,7 @@ Permissões distribuidor
 
 
 
-Permissões convênio&#x20;
+#### Permissões convênio
 
 | Serviço                    | Descrição                               | Método |
 | -------------------------- | --------------------------------------- | ------ |
@@ -117,7 +115,9 @@ Permissões convênio&#x20;
 | /url/titulo-especie        | Quantidade de títulos por espécie       | GET    |
 | /url/titulo-ocorrencia     | Quantidade de títulos por ocorrência 2º | GET    |
 
-Permissão apresentante
+\
+\
+Permissões apresentante
 
 | Serviço                    | Descrição                               | Método |
 | -------------------------- | --------------------------------------- | ------ |
