@@ -234,7 +234,10 @@ Esse modo de mensagem é ativado por parâmetro interno do sistema devido ao imp
 ```xml
 <!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
 <consulta>
-    <data_consulta>30/09/2016</data_consulta>
+    <data_consulta>09-12-2025</data_consulta>
+    <nosso_numero>99999999999999</nosso_numero>
+    <numero_titulo>99999999999</numero_titulo>
+    <ocorrencia>Título não encontrado</ocorrencia>
 </consulta>
 ```
 
