@@ -1,5 +1,9 @@
 # Envio de Autorização de Desistência
 
+{% hint style="warning" %}
+Atenção: Este manual será desativado em breve e substituído por uma versão mais atualizada. Acesse a nossa nova documentação clicando aqui: [https://manual.p21website.com.br/](https://manual.p21website.com.br/%C2%A0)
+{% endhint %}
+
 O processo de envio de autorização de desistência tem como objetivo permitir ao apresentante autorizar ao cartório suspender o procedimento de protesto mediante o comparecimento do devedor no cartório. Isso ocorre quando o devedor pagou/negociou a dívida junto ao apresentante.
 
 Existem 02 opções para executar o processo de envio de autorização de desistência:

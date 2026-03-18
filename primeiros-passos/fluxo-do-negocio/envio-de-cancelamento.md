@@ -1,10 +1,14 @@
 # Envio de Cancelamento
 
+{% hint style="warning" %}
+Atenção: Este manual será desativado em breve e substituído por uma versão mais atualizada. Acesse a nossa nova documentação clicando aqui: [https://manual.p21website.com.br/](https://manual.p21website.com.br/%C2%A0)
+{% endhint %}
+
 O processo de envio de cancelamento tem como objetivo permitir ao apresentante solicitar ao cartório o cancelamento do título protestado quando este foi enviado indevidamente ou porque o devedor compareceu no apresentante e pagou/negociou a dívida.
 
 Existem 03 opções para executar o processo de envio de cancelamento:
 
-* [Por meio de arquivo XML](broken-reference)
+* [Por meio de arquivo XML](/broken/pages/w092xP29xrHpxFEroS4g)
 * [Por meio de arquivo TXT](http://manual.crabr.com.br/manual/?p=216)
 * Digitação manual – CRA
 

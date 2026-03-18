@@ -1,5 +1,9 @@
 # Envio de Desistência
 
+{% hint style="warning" %}
+Atenção: Este manual será desativado em breve e substituído por uma versão mais atualizada. Acesse a nossa nova documentação clicando aqui: [https://manual.p21website.com.br/](https://manual.p21website.com.br/%C2%A0)
+{% endhint %}
+
 O processo de envio de desistência tem como objetivo permitir ao apresentante solicitar ao cartório a desistência do título enviado a protesto, quando o título foi enviado indevidamente ou porque o devedor compareceu no apresentante e pagou/negociou a dívida.
 
 Existem 03 opções para executar o processo de envio de desistência:
