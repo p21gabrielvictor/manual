@@ -1,5 +1,9 @@
 # Envio de Confirmação
 
+{% hint style="warning" %}
+Atenção: Este manual será desativado em breve e substituído por uma versão mais atualizada. Acesse a nossa nova documentação clicando aqui: [https://manual.p21website.com.br/](https://manual.p21website.com.br/%C2%A0)
+{% endhint %}
+
 O processo de envio de confirmação tem como objetivo informar ao apresentante se o título foi aceito pelo cartório ou não.
 
 Para um título ser aceito pelo cartório, ele passa por uma análise prévia no cartório, onde são analisados alguns dados do título a fim de garantir que o cartório terá informações suficientes para fazer a intimação do devedor. Exemplo de dados analisados _(endereço do devedor, documento do devedor válido, data de emissão, vencimento do título)_. Uma vez atendido estes critérios básicos, o título será aceito pelo cartório, gerando assim um protocolo interno do cartório com data de apresentação. Caso o título não atenda os critérios básicos da análise do cartório, o título é devolvido pelo cartório sendo informado o motivo da devolução.
@@ -27,7 +31,7 @@ Após a CRA disponibilizar o arquivo de confirmação, o apresentante agora deve
 Existem 2 opções para executar o processo de coleta de confirmação:
 
 * _Por meio de arquivo XML_
-* [_<mark style="color:green;">Por meio de arquivo TXT</mark>_](http://manual.crabr.com.br/manual/?p=236)<mark style="color:green;"></mark>
+* [_<mark style="color:green;">Por meio de arquivo TXT</mark>_](http://manual.crabr.com.br/manual/?p=236)
 
 O apresentante deverá definir qual opção irá utilizar e implementar seguindo as orientações detalhadas de cada opção.
 
