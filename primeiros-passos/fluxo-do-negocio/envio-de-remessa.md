@@ -1,13 +1,17 @@
 # Envio de Remessa
 
+{% hint style="warning" %}
+Atenção: Este manual será desativado em breve e substituído por uma versão mais atualizada. Acesse a nossa nova documentação clicando aqui: [https://manual.p21website.com.br/ ](https://manual.p21website.com.br/%C2%A0)
+{% endhint %}
+
 O processo de envio de remessa tem como objetivo permitir o envio de títulos do apresentante para os cartórios por meio eletrônico.
 
 Existem 3 opções de executar o processo de envio de remessa:
 
-* [_<mark style="color:green;">Por meio de arquivo XML</mark>_](http://manual.crabr.com.br/manual/?p=618)<mark style="color:green;"></mark>
-* [_<mark style="color:green;">Por meio de arquivo TXT</mark>_](http://manual.crabr.com.br/manual/?p=142)<mark style="color:green;"></mark>
-* [_<mark style="color:green;">Por meio de arquivo Excel</mark>_](http://manual.crabr.com.br/manual/?p=662)<mark style="color:green;"></mark>
-* [_<mark style="color:green;">Digitação manual – CRA</mark>_](http://manual.crabr.com.br/manual/?p=932)<mark style="color:green;"></mark>
+* [_<mark style="color:green;">Por meio de arquivo XML</mark>_](http://manual.crabr.com.br/manual/?p=618)
+* [_<mark style="color:green;">Por meio de arquivo TXT</mark>_](http://manual.crabr.com.br/manual/?p=142)
+* [_<mark style="color:green;">Por meio de arquivo Excel</mark>_](http://manual.crabr.com.br/manual/?p=662)
+* [_<mark style="color:green;">Digitação manual – CRA</mark>_](http://manual.crabr.com.br/manual/?p=932)
 
 O apresentante deverá definir qual opção irá utilizar e implementar seguindo as orientações detalhadas de cada opção.
 
@@ -25,4 +29,4 @@ Após fazer o envio da remessa, o apresentante deverá aguardar o recebimento do
 
 {% embed url="https://docs.google.com/presentation/d/1NW4Z-9IlEpH9orWHttHjH05TwV2Cm-FY/edit?ouid=113548925962906305703&rtpof=true&sd=true&usp=sharing" %}
 
-Para confirmar o envio ou ver o log de erro você pode ir em <mark style="color:green;"></mark> [<mark style="color:green;">Download e Upload</mark>](http://manual.crabr.com.br/manual/?p=222).
+Para confirmar o envio ou ver o log de erro você pode ir em [<mark style="color:green;">Download e Upload</mark>](http://manual.crabr.com.br/manual/?p=222).
