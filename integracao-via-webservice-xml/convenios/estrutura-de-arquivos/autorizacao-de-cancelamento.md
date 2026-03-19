@@ -1,5 +1,9 @@
 # Autorização de Cancelamento
 
+{% hint style="warning" %}
+Atenção: Este manual será desativado em breve e substituído por uma versão mais atualizada. Acesse a nossa nova documentação clicando aqui: [https://manual.p21website.com.br/ ](https://manual.p21website.com.br/%C2%A0)
+{% endhint %}
+
 [<mark style="color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO_DP-CP-AC-AD_XML.zip?raw=true)
 
 | **Descrição**                                                                                                                                                                                                                                                           | **Tamanho** | **Tipo**     | **Casas Decimais** | **Atributo**              |

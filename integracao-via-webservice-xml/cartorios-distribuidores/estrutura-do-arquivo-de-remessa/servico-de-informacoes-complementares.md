@@ -1,5 +1,9 @@
 # Serviço de Informações complementares
 
+{% hint style="warning" %}
+Atenção: Este manual será desativado em breve e substituído por uma versão mais atualizada. Acesse a nossa nova documentação clicando aqui: [https://manual.p21website.com.br/ ](https://manual.p21website.com.br/%C2%A0)
+{% endhint %}
+
 O objetivo desse serviço é viabilizar que informações complementares dos títulos sejam enviadas para a CRA. Nesse primeiro momento, o serviço receberá os dados do andamento do título no cartório e informações de emolumentos/custas cartorárias para eventuais consultas para retirada ou cancelamento.
 
 O serviço permitirá o recebimento das duas informações (andamento e custas) ou apenas uma delas.

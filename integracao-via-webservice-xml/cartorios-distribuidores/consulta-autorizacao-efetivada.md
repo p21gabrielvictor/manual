@@ -1,5 +1,9 @@
 # Consulta autorização efetivada
 
+{% hint style="warning" %}
+Atenção: Este manual será desativado em breve e substituído por uma versão mais atualizada. Acesse a nossa nova documentação clicando aqui: [https://manual.p21website.com.br/ ](https://manual.p21website.com.br/%C2%A0)
+{% endhint %}
+
 {% tabs %}
 {% tab title="Parâmetros de Envio" %}
 Serviço criado para possibilitar que o cartório realize consultas das autorizações efetivadas por data ou período.
@@ -10,12 +14,12 @@ Serviço criado para possibilitar que o cartório realize consultas das autoriza
 **Altere UF pela sigla do estado.**
 
 **Ambiente de Homologação:**\
-_https://cra**uf**.cra21.com.br/cra**uf**/xml/protestos\_cartorio.php?wsdl_
+&#xNAN;_&#x68;ttps://cra**uf**.cra21.com.br/cra**uf**/xml/protestos\_cartorio.php?wsdl_
 
 
 
 **Produção (ambiente de funcionamento do sistema):**\
-_https://cra**uf**.crabr.com.br/cra**uf**/xml/protestos\_cartorio.php?wsdl_
+&#xNAN;_&#x68;ttps://cra**uf**.crabr.com.br/cra**uf**/xml/protestos\_cartorio.php?wsdl_
 {% endhint %}
 
 

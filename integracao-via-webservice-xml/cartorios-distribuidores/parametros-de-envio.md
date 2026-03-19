@@ -1,5 +1,9 @@
 # Parâmetros de envio
 
+{% hint style="warning" %}
+Atenção: Este manual será desativado em breve e substituído por uma versão mais atualizada. Acesse a nossa nova documentação clicando aqui: [https://manual.p21website.com.br/ ](https://manual.p21website.com.br/%C2%A0)
+{% endhint %}
+
 * **Os dados (parâmetros) devem ser enviados via protocolo SOAP**
 
 Todos os arquivos enviados ou recebidos nos serviços devem estar em conformidade com o padrão FEBRABAN XML.

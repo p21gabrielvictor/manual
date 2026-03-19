@@ -1,5 +1,9 @@
 # Nomenclatura de arquivos
 
+{% hint style="warning" %}
+Atenção: Este manual será desativado em breve e substituído por uma versão mais atualizada. Acesse a nossa nova documentação clicando aqui: [https://manual.p21website.com.br/ ](https://manual.p21website.com.br/%C2%A0)
+{% endhint %}
+
 #### REMESSA
 
 * **BNNNDDMM.AAS, onde:**

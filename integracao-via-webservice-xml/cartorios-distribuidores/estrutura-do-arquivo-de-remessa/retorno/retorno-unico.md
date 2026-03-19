@@ -1,5 +1,9 @@
 # Retorno único
 
+{% hint style="warning" %}
+Atenção: Este manual será desativado em breve e substituído por uma versão mais atualizada. Acesse a nossa nova documentação clicando aqui: [https://manual.p21website.com.br/ ](https://manual.p21website.com.br/%C2%A0)
+{% endhint %}
+
 A CRA disponibiliza aos cartórios dois tipos de arquivo de retorno: um arquivo individual para cada apresentante ou um único arquivo contendo todos os apresentantes, podendo ser enviado em TXT, ou XML.
 
 Se o cartório optar pelo arquivo único, ele deve organizar os dados separando cada apresentante conforme os exemplos abaixo:
@@ -69,5 +73,5 @@ No envio XML o cartorio deve organizar os dados separando cada apresentante conf
 * **AA**: ano do retorno
 * **S**: sequencial do arquivo
 
-#### &#x20;
+#### <br>
 

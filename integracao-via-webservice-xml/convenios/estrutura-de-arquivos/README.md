@@ -2,6 +2,10 @@
 
 ***
 
+{% hint style="warning" %}
+Atenção: Este manual será desativado em breve e substituído por uma versão mais atualizada. Acesse a nossa nova documentação clicando aqui: [https://manual.p21website.com.br/ ](https://manual.p21website.com.br/%C2%A0)
+{% endhint %}
+
 **Serão retornados todos os arquivos de confirmação/retorno conforme a data informada no nome do arquivo.**
 
 Exemplo de retorno do arquivo XML de confirmação (Layout XML da Febraban):

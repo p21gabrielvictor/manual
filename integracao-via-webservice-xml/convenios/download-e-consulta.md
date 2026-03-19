@@ -1,5 +1,9 @@
 # Download e Consulta
 
+{% hint style="warning" %}
+Atenção: Este manual será desativado em breve e substituído por uma versão mais atualizada. Acesse a nossa nova documentação clicando aqui: [https://manual.p21website.com.br/ ](https://manual.p21website.com.br/%C2%A0)
+{% endhint %}
+
 **CONFIRMAÇÃO E RETORNO**
 
 * Informar somente o parâmetro “**user\_arq**”.
@@ -81,4 +85,4 @@ Informar o parâmetro “**userDados**" com a seguinte estrutura:\\
 
 Dessa forma, o apresentante poderá fazer a consulta de mais de um instrumento por município e cartório.
 
-[<mark style="color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/CONFIRMACAO\_RETORNO\_COMARCAS\_CONSULTA\_SLIP\_XML.zip?raw=true)
+[<mark style="color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/CONFIRMACAO_RETORNO_COMARCAS_CONSULTA_SLIP_XML.zip?raw=true)

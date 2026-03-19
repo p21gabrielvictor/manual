@@ -1,5 +1,9 @@
 # Cartórios/Distribuidores
 
+{% hint style="warning" %}
+Atenção: Este manual será desativado em breve e substituído por uma versão mais atualizada. Acesse a nossa nova documentação clicando aqui: [https://manual.p21website.com.br/ ](https://manual.p21website.com.br/%C2%A0)
+{% endhint %}
+
 [<mark style="color:green;">**Objetivo**</mark>](objetivo.md)\
 [<mark style="color:green;">**URL**</mark>](url.md)\
 [<mark style="color:green;">**Parâmetros de envio**</mark>](parametros-de-envio.md)\

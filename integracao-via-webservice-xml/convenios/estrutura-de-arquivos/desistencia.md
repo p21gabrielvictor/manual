@@ -1,6 +1,10 @@
 # Desistência
 
-[<mark style="color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO\_DP-CP-AC-AD\_XML.zip?raw=true)
+{% hint style="warning" %}
+Atenção: Este manual será desativado em breve e substituído por uma versão mais atualizada. Acesse a nossa nova documentação clicando aqui: [https://manual.p21website.com.br/ ](https://manual.p21website.com.br/%C2%A0)
+{% endhint %}
+
+[<mark style="color:green;">**`DOWNLOAD DO ARQUIVO EXEMPLO`**</mark>](https://github.com/p21sistemas/manual-cra-21/blob/main/EXEMPLO_DP-CP-AC-AD_XML.zip?raw=true)
 
 | **Descrição**                                                                                                                                                                                                                                                           | **Tamanho** | **Tipo**     | **Casas Decimais** | **Atributo**         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------ | ------------------ | -------------------- |
@@ -13,3 +17,4 @@
 | Nome do Devedor                                                                                                                                                                                                                                                         | 045         | Alfanumérico |                    | < nome\_devedor>     |
 | Valor do Título                                                                                                                                                                                                                                                         | 014         | Numérico     | 2                  | < valor\_titulo>     |
 | <p>Imagem:</p><ul><li>Para <strong>solicitação</strong> de Desistência ou Cancelamento: Imagens dos documentos zipados e convertidos em base64.</li><li>Para <strong>autorização</strong> de Desistência ou Cancelamento: Imagem em PDF convertido em base64.</li></ul> |             |              |                    | < imagem>            |
+

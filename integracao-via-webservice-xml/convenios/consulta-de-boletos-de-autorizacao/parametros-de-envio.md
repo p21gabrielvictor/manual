@@ -2,6 +2,10 @@
 
 
 
+{% hint style="warning" %}
+Atenção: Este manual será desativado em breve e substituído por uma versão mais atualizada. Acesse a nossa nova documentação clicando aqui: [https://manual.p21website.com.br/ ](https://manual.p21website.com.br/%C2%A0)
+{% endhint %}
+
 **Os dados (parâmetros) devem ser enviados via protocolo SOAP**
 
 **Ao consumir o WebService, em todos os serviços, a autenticação deverá ser realizada utilizando autenticação básica.**
@@ -16,8 +20,7 @@
 
 **Parâmetros dos serviços disponíveis:**
 
-*   Download\
-
+*   Download<br>
 
     | **numeroTitulo**     | número do título     |
     | -------------------- | -------------------- |
